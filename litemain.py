@@ -158,18 +158,18 @@ def append_to_whitelist(file, line):
 
 def remove_duplicates(file):
     logging.info(f"去重文件: {file}")
-    with open(file, 'r', encoding='utf-8') as f):
+    with open(file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
     unique_lines = list(OrderedDict.fromkeys(lines))
-    with open(file, 'w', encoding='utf-8') as f):
+    with open(file, 'w', encoding='utf-8') as f:
         f.writelines(unique_lines)
 
 def remove_empty_lines(file):
     logging.info(f"删除空行: {file}")
-    with open(file, 'r', encoding='utf-8') as f):
+    with open(file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
     non_empty_lines = [line for line in lines if line.strip()]
-    with open(file, 'w', encoding='utf-8') as f):
+    with open(file, 'w', encoding='utf-8') as f:
         f.writelines(non_empty_lines)
 
 def check_urls(urls):
