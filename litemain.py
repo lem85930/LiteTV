@@ -3,6 +3,7 @@ import requests
 import logging
 from collections import OrderedDict
 from datetime import datetime
+from urllib.parse import urlparse
 import litecon
 import time
 
@@ -45,9 +46,22 @@ def parse_corrections(correction_file):
     logging.info(f"修正文件解析完成: {correction_file}")
     return corrections
 
+def is_valid_url(url):
+    """验证URL格式是否合法。"""
+    try:
+        result = urlparse(url)
+        return all([result.scheme, result.netloc])
+    except Exception as e:
+        logging.error(f"Invalid URL detected: {url}, error: {e}")
+        return False
+
 def fetch_channels(url, corrections):
     logging.info(f"开始获取频道: {url}")
     channels = OrderedDict()
+
+    if not is_valid_url(url):
+        logging.warning(f"跳过非法 URL: {url}")
+        return channels
 
     try:
         response = requests.get(url, timeout=timeout)
