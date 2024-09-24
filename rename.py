@@ -19,7 +19,7 @@ def write_to_file(links, filename='live.m3u'):
             f.write(link + '\n')
 
 if __name__ == "__main__":
-    url = "https://raw.githubusercontent.com/lem85930/LiteTV/refs/heads/main/litelive.m3u"
+    url = "https://raw.githubusercontent.com/lem85930/LiteTV/main/litelive.m3u"
     links = fetch_links(url)
     cleaned_links = clean_links(links)
     write_to_file(cleaned_links)
