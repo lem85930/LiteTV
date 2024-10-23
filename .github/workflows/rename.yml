@@ -1,9 +1,8 @@
 name: RENAME M3U CONTENT
 
 on:
-  push:
-    paths:
-      - 'litelive.m3u'
+  schedule:
+    - cron: '45 22 * * *'
   workflow_dispatch:
 
 jobs:
