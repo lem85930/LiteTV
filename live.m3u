@@ -5,7 +5,7 @@ https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON3.png" group-title="🤠雷蒙影视直播",更新日期
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-#EXTINF:-1 tvg-id="1" tvg-name="2025-09-14" tvg-logo="https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON4.png" group-title="🤠雷蒙影视直播",2025-09-14
+#EXTINF:-1 tvg-id="1" tvg-name="2025-09-15" tvg-logo="https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON4.png" group-title="🤠雷蒙影视直播",2025-09-15
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="🇨🇳央视",CCTV1
 http://183.155.254.220:9999/rtp/233.50.201.118:5140
@@ -39,6 +39,8 @@ http://123.182.60.29:9002/hls/1/index.m3u8
 http://116.9.204.242:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="🇨🇳央视",CCTV1
 http://58.17.48.228:808/hls/1/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV1" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV1.png" group-title="🇨🇳央视",CCTV1
+http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2.png" group-title="🇨🇳央视",CCTV2
 http://183.155.254.220:9999/rtp/233.50.201.119:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2.png" group-title="🇨🇳央视",CCTV2
@@ -68,9 +70,9 @@ http://183.11.239.36:808/hls/20/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2.png" group-title="🇨🇳央视",CCTV2
 http://58.17.48.228:808/hls/2/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2.png" group-title="🇨🇳央视",CCTV2
-http://218.17.33.178:53290/tsfile/live/1002_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2.png" group-title="🇨🇳央视",CCTV2
 http://222.169.85.8:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2.png" group-title="🇨🇳央视",CCTV2
+https://migu.188766.xyz/?migutoken=1c8482cb13ea6805eeabdc678505c999&id=CCTV2&type=yy
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3.png" group-title="🇨🇳央视",CCTV3
 http://183.155.254.220:9999/rtp/233.50.201.196:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3.png" group-title="🇨🇳央视",CCTV3
@@ -84,11 +86,11 @@ http://www.freetv.top/migu/624878271.m3u8?migutoken=21306af96cf9259457600792df85
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3.png" group-title="🇨🇳央视",CCTV3
 http://z.b.bkpcp.top/m.php?id=cctv3
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3.png" group-title="🇨🇳央视",CCTV3
-http://home.yulei.online:9999/rtp/226.0.2.208:9576
+http://220.169.100.41:10087/udp/239.76.253.153:9000
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3.png" group-title="🇨🇳央视",CCTV3
 http://59.35.185.47:8188/udp/239.77.0.169:5146
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3.png" group-title="🇨🇳央视",CCTV3
-http://220.169.100.41:10087/udp/239.76.253.153:9000
+http://home.yulei.online:9999/rtp/226.0.2.208:9576
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3.png" group-title="🇨🇳央视",CCTV3
 http://106.53.99.30/tv/jzb.php?id=cctv3
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3.png" group-title="🇨🇳央视",CCTV3
@@ -105,6 +107,8 @@ http://58.17.48.228:808/hls/3/index.m3u8
 http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3.png" group-title="🇨🇳央视",CCTV3
 http://116.128.242.83:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV3" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV3.png" group-title="🇨🇳央视",CCTV3
+https://migu.188766.xyz/?migutoken=0bda11fdb38ad79c0624bc9667742531&id=CCTV3&type=yy
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
 http://183.155.254.220:9999/rtp/233.50.201.4:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
@@ -120,15 +124,15 @@ http://z.b.bkpcp.top/m.php?id=cctv4
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
 http://z.b.bkpcp.top/m.php?id=cctv4o
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
-http://220.169.100.41:10087/udp/239.76.246.95:1234
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
-http://59.35.185.47:8188/udp/239.77.1.163:5146
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
 http://61.149.251.202:4022/rtp/239.3.1.105:8092
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
+http://220.169.100.41:10087/udp/239.76.246.95:1234
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
 http://zqh2333.top:2222/rtp/239.93.25.105:5140
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
 http://home.yulei.online:9999/rtp/226.0.2.156:9160
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
+http://59.35.185.47:8188/udp/239.77.1.163:5146
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
 http://106.53.99.30/tv/jzb.php?id=cctv4
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
@@ -148,21 +152,9 @@ http://58.17.48.228:808/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
 http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="22" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
-https://www.freetv.top/migu/631780421.m3u8?migutoken=fefc6a44400a0dd448699ae0ce3d6e2c5a0f49b8d48adb36e747c4fbab039337eb3244f9951acbddaf26b7bf51597a7d1b43c8845e67fd5914ece875dcad325bb388200bc0f12fdff727d03e2d
+https://migu.188766.xyz/?migutoken=10b528fe218de9ba06cf4536a5ac0064&id=CCTV4&type=yy
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
-https://www.freetv.top/migu/631780421.m3u8?migutoken=9c479e166888f001e1fb4ab5502e734251c68075cd89836a715137a1a2a4b18b60e282b0f1a308d6641c282600bd8db3cef99cb15edd0ab61d81c4d76d154bb464e3a02a75b167298c4747ce6f
-#EXTINF:-1 tvg-id="24" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
-https://www.freetv.top/migu/631780421.m3u8?migutoken=8dc7b786c408976ee73b6ee5a0e7bf7de8ed82ed22f8668130fa8f17f943f9aeefa99d71320e4b5ac6c57c70025c65d2b4c31a9dfca1ebed552d0e3d722521423806670cc55bb626ba456b64fe
-#EXTINF:-1 tvg-id="25" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
-https://www.freetv.top/migu/608807416.m3u8?migutoken=cfc1141967eb2f06f62caa8f87ecd004f5096e3d9013d45f3fbc7597bc6f8a5b22a7b29ff3e195b179467f54bb94620de38658b7c53f55144109671005f6b03a062dd1fc884e2169dbcb902874
-#EXTINF:-1 tvg-id="26" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
-https://www.freetv.top/migu/608807419.m3u8?migutoken=e2fddc8b0c2fe505d1d8eada5b1f83dd20360ebfe0adcabfc7e64546305a240ee00c76ffab76b1d2091c9b93a868da387c465be6c1e7b46c66996127d6734102a426e7a3478c2fd972b071d5f2
-#EXTINF:-1 tvg-id="27" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
-https://www.freetv.top/migu/608807419.m3u8?migutoken=6a212f7bbb565d15fa1837af03bca5806c8d1522a2c9b34b1ed1c0f3cd23e6d7c4761bb6b35c9de97d923f603f557e6edb2ee11c80decc83bddea897b5c7ac59a7efea8e4796cbbfcf1b3fc93c
-#EXTINF:-1 tvg-id="28" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
-https://www.freetv.top/migu/608807416.m3u8?migutoken=85c9fb128ac91587cf67086436bd4af8631774375811d0d14ba7158ffb2f56b528e7e92a2da4c2f8bd757394265b58efcbccdce316306a1dae700620a73e52c2ab049d8bd223c049567a8c10bf
-#EXTINF:-1 tvg-id="29" tvg-name="CCTV4" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV4.png" group-title="🇨🇳央视",CCTV4
-https://www.freetv.top/migu/608807416.m3u8?migutoken=94d24df192f212e52d7c222dfab7df5ce4aad53db2766a6c4275a4c1e796cf13fb231906f792af9bc717ce1ccafa62165ebdc66b02fb0882cd5beac443921d36883a491d2b549a5509d63534e1
+https://migu.188766.xyz/?migutoken=af6f8b9e56896ab43f1786aeacf6b07d&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5.png" group-title="🇨🇳央视",CCTV5
 http://183.155.254.220:9999/rtp/233.50.201.197:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5.png" group-title="🇨🇳央视",CCTV5
@@ -178,9 +170,9 @@ http://z.b.bkpcp.top/m.php?id=cctv5
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5.png" group-title="🇨🇳央视",CCTV5
 http://61.149.251.202:4022/rtp/239.3.1.173:8001
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5.png" group-title="🇨🇳央视",CCTV5
-http://59.35.185.47:8188/udp/239.77.0.170:5146
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5.png" group-title="🇨🇳央视",CCTV5
 http://220.169.100.41:10087/udp/239.76.254.214:9000
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5.png" group-title="🇨🇳央视",CCTV5
+http://59.35.185.47:8188/udp/239.77.0.170:5146
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5.png" group-title="🇨🇳央视",CCTV5
 http://106.53.99.30/tv/jzb.php?id=cctv5
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5.png" group-title="🇨🇳央视",CCTV5
@@ -192,9 +184,11 @@ http://116.9.204.242:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5.png" group-title="🇨🇳央视",CCTV5
 http://58.17.48.228:808/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5.png" group-title="🇨🇳央视",CCTV5
-https://migu.188766.xyz/?migutoken=424e84ecf012416e9881ffd6d58290ba&id=CCTV5&type=yy
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5.png" group-title="🇨🇳央视",CCTV5
 http://221.2.148.205:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5.png" group-title="🇨🇳央视",CCTV5
+https://migu.188766.xyz/?migutoken=4e6513876d715dabf5547420dddaa1f2&id=CCTV5&type=yy
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV5" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5.png" group-title="🇨🇳央视",CCTV5
+http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="🇨🇳央视",CCTV5+
 http://183.155.254.220:9999/rtp/233.50.201.220:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="🇨🇳央视",CCTV5+
@@ -218,9 +212,11 @@ http://106.53.99.30/tv/jzb.php?id=cctv5plus
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="🇨🇳央视",CCTV5+
 http://8.138.7.223/tv/migu3.php?id=cctv5p
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="🇨🇳央视",CCTV5+
-https://migu.188766.xyz/?migutoken=22b257c7fa63ba5d4fac7d061b4868b9&id=CCTV5p&type=yy
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="🇨🇳央视",CCTV5+
 http://120.76.248.139/live/bfgd/4200000246.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="🇨🇳央视",CCTV5+
+https://migu.188766.xyz/?migutoken=7ee301798fa791a9b3127827daf3981e&id=CCTV5p&type=yy
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV5+" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV5+.png" group-title="🇨🇳央视",CCTV5+
+http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6.png" group-title="🇨🇳央视",CCTV6
 http://183.155.254.220:9999/rtp/233.50.201.198:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6.png" group-title="🇨🇳央视",CCTV6
@@ -250,11 +246,7 @@ http://183.11.239.36:808/hls/94/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6.png" group-title="🇨🇳央视",CCTV6
 http://58.17.48.228:808/hls/6/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6.png" group-title="🇨🇳央视",CCTV6
-https://migu.188766.xyz/?migutoken=6c512cf4ff3eb05960bf6ea8480ad38b&id=CCTV6&type=yy
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6.png" group-title="🇨🇳央视",CCTV6
-http://221.2.148.205:8154/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV6" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV6.png" group-title="🇨🇳央视",CCTV6
-http://61.156.228.12:8154/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+https://migu.188766.xyz/?migutoken=a7be17871976c4a9d07fb099152d64a6&id=CCTV6&type=yy
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV7" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV7.png" group-title="🇨🇳央视",CCTV7
 http://223.10.115.195:8082/udp/239.1.1.14:8014
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV7" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV7.png" group-title="🇨🇳央视",CCTV7
@@ -291,6 +283,8 @@ http://116.9.204.242:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.11.239.36:808/hls/25/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV7" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV7.png" group-title="🇨🇳央视",CCTV7
 http://58.17.48.228:808/hls/24/index.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV7" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV7.png" group-title="🇨🇳央视",CCTV7
+http://116.128.242.83:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
 http://183.155.254.220:9999/rtp/233.50.201.199:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
@@ -318,15 +312,13 @@ http://183.11.239.36:808/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
 http://58.17.48.228:808/hls/8/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
-http://218.17.33.178:53290/tsfile/live/1008_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
 https://migu.188766.xyz/?migutoken=1bcc321b57f90af7079df5ac7fbda6fe&id=CCTV8&type=yy
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
 http://221.2.148.205:8154/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
-http://61.156.228.12:8154/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
 http://112.27.235.94:8000/hls/9/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV8" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV8.png" group-title="🇨🇳央视",CCTV8
+https://migu.188766.xyz/?migutoken=af6f7d5c0e471da63f06c888c4175b62&id=CCTV8&type=yy
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV9" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV9.png" group-title="🇨🇳央视",CCTV9
 http://183.155.254.220:9999/rtp/233.50.201.121:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV9" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV9.png" group-title="🇨🇳央视",CCTV9
@@ -359,6 +351,10 @@ http://58.17.48.228:808/hls/16/index.m3u8
 http://120.76.248.139/live/bfgd/4200000128.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV9" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV9.png" group-title="🇨🇳央视",CCTV9
 https://migu.188766.xyz/?migutoken=566c78d8d05acbfe4f212ae702e2d4c6&id=CCTV9&type=yy
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV9" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV9.png" group-title="🇨🇳央视",CCTV9
+https://migu.188766.xyz/?migutoken=cc041cec6fbf5a42f793caed4b34769d&id=CCTV9&type=yy
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV9" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV9.png" group-title="🇨🇳央视",CCTV9
+http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV10" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV10.png" group-title="🇨🇳央视",CCTV10
 http://183.155.254.220:9999/rtp/233.50.201.122:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV10" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV10.png" group-title="🇨🇳央视",CCTV10
@@ -387,8 +383,6 @@ http://116.9.204.242:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.11.239.36:808/hls/28/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV10" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV10.png" group-title="🇨🇳央视",CCTV10
 http://58.17.48.228:808/hls/10/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV10" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV10.png" group-title="🇨🇳央视",CCTV10
-http://116.128.242.83:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV11" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV11.png" group-title="🇨🇳央视",CCTV11
 http://223.10.115.195:8082/udp/239.1.1.18:8018
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV11" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV11.png" group-title="🇨🇳央视",CCTV11
@@ -422,11 +416,11 @@ http://183.11.239.36:808/hls/29/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV11" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV11.png" group-title="🇨🇳央视",CCTV11
 http://58.17.48.228:808/hls/11/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV11" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV11.png" group-title="🇨🇳央视",CCTV11
-http://116.128.242.83:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV11" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV11.png" group-title="🇨🇳央视",CCTV11
 http://120.76.248.139/live/bfgd/4200000130.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="CCTV11" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV11.png" group-title="🇨🇳央视",CCTV11
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV11" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV11.png" group-title="🇨🇳央视",CCTV11
 https://migu.188766.xyz/?migutoken=80c1bdfa4a00f97df39c6bebbce61690&id=CCTV11&type=yy
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV11" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV11.png" group-title="🇨🇳央视",CCTV11
+https://migu.188766.xyz/?migutoken=8aeb0ba84c8f54dd74e2e64e13cbfc66&id=CCTV11&type=yy
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV12" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV12.png" group-title="🇨🇳央视",CCTV12
 http://183.155.254.220:9999/rtp/233.50.201.123:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV12" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV12.png" group-title="🇨🇳央视",CCTV12
@@ -459,6 +453,10 @@ http://183.11.239.36:808/hls/30/index.m3u8
 http://58.17.48.228:808/hls/12/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV12" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV12.png" group-title="🇨🇳央视",CCTV12
 http://120.76.248.139/live/bfgd/4200000131.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV12" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV12.png" group-title="🇨🇳央视",CCTV12
+https://migu.188766.xyz/?migutoken=3b9ed3d39a8f380f99de29fb490c6150&id=CCTV12&type=yy
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV12" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV12.png" group-title="🇨🇳央视",CCTV12
+http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV13" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV13.png" group-title="🇨🇳央视",CCTV13
 http://183.155.254.220:9999/rtp/233.50.201.246:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV13" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV13.png" group-title="🇨🇳央视",CCTV13
@@ -494,7 +492,7 @@ http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV13" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV13.png" group-title="🇨🇳央视",CCTV13
 http://112.27.235.94:8000/hls/14/index.m3u8
 #EXTINF:-1 tvg-id="18" tvg-name="CCTV13" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV13.png" group-title="🇨🇳央视",CCTV13
-https://migu.188766.xyz/?migutoken=b3c9cb57430c445778a99c517a1105a6&id=CCTV13&type=yy
+https://migu.188766.xyz/?migutoken=dc3c3ea5960ac7c0c9ae7bd8c3dd84e5&id=CCTV13&type=yy
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV14" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV14.png" group-title="🇨🇳央视",CCTV14
 http://183.155.254.220:9999/rtp/233.50.201.124:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV14" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV14.png" group-title="🇨🇳央视",CCTV14
@@ -528,7 +526,7 @@ https://event.pull.hebtv.com/jishi/cp2.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV14" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV14.png" group-title="🇨🇳央视",CCTV14
 http://112.27.235.94:8000/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV14" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV14.png" group-title="🇨🇳央视",CCTV14
-https://migu.188766.xyz/?migutoken=fd354dfab19cdf80963e56967aca7145&id=CCTV14&type=yy
+https://migu.188766.xyz/?migutoken=43cdf8a3aafa5d73a1b972b91ee48ba4&id=CCTV14&type=yy
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV15" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV15.png" group-title="🇨🇳央视",CCTV15
 http://223.10.115.195:8082/udp/239.1.1.22:8022
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV15" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV15.png" group-title="🇨🇳央视",CCTV15
@@ -562,11 +560,11 @@ http://183.11.239.36:808/hls/102/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV15.png" group-title="🇨🇳央视",CCTV15
 http://58.17.48.228:808/hls/15/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV15" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV15.png" group-title="🇨🇳央视",CCTV15
-https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4
-#EXTINF:-1 tvg-id="18" tvg-name="CCTV15" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV15.png" group-title="🇨🇳央视",CCTV15
 http://120.76.248.139/live/bfgd/4200000133.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="CCTV15" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV15.png" group-title="🇨🇳央视",CCTV15
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV15" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV15.png" group-title="🇨🇳央视",CCTV15
 https://migu.188766.xyz/?migutoken=a2117e4c051f9ac341e7728d2649b69b&id=CCTV15&type=yy
+#EXTINF:-1 tvg-id="19" tvg-name="CCTV15" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV15.png" group-title="🇨🇳央视",CCTV15
+https://migu.188766.xyz/?migutoken=068759f0c24f460d584c4a4b42ad23bb&id=CCTV15&type=yy
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV16" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16.png" group-title="🇨🇳央视",CCTV16
 http://183.155.254.220:9999/rtp/233.50.201.192:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV16" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16.png" group-title="🇨🇳央视",CCTV16
@@ -582,9 +580,9 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV16" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16.png" group-title="🇨🇳央视",CCTV16
 http://zqh2333.top:2222/rtp/239.93.55.54:5140
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV16" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16.png" group-title="🇨🇳央视",CCTV16
-http://home.yulei.online:9999/rtp/226.0.2.169:9264
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV16" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16.png" group-title="🇨🇳央视",CCTV16
 http://61.149.251.202:4022/rtp/239.3.1.184:8001
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV16" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16.png" group-title="🇨🇳央视",CCTV16
+http://home.yulei.online:9999/rtp/226.0.2.169:9264
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV16" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV16.png" group-title="🇨🇳央视",CCTV16
 http://183.11.239.36:808/hls/169/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17.png" group-title="🇨🇳央视",CCTV17
@@ -602,11 +600,11 @@ http://z.b.bkpcp.top/m.php?id=cctv17
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17.png" group-title="🇨🇳央视",CCTV17
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17.png" group-title="🇨🇳央视",CCTV17
-http://123.116.125.121:8012/rtp/239.3.1.151:8144
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17.png" group-title="🇨🇳央视",CCTV17
-http://61.149.251.202:4022/rtp/239.3.1.151:8144
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17.png" group-title="🇨🇳央视",CCTV17
 http://59.35.185.47:8188/udp/239.77.1.121:5146
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17.png" group-title="🇨🇳央视",CCTV17
+http://123.116.125.121:8012/rtp/239.3.1.151:8144
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17.png" group-title="🇨🇳央视",CCTV17
+http://61.149.251.202:4022/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17.png" group-title="🇨🇳央视",CCTV17
 http://106.53.99.30/tv/jzb.php?id=cctv17
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17.png" group-title="🇨🇳央视",CCTV17
@@ -617,6 +615,8 @@ http://183.11.239.36:808/hls/35/index.m3u8
 https://migu.188766.xyz/?migutoken=5bbf9cf7503c5a59d0aeae1d9b1adb85&id=CCTV17&type=yy
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17.png" group-title="🇨🇳央视",CCTV17
 http://120.76.248.139/live/bfgd/4200000204.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17.png" group-title="🇨🇳央视",CCTV17
+https://migu.188766.xyz/?migutoken=e67367ecd2b233b1760525c988180393&id=CCTV17&type=yy
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
 http://49.77.104.103:8554/udp/239.49.8.19:9614
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
@@ -1652,27 +1652,9 @@ http://8.138.7.223/tv/shtv.php?id=dfws
 #EXTINF:-1 tvg-id="28" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
 https://migu.188766.xyz/?migutoken=d86fb606c6abc73e33608959c2d63671&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-id="29" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-https://www.freetv.top/migu/651632648.m3u8?migutoken=67b4219a3e6acdcf288118ed6bf84d3197052966f0bc854079b6038b3fca6437744ca78bb0ea1fad6f61b4c73d0df57bd8b539ec247fd28ce16d1375716bbf774ea19c99e4585bb828fa3851c0
+https://migu.188766.xyz/?migutoken=6e3a1da55038ea778502b657ffa87247&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-id="30" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-https://www.freetv.top/migu/651632648.m3u8?migutoken=e765bb663396911e0fa027f64c4378a4811b733586444461515451642f01e401c61987a7256405e562f272d4a45cf003c8974fd47f47765203988df87102570687a04fcdd402aa62918f1cad2f
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-https://www.freetv.top/migu/651632648.m3u8?migutoken=c9a7a392335b6f990a4b233b6066770e1330aa6b6fed2a47f3985567ef8988af1b02bf0adfcc1243deb1fb6fb57ade7c90aa1550041f7c3dfe329e36daf55d57c902f86accec6e30f8ee9b773f
-#EXTINF:-1 tvg-id="32" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-https://www.freetv.top/migu/651632648.m3u8?migutoken=95759756a54e94e55327bb13b854f38b8804506300bc7b2dc6d7896518d1cb705d68a47d6e445836946d997e2a858592d4082bf57643ec7ac74aa8bdd99fb70b8ab534cb9b55a950291eb07c63
-#EXTINF:-1 tvg-id="33" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-https://www.freetv.top/migu/651632648.m3u8?migutoken=39d71e54ce845693dcf18d448e47f4bcb96160d6a4d5cdce70a4b176510154f11641d32ad88b38d8c436057539f8e2fa3ec0ea15c8300f4bac8fcf7959caa82d1c409b9fbb89340797a38c624e
-#EXTINF:-1 tvg-id="34" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-https://www.freetv.top/migu/651632648.m3u8?migutoken=09c24b255d931b105b2a0e0e73a2fce2a18eee043d7a80fc7edd3f45e8733a027c9a3344cf85daf80107cb437dc0f0309e092eddf78b6e8fad23169f7600e832abe4c34f59e2db45f1ef90144c
-#EXTINF:-1 tvg-id="35" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-https://www.freetv.top/migu/651632648.m3u8?migutoken=82404ece5a3e1172fe62375275fbec1972e5760ebab5a792834d63b128c6d25cdbb7e8922093aebaf6b4ff8a12f4970bb82639383bb1571a21e1e74fda3c763651392bb4b918419230e8b830e0
-#EXTINF:-1 tvg-id="36" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-https://www.freetv.top/migu/651632648.m3u8?migutoken=6c3ad966ab21a09d75cd7c650e98f47332acc033ff8b9ec4fd233dd140f355862447ef3a9137c0feed4b463f51efc8dd4d06420ea479ee57eec3b86d362afb0868f196cec548111db9f13e71ff
-#EXTINF:-1 tvg-id="37" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-https://www.freetv.top/migu/651632648.m3u8?migutoken=70f8eed447e228f3a56a4c95bfd1ef7936ab4f75e51e3265478e1262b62f33a7d7a4be2d80fd3585f29cd990ea0ee9d67f76f299229509e007f26ccd58641bc444d7baeccead6d0915dae8e089
-#EXTINF:-1 tvg-id="38" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-https://www.freetv.top/migu/651632648.m3u8?migutoken=1b29e441e8d640f9f4d3b7f1798bd6cd0036bcfcab7fb7353718a02767b7d7a91bd78405a1b2ae2b5a477e2b6964c8e1c10e40b15cf06fc2a353f8968e69c78ea27ea0e65ab6eaf17ed9e0b8bc
-#EXTINF:-1 tvg-id="39" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-https://www.freetv.top/migu/651632648.m3u8?migutoken=d403039fa45cf7d529b6d60f2013bb301f0c8307f8963a33f46435ff086b28e4099cb523a6a3363b17a4f74b52c83d12b497292d07e7233384e97ebf993f7c940ec7fe4f5f2190f2a21e419ac9
+http://116.128.242.83:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="📡卫视",北京卫视
 http://221.196.34.247:4022/udp/225.1.1.113:5002
 #EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="📡卫视",北京卫视
@@ -1727,6 +1709,8 @@ http://183.11.239.36:808/hls/41/index.m3u8
 http://58.17.48.228:808/hls/35/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="📡卫视",北京卫视
 http://8.138.7.223/tv/bj.php?id=0001
+#EXTINF:-1 tvg-id="28" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="📡卫视",北京卫视
+https://migu.188766.xyz/?migutoken=7346b345b6433cdf451ab667105ad1a7&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="📡卫视",江苏卫视
 http://221.196.34.247:4022/udp/225.1.1.126:5002
 #EXTINF:-1 tvg-id="2" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="📡卫视",江苏卫视
@@ -1784,10 +1768,8 @@ http://8.138.7.223/tv/dl/jstv.php?id=jsws
 #EXTINF:-1 tvg-id="28" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="📡卫视",江苏卫视
 https://tv.iill.top/migu/jsws
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="📡卫视",江苏卫视
-https://migu.188766.xyz/?migutoken=ad276bf263e258e6e6555df4578500c3&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 tvg-id="30" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="📡卫视",江苏卫视
 http://112.27.235.94:8000/hls/32/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="📡卫视",江苏卫视
+#EXTINF:-1 tvg-id="30" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="📡卫视",江苏卫视
 http://120.76.248.139/live/bfgd/4200000085.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="安徽卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/安徽卫视.png" group-title="📡卫视",安徽卫视
 http://221.196.34.247:4022/udp/225.1.1.127:5002
@@ -1841,6 +1823,8 @@ http://39.164.174.139:5000/nl.m3u8?id=AHWSHD
 http://183.11.239.36:808/hls/40/index.m3u8
 #EXTINF:-1 tvg-id="26" tvg-name="安徽卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/安徽卫视.png" group-title="📡卫视",安徽卫视
 http://58.17.48.228:808/hls/36/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="安徽卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/安徽卫视.png" group-title="📡卫视",安徽卫视
+http://116.128.242.83:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/重庆卫视.png" group-title="📡卫视",重庆卫视
 http://221.196.34.247:4022/udp/225.1.1.155:5002
 #EXTINF:-1 tvg-id="2" tvg-name="重庆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/重庆卫视.png" group-title="📡卫视",重庆卫视
@@ -1891,6 +1875,8 @@ http://39.164.174.139:5000/nl.m3u8?id=CQWS
 http://8.138.7.223/tv/migu3.php?id=cqws
 #EXTINF:-1 tvg-id="25" tvg-name="重庆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/重庆卫视.png" group-title="📡卫视",重庆卫视
 http://183.11.239.36:808/hls/53/index.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="重庆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/重庆卫视.png" group-title="📡卫视",重庆卫视
+http://116.128.242.83:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1" tvg-name="四川卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/四川卫视.png" group-title="📡卫视",四川卫视
 http://123.121.93.25:8686/rtp/239.3.1.29:8288
 #EXTINF:-1 tvg-id="2" tvg-name="四川卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/四川卫视.png" group-title="📡卫视",四川卫视
@@ -2106,9 +2092,9 @@ http://60.164.229.62:4040/udp/239.255.30.134:8231
 #EXTINF:-1 tvg-id="19" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="📡卫视",广东卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="20" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="📡卫视",广东卫视
-http://59.35.185.47:8188/udp/239.77.1.19:5146
-#EXTINF:-1 tvg-id="21" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="📡卫视",广东卫视
 http://59.35.185.47:8188/udp/239.77.1.152:5146
+#EXTINF:-1 tvg-id="21" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="📡卫视",广东卫视
+http://59.35.185.47:8188/udp/239.77.1.19:5146
 #EXTINF:-1 tvg-id="22" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="📡卫视",广东卫视
 http://106.53.99.30/tv/20250803.php?id=广东卫视
 #EXTINF:-1 tvg-id="23" tvg-name="广东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广东卫视.png" group-title="📡卫视",广东卫视
@@ -2193,8 +2179,6 @@ http://58.17.48.228:808/hls/44/index.m3u8
 http://kkk.888.3116598.xyz/api.php?n=liujiahui&id=fXXc21&tk=bknhp6JvJlqE
 #EXTINF:-1 tvg-id="28" tvg-name="广西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广西卫视.png" group-title="📡卫视",广西卫视
 http://221.2.148.205:8154/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="29" tvg-name="广西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/广西卫视.png" group-title="📡卫视",广西卫视
-http://123.130.84.106:8154/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="1" tvg-name="厦门卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/厦门卫视.png" group-title="📡卫视",厦门卫视
 http://123.121.93.25:8686/rtp/239.3.1.143:4120
 #EXTINF:-1 tvg-id="2" tvg-name="厦门卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/厦门卫视.png" group-title="📡卫视",厦门卫视
@@ -2657,6 +2641,8 @@ http://183.11.239.36:808/hls/10/index.m3u8
 http://58.17.48.228:808/hls/56/index.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="吉林卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/吉林卫视.png" group-title="📡卫视",吉林卫视
 https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="吉林卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/吉林卫视.png" group-title="📡卫视",吉林卫视
+https://migu.188766.xyz/?migutoken=5eb183f01baad3a5c391d1c252662c3e&id=jlws&type=sz
 #EXTINF:-1 tvg-id="1" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/内蒙古卫视.png" group-title="📡卫视",内蒙古卫视
 http://49.77.104.103:8554/udp/239.49.1.240:6000
 #EXTINF:-1 tvg-id="2" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/内蒙古卫视.png" group-title="📡卫视",内蒙古卫视
@@ -3277,6 +3263,10 @@ http://58.17.48.228:808/hls/62/index.m3u8
 http://120.76.248.139/live/bfgd/4200000124.m3u8
 #EXTINF:-1 tvg-id="22" tvg-name="兵团卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/兵团卫视.png" group-title="📡卫视",兵团卫视
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="兵团卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/兵团卫视.png" group-title="📡卫视",兵团卫视
+http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="兵团卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/兵团卫视.png" group-title="📡卫视",兵团卫视
+https://my5353.com/7Z1HP
 #EXTINF:-1 tvg-id="1" tvg-name="安多卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/安多卫视.png" group-title="📡卫视",安多卫视
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 #EXTINF:-1 tvg-id="2" tvg-name="安多卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/安多卫视.png" group-title="📡卫视",安多卫视
@@ -3370,12 +3360,8 @@ https://tv.iill.top/litv/4gtv-4gtv153
 #EXTINF:-1 tvg-id="1" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="🇹🇼台湾",东森超视
 https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-id="2" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="🇹🇼台湾",东森超视
-http://iptv.4666888.xyz/iptv.php?id=20208
-#EXTINF:-1 tvg-id="3" tvg-name="东森超视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森超视.png" group-title="🇹🇼台湾",东森超视
 https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-id="1" tvg-name="三立台湾台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/三立台湾台.png" group-title="🇹🇼台湾",三立台湾台
-http://iptv.4666888.xyz/iptv.php?id=20202
-#EXTINF:-1 tvg-id="2" tvg-name="三立台湾台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/三立台湾台.png" group-title="🇹🇼台湾",三立台湾台
 https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-id="1" tvg-name="三立戏剧台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/三立戏剧台.png" group-title="🇹🇼台湾",三立戏剧台
 http://61.221.215.25:8800/hls/41/index.m3u8
@@ -3608,9 +3594,9 @@ http://oopswx.serv00.net/fhws.php?id=cn
 #EXTINF:-1 tvg-id="12" tvg-name="凤凰卫视中文台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视中文台.png" group-title="🇭🇰香港",凤凰卫视中文台
 http://oopswx.serv00.net/fhxyh.php?from=web&id=fhzw
 #EXTINF:-1 tvg-id="13" tvg-name="凤凰卫视中文台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视中文台.png" group-title="🇭🇰香港",凤凰卫视中文台
-https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-#EXTINF:-1 tvg-id="14" tvg-name="凤凰卫视中文台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视中文台.png" group-title="🇭🇰香港",凤凰卫视中文台
 http://zqh2333.top:2222/rtp/239.93.24.9:2192
+#EXTINF:-1 tvg-id="14" tvg-name="凤凰卫视中文台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视中文台.png" group-title="🇭🇰香港",凤凰卫视中文台
+https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 #EXTINF:-1 tvg-id="15" tvg-name="凤凰卫视中文台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视中文台.png" group-title="🇭🇰香港",凤凰卫视中文台
 http://58.19.180.108:9981/stream/channelid/1749482778?profile=pass
 #EXTINF:-1 tvg-id="16" tvg-name="凤凰卫视中文台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视中文台.png" group-title="🇭🇰香港",凤凰卫视中文台
@@ -3654,17 +3640,17 @@ http://oopswx.serv00.net/fhws.php?id=info
 #EXTINF:-1 tvg-id="12" tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视资讯台.png" group-title="🇭🇰香港",凤凰卫视资讯台
 http://oopswx.serv00.net/fhxyh.php?from=web&id=fhzx
 #EXTINF:-1 tvg-id="13" tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视资讯台.png" group-title="🇭🇰香港",凤凰卫视资讯台
-https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视资讯台.png" group-title="🇭🇰香港",凤凰卫视资讯台
-http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
-#EXTINF:-1 tvg-id="15" tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视资讯台.png" group-title="🇭🇰香港",凤凰卫视资讯台
-http://zqh2333.top:2222/rtp/239.93.24.4:2191
-#EXTINF:-1 tvg-id="16" tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视资讯台.png" group-title="🇭🇰香港",凤凰卫视资讯台
 http://218.202.220.2:5000/nn_live.ts?id=FHZX
-#EXTINF:-1 tvg-id="17" tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视资讯台.png" group-title="🇭🇰香港",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="14" tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视资讯台.png" group-title="🇭🇰香港",凤凰卫视资讯台
 http://www.terrykang.cn:5678/sxg.php?id=test2_4000
-#EXTINF:-1 tvg-id="18" tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视资讯台.png" group-title="🇭🇰香港",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="15" tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视资讯台.png" group-title="🇭🇰香港",凤凰卫视资讯台
+http://58.19.180.108:9981/stream/channelid/708272803?profile=pass
+#EXTINF:-1 tvg-id="16" tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视资讯台.png" group-title="🇭🇰香港",凤凰卫视资讯台
 http://220.169.100.41:10087/udp/239.76.253.135:9000
+#EXTINF:-1 tvg-id="17" tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视资讯台.png" group-title="🇭🇰香港",凤凰卫视资讯台
+http://zqh2333.top:2222/rtp/239.93.24.4:2191
+#EXTINF:-1 tvg-id="18" tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视资讯台.png" group-title="🇭🇰香港",凤凰卫视资讯台
+https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 #EXTINF:-1 tvg-id="19" tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视资讯台.png" group-title="🇭🇰香港",凤凰卫视资讯台
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="凤凰卫视资讯台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视资讯台.png" group-title="🇭🇰香港",凤凰卫视资讯台
@@ -3690,9 +3676,9 @@ http://oopswx.serv00.net/fhws.php?id=hk
 #EXTINF:-1 tvg-id="5" tvg-name="凤凰卫视香港台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视香港台.png" group-title="🇭🇰香港",凤凰卫视香港台
 http://oopswx.serv00.net/fhxyh.php?from=web&id=fhhk
 #EXTINF:-1 tvg-id="6" tvg-name="凤凰卫视香港台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视香港台.png" group-title="🇭🇰香港",凤凰卫视香港台
-https://migu.188766.xyz/?migutoken=d2df4a28716c263064c5b08340b95e14&id=fhhk&pp=1
-#EXTINF:-1 tvg-id="7" tvg-name="凤凰卫视香港台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视香港台.png" group-title="🇭🇰香港",凤凰卫视香港台
 https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
+#EXTINF:-1 tvg-id="7" tvg-name="凤凰卫视香港台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视香港台.png" group-title="🇭🇰香港",凤凰卫视香港台
+https://migu.188766.xyz/?migutoken=d2df4a28716c263064c5b08340b95e14&id=fhhk&pp=1
 #EXTINF:-1 tvg-id="8" tvg-name="凤凰卫视香港台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视香港台.png" group-title="🇭🇰香港",凤凰卫视香港台
 http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="凤凰卫视香港台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/凤凰卫视香港台.png" group-title="🇭🇰香港",凤凰卫视香港台
