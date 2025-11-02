@@ -1,18 +1,12 @@
 ip_version_priority = "ipv4"
 
 source_urls = [
+    "https://iptv.catvod.com/tv.m3u", #ADDED BY LEM ON 02/11/2025 
+    "https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt", #ADDED BY LEM ON 02/11/2025    
     "https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt", #ADDED BY LEM ON 01/08/2024
-    "https://raw.githubusercontent.com/Guovin/TV/gd/result.txt",
     "https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt", #ADDED BY LEM ON 08/08/2024
-    "http://tv.850930.xyz/kdsb.m3u", #ADDED BY LEM ON 29/07/2024
-    "http://tv.850930.xyz/kdsb2.m3u", #ADDED BY LEM ON 31/07/2024
-    "http://tv.850930.xyz/kdsb.txt", #ADDED BY LEM ON 28/09/2024
     "http://tv.850930.xyz/gather.m3u", #ADDED BY LEM ON 29/07/2024
-    "http://pixman.digimon.us.kg/4gtv.m3u", #ADDED BY LEM ON 18/10/2024
-    "http://aktv.top/live.m3u", #ADDED BY LEM ON 18/10/2024
-    "https://gitcode.net/ygbh66/test/-/raw/master/oh.txt", #ADDED BY LEM ON 10/09/2024
-    "https://raw.githubusercontent.com/wwb521/live/main/tv.m3u", #ADDED BY LEM ON 28/09/2024
-    "https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8" #ADDED BY LEM ON 08/09/2024  
+    "https://raw.githubusercontent.com/wwb521/live/main/tv.m3u" #ADDED BY LEM ON 28/09/2024
 ]
 
 url_blacklist = [
