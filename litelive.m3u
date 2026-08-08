@@ -5,7 +5,7 @@ https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CTVThemeSong2.mp4
 #EXTINF:-1 tvg-id="1" tvg-name="更新日期" tvg-logo="https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON3.png" group-title="🤠雷蒙影视直播",更新日期
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV1.mkv
-#EXTINF:-1 tvg-id="1" tvg-name="2026-08-08" tvg-logo="https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON4.png" group-title="🤠雷蒙影视直播",2026-08-08
+#EXTINF:-1 tvg-id="1" tvg-name="2026-08-09" tvg-logo="https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/ICON4.png" group-title="🤠雷蒙影视直播",2026-08-09
 https://cors.isteed.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/W/CRIMETVPV2.mkv
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV2" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV2.png" group-title="🇨🇳央视",CCTV2
 http://112.27.235.94:8000/hls/2/index.m3u8$雷蒙影视•IPV4
@@ -48,63 +48,31 @@ http://39.152.103.17:8089/tsfile/live/1015_1.m3u8$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV17" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV17.png" group-title="🇨🇳央视",CCTV17
 http://120.76.248.139/live/bfgd/4200000204.m3u8$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=33e69032d0a8be4274e2c91f4fec2922&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260808062707&Channel_ID=0116_2600034600-99000-201600010046393&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=153.36.152.248&SecurityKey=20260808062707&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=91c376e6125dcd032f9804a74661f12e&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6b85704fc97442b50bf89357d93f84db$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=33e69032d0a8be4274e2c91f4fec2922&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260808062458&Channel_ID=0116_2600034600-99000-201600010078146&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=116.147.41.227&SecurityKey=20260808062458&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=bf2f0a369c7af51e593a75dac76eb8c6&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=166d1c7251bf3fb63d1d953730bafb3c$雷蒙影视•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV-1综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-1综合.png" group-title="🇨🇳央视",CCTV-1综合
-http://play.kankanlive.com/live/1698234869325962.m3u8$雷蒙影视•IPV4『线路3』
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-2财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-2财经.png" group-title="🇨🇳央视",CCTV-2财经
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/1500/01.m3u8?msisdn=004c3c64cdd8cda35e438c5a33092474&mdspid=&spid=699004&netType=0&sid=5500346945&pid=2028597139&timestamp=20260808060733&Channel_ID=0116_2600034600-99000-201600010024540&ProgramID=631780532&ParentNodeID=-99&assertID=5500346945&client_ip=36.155.23.201&SecurityKey=20260808060733&promotionId=&mvid=5101064231&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=671298fe7c02aa842e9e17d7fb252503&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=1022696b44a7418fdce32d6eb3aa079c$雷蒙影视•IPV4
+http://play.kankanlive.com/live/1698234869325962.m3u8$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-3综艺" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-3综艺.png" group-title="🇨🇳央视",CCTV-3综艺
 https://tv.iill.top/migu/cctv3$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-4中文国际" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-4中文国际.png" group-title="🇨🇳央视",CCTV-4中文国际
 https://tv.iill.top/migu/cctv4$雷蒙影视•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-5体育" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-5体育.png" group-title="🇨🇳央视",CCTV-5体育
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/01.m3u8?msisdn=d85e4ee4dab08d7f3cd11c12af8216d0&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260808061823&Channel_ID=0116_2600034600-99000-201600010069534&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=223.111.183.41&SecurityKey=20260808061823&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=0cdb09e7be99ef339bd646f6b1acc207&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ef986b23eb981708f60b3ed0d1f77749$雷蒙影视•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-5+体育赛事" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-5+体育赛事.png" group-title="🇨🇳央视",CCTV-5+体育赛事
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/1200/01.m3u8?msisdn=d85e4ee4dab08d7f3cd11c12af8216d0&mdspid=&spid=699004&netType=0&sid=5500516288&pid=2028597139&timestamp=20260808061853&Channel_ID=0116_2600034600-99000-201600010056784&ProgramID=641886773&ParentNodeID=-99&assertID=5500516288&client_ip=223.111.183.35&SecurityKey=20260808061853&promotionId=&mvid=5102048803&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=b71f8112fe06308703ce6430be5e95a5&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=971660d2d448c3328c4e40eb57b54361$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-6电影" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-6电影.png" group-title="🇨🇳央视",CCTV-6电影
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv6hd/2000/01.m3u8?msisdn=d85e4ee4dab08d7f3cd11c12af8216d0&mdspid=&spid=699004&netType=0&sid=5500212872&pid=2028597139&timestamp=20260808061721&Channel_ID=0116_2600034600-99000-201600010039365&ProgramID=624878396&ParentNodeID=-99&assertID=5500212872&client_ip=223.111.183.40&SecurityKey=20260808061721&promotionId=&mvid=5100001694&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=522b35389da5cb5d1e3a7249468c7fc5&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4da6a90ed33d355aecb7add53bbff74d$雷蒙影视•IPV4
+http://txycdn1.video.qq.com/1755771402.m3u8?time=1786157841&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIPjTq9_PzXItQu89ukTvNJWUEvmQb271FUc880_oZioZEJy6YTCteaodTn6iz7oRARYBcPTVkaqw1z7zBaLiLwGZYqhdOavG_IbxEYE6M7gxnWY6UKXXfwLfCY4Gg9YYv2lbOAA_u1E3TOAN-648Jv6gM5I9GiTC6G2fFtx1ck2zl16Wy9fVw_YBeZSS6Q4xo8AisDPZMdPB8a2OlC86P8mbLW4-aCk1P0a4TTCepqVgNy15jrIdo6ObfsDBkygfsLxIvGQw42Qht2mjUAqO6PIinGg2lYhdkBOWCT1n0Bvlm2eJU-cDz6uVdLlIzMIOZrf7aKAnDCeRdp8OYcboDQdw12uxv0Y0bzMyxGPAL22YBbcGcmyChJ4X7YzmawW4BMUUFlm7ve7VkyVDjaT_6GM8c19XP_wYA9J_boYmFelP5im1h8-0EmT5iYqZH9Kjn36eQlYta-gVb1ToBTNYF2WAZb4lfTe1VijvSH-DLwVs9rtKDslAvQJmpzdMRKSA48zriNB6cO0sTcnL92Ha_s6eumQJ7cFP2fRxCkKRSBq3jGJo&drmtype=0$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-7国防军事" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-7国防军事.png" group-title="🇨🇳央视",CCTV-7国防军事
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/51/01.m3u8?msisdn=d85e4ee4dab08d7f3cd11c12af8216d0&mdspid=&spid=699004&netType=0&sid=5501083622&pid=2028597139&timestamp=20260808061620&Channel_ID=0116_2600034600-99000-201600010028324&ProgramID=673168121&ParentNodeID=-99&assertID=5501083622&client_ip=223.111.183.60&SecurityKey=20260808061620&promotionId=&mvid=5102910278&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=09febb9d0e2e0d58d47406f869481626&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8f9728bac5974e77be1c109c4b650aa6$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-7国防军事" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-7国防军事.png" group-title="🇨🇳央视",CCTV-7国防军事
-https://tv.iill.top/migu/cctv7$雷蒙影视•IPV4『线路2』
+https://tv.iill.top/migu/cctv7$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-8电视剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-8电视剧.png" group-title="🇨🇳央视",CCTV-8电视剧
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv8hd/2000/01.m3u8?msisdn=d85e4ee4dab08d7f3cd11c12af8216d0&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20260808061550&Channel_ID=0116_2600034600-99000-201600010064521&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=223.111.183.60&SecurityKey=20260808061550&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=ee00ebead8f6cb9f8f0facc81159bcd1&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=275217f3f072c229bca5965183527e61$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-8电视剧" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-8电视剧.png" group-title="🇨🇳央视",CCTV-8电视剧
-https://tv.iill.top/migu/cctv8$雷蒙影视•IPV4『线路2』
+https://tv.iill.top/migu/cctv8$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-9纪录" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-9纪录.png" group-title="🇨🇳央视",CCTV-9纪录
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/51/01.m3u8?msisdn=d85e4ee4dab08d7f3cd11c12af8216d0&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20260808061448&Channel_ID=0116_2600034600-99000-201600010030053&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=116.147.2.185&SecurityKey=20260808061448&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=8d815413f56add3b90f5b72adecab90b&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=466bea7149a8d2cb856cfd12b12d3c38$雷蒙影视•IPV4『线路1』
+http://play.kankanlive.com/live/1698423397390920.m3u8$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV-9纪录" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-9纪录.png" group-title="🇨🇳央视",CCTV-9纪录
-http://play.kankanlive.com/live/1698423397390920.m3u8$雷蒙影视•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV-9纪录" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-9纪录.png" group-title="🇨🇳央视",CCTV-9纪录
-https://tv.iill.top/migu/cctv9$雷蒙影视•IPV4『线路3』
+https://tv.iill.top/migu/cctv9$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv10hd/2000/01.m3u8?msisdn=d85e4ee4dab08d7f3cd11c12af8216d0&mdspid=&spid=699004&netType=0&sid=5500212874&pid=2028597139&timestamp=20260808061417&Channel_ID=0116_2600034600-99000-201600010028517&ProgramID=624878405&ParentNodeID=-99&assertID=5500212874&client_ip=116.147.2.185&SecurityKey=20260808061417&promotionId=&mvid=5100001696&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=b4d7b0981cf3d4d06875fc97d8c08825&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d80b1ab648055ed7d210f633ccbb65cb$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-10科教" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-10科教.png" group-title="🇨🇳央视",CCTV-10科教
-https://tv.iill.top/migu/cctv10$雷蒙影视•IPV4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-11戏曲" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-11戏曲.png" group-title="🇨🇳央视",CCTV-11戏曲
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/51/20200103/01.m3u8?msisdn=d85e4ee4dab08d7f3cd11c12af8216d0&mdspid=&spid=699004&netType=0&sid=5500988610&pid=2028597139&timestamp=20260808061346&Channel_ID=0116_2600034600-99000-201600010093646&ProgramID=667987558&ParentNodeID=-99&assertID=5500988610&client_ip=36.155.23.222&SecurityKey=20260808061346&promotionId=&mvid=5102751362&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=023c95fb2ef2176008c37fe2a8a4e45e&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=438470e7c0dc4f502bd02db5356cc6bf$雷蒙影视•IPV4
+https://tv.iill.top/migu/cctv10$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-12社会与法" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-12社会与法.png" group-title="🇨🇳央视",CCTV-12社会与法
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/51/01.m3u8?msisdn=d85e4ee4dab08d7f3cd11c12af8216d0&mdspid=&spid=699004&netType=0&sid=5501083627&pid=2028597139&timestamp=20260808061315&Channel_ID=0116_2600034600-99000-201600010027926&ProgramID=673168185&ParentNodeID=-99&assertID=5501083627&client_ip=36.155.23.222&SecurityKey=20260808061315&promotionId=&mvid=5102910389&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=b54eea0650de09ac1a111837ec3d5465&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0e5131809864c520dd28450811b077d2$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-12社会与法" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-12社会与法.png" group-title="🇨🇳央视",CCTV-12社会与法
-https://tv.iill.top/migu/cctv12$雷蒙影视•IPV4『线路2』
+https://tv.iill.top/migu/cctv12$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-http://hlszymgsplive.miguvideo.com:8080/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=004c3c64cdd8cda35e438c5a33092474&mdspid=&spid=699004&netType=0&sid=2202208864&pid=2028597139&timestamp=20260808060904&Channel_ID=0116_2600034600-99000-201600010042428&ProgramID=608807423&ParentNodeID=-99&assertID=2202208864&client_ip=36.155.23.202&SecurityKey=20260808060904&promotionId=&mvid=2202208864&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=432f160f424caeb2edd41575d5508224&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b8aed66f7912257c76234e17d9b2f3d8$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-13新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-13新闻.png" group-title="🇨🇳央视",CCTV-13新闻
-https://tv.iill.top/migu/cctv13$雷蒙影视•IPV4『线路2』
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-14少儿" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-14少儿.png" group-title="🇨🇳央视",CCTV-14少儿
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/cctv14hd/2000/01.m3u8?msisdn=004c3c64cdd8cda35e438c5a33092474&mdspid=&spid=699004&netType=0&sid=5500212875&pid=2028597139&timestamp=20260808061006&Channel_ID=0116_2600034600-99000-201600010098673&ProgramID=624878440&ParentNodeID=-99&assertID=5500212875&client_ip=36.155.23.203&SecurityKey=20260808061006&promotionId=&mvid=5100001697&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=4bcd495cd709ff8e95a914181201b69a&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=51f598002f6c9136f158ff5aea6c06e8$雷蒙影视•IPV4
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-15音乐" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-15音乐.png" group-title="🇨🇳央视",CCTV-15音乐
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/51/01.m3u8?msisdn=004c3c64cdd8cda35e438c5a33092474&mdspid=&spid=699004&netType=0&sid=5501083628&pid=2028597139&timestamp=20260808060935&Channel_ID=0116_2600034600-99000-201600010029383&ProgramID=673168223&ParentNodeID=-99&assertID=5501083628&client_ip=36.155.23.203&SecurityKey=20260808060935&promotionId=&mvid=5102910391&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=7d581ca6792724595ed0abd1ec2e37d2&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8456d72733c8b84ee494eeafe061ebb1$雷蒙影视•IPV4
+https://tv.iill.top/migu/cctv13$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-16奥林匹克" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-16奥林匹克.png" group-title="🇨🇳央视",CCTV-16奥林匹克
 http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV-17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-17农业农村.png" group-title="🇨🇳央视",CCTV-17农业农村
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/51/01.m3u8?msisdn=d85e4ee4dab08d7f3cd11c12af8216d0&mdspid=&spid=699004&netType=0&sid=5501083631&pid=2028597139&timestamp=20260808061245&Channel_ID=0116_2600034600-99000-201600010011895&ProgramID=673168256&ParentNodeID=-99&assertID=5501083631&client_ip=36.155.23.206&SecurityKey=20260808061245&promotionId=&mvid=5102910396&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=1600504041376eb5e1288d868e3350dd&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=97dc740d995e9ff22561ec5fb5eb3acb$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-17农业农村.png" group-title="🇨🇳央视",CCTV-17农业农村
-http://txycdn1.video.qq.com/1370437902.m3u8?time=1786082202&from=player&cdn=tcloud&sdtfrom=v401010931632&platform=4010603&butype=31&HLSP2P=1&vkey=nvkey_AQQgIJounSgAkGZAD1WHXpdB9yZkRIPttO-qreKRgaQQxnDMEBJnLEj6ieb8Rk0HJhcS_6gBcPW1y-pEQ2nFM1ffXtGhvbeezqtKuO2T_YuGWM3Kv95iUz129n8Vgg0TpigBeRG9cAbYG2uqk7Z6vQT5tKOhk_BJNOCBK6r2O8zDEnsyufVdoxMBfNNt4-UL2IryEf25r4TP_awXgcg63sjgQBeUVCaV04vKMnN84FF3HBHTM6_L3UYoQ4MIjsALXOr8NHOUKFzzaxB2HU-AT-_7OzwNkf5YXu-_fwBpzhEfYowPxWtzEGPHjWBfdLgsU9WP4Yz2-ehetGzzid23GSpLsjczlVs-JmniiPLWhEXVEF8zwJ--TvXw_2uoDKnwGuVwSLeo-M56ZW348hlnOMDUqZAqQPMKHacxpNnoeAxQNUJUVm2Ri03Sl8YPZxG7KmYxV2p8gPdbnPxABpdLTHFxjRAxnhZQzHfXBsd_w-x6nJzzBeBQ9zlK-jO_t0t4mCvzeATVIj3X9lECtZ9moMHF8F91kXQd1CB8E1wjM7ovnSffK-i8&drmtype=0$雷蒙影视•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV-17农业农村" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/CCTV-17农业农村.png" group-title="🇨🇳央视",CCTV-17农业农村
-https://tv.iill.top/migu/cctv17$雷蒙影视•IPV4『线路3』
+https://tv.iill.top/migu/cctv17$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="📡卫视",湖南卫视
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="湖南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖南卫视.png" group-title="📡卫视",湖南卫视
@@ -136,23 +104,17 @@ http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$雷蒙影视•IP
 #EXTINF:-1 tvg-id="9" tvg-name="浙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/浙江卫视.png" group-title="📡卫视",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8$雷蒙影视•IPV4『线路9』
 #EXTINF:-1 tvg-id="1" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-http://hlszymgsplive.miguvideo.com:8080/wd_r4/dfl/dongfangwshd/1200/01.m3u8?msisdn=004c3c64cdd8cda35e438c5a33092474&mdspid=&spid=600697&netType=0&sid=5910022185&pid=2028597139&timestamp=20260808060702&Channel_ID=0116_2600034600-99000-201600010094855&ProgramID=651632648&ParentNodeID=-99&assertID=5910022185&client_ip=36.155.23.200&SecurityKey=20260808060702&promotionId=&mvid=5100043384&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=a08145d417a204441aca1076fd4b2993&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=68a5935c39aceeab0a017a165bbdedd6$雷蒙影视•IPV4『线路1』
+http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-http://bp-resource-dfl.bestv.cn/155/3/video.m3u8$雷蒙影视•IPV4『线路2』
+http://183.215.134.239:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-http://183.215.134.239:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路3』
-#EXTINF:-1 tvg-id="4" tvg-name="东方卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东方卫视.png" group-title="📡卫视",东方卫视
-http://112.27.235.94:8000/hls/28/index.m3u8$雷蒙影视•IPV4『线路4』
+http://112.27.235.94:8000/hls/28/index.m3u8$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="📡卫视",北京卫视
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/bjws/51/20251127/01.m3u8?msisdn=004c3c64cdd8cda35e438c5a33092474&mdspid=&spid=600697&netType=0&sid=5910022306&pid=2028597139&timestamp=20260808060631&Channel_ID=0116_2600034600-99000-201600010051452&ProgramID=630287636&ParentNodeID=-99&assertID=5910022306&client_ip=36.155.23.199&SecurityKey=20260808060631&promotionId=&mvid=5101042960&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=dda18d76f15e1dd9f488ea780b9e4e9f&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a0ca34d7f9a45ed1583f959b08c83944$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="北京卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/北京卫视.png" group-title="📡卫视",北京卫视
-http://112.27.235.94:8000/hls/27/index.m3u8$雷蒙影视•IPV4『线路2』
+http://112.27.235.94:8000/hls/27/index.m3u8$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="📡卫视",江苏卫视
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/jiangsuhd/1200/01.m3u8?msisdn=004c3c64cdd8cda35e438c5a33092474&mdspid=&spid=699067&netType=0&sid=5500199408&pid=2028597139&timestamp=20260808060601&Channel_ID=0116_2600034600-99000-201600010094257&ProgramID=623899368&ParentNodeID=-99&assertID=5500199408&client_ip=36.155.23.199&SecurityKey=20260808060601&promotionId=&mvid=5100156802&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=7682c4ef3f1936a62c89dac81f30d0c7&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=cb49043b224dd69dc4ddc5bcfaba109e$雷蒙影视•IPV4『线路1』
+https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="📡卫视",江苏卫视
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/jswshd265/55/20200407/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="江苏卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江苏卫视.png" group-title="📡卫视",江苏卫视
-https://tv.iill.top/migu/jsws$雷蒙影视•IPV4『线路3』
+https://tv.iill.top/migu/jsws$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="重庆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/重庆卫视.png" group-title="📡卫视",重庆卫视
 http://38.75.136.137:98/gslb/dsdqpub/cqwshd.m3u8?auth=testpub$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="重庆卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/重庆卫视.png" group-title="📡卫视",重庆卫视
@@ -178,25 +140,17 @@ http://120.76.248.139/live/bfgd/4200000108.m3u8$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="河南卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/河南卫视.png" group-title="📡卫视",河南卫视
 http://1.94.31.214/php/hntv.php?id=hnws$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/黑龙江卫视.png" group-title="📡卫视",黑龙江卫视
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/nxjj/51/20251225/01.m3u8?msisdn=004c3c64cdd8cda35e438c5a33092474&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20260808060429&Channel_ID=0116_2600034600-99000-201600010087387&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=36.155.23.197&SecurityKey=20260808060429&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=382a0beb252409027e1785750845d783&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8d6579896842e6b24573b25d6913173e$雷蒙影视•IPV4『线路1』
+http://120.76.248.139/live/bfgd/4200000095.m3u8$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/黑龙江卫视.png" group-title="📡卫视",黑龙江卫视
-http://120.76.248.139/live/bfgd/4200000095.m3u8$雷蒙影视•IPV4『线路2』
-#EXTINF:-1 tvg-id="3" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/黑龙江卫视.png" group-title="📡卫视",黑龙江卫视
-http://112.27.235.94:8000/hls/48/index.m3u8$雷蒙影视•IPV4『线路3』
-#EXTINF:-1 tvg-id="1" tvg-name="湖北卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/湖北卫视.png" group-title="📡卫视",湖北卫视
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/hubeiwshd/2000/01.m3u8?msisdn=004c3c64cdd8cda35e438c5a33092474&mdspid=&spid=600633&netType=0&sid=5910022163&pid=2028597139&timestamp=20260808060530&Channel_ID=0116_2600034600-99000-201600010060446&ProgramID=947472496&ParentNodeID=-99&assertID=5910022163&client_ip=36.155.23.198&SecurityKey=20260808060530&promotionId=&mvid=5900004355&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=a55c20d06045460c735aa4193aa705a2&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a0c7d61eebcfda8f87960abe569d6164$雷蒙影视•IPV4
+http://112.27.235.94:8000/hls/48/index.m3u8$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="📡卫视",江西卫视
-http://hlszymgsplive.miguvideo.com:8080/migu/kailu/jxwshd/51/20190820/01.m3u8?msisdn=004c3c64cdd8cda35e438c5a33092474&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260808060500&Channel_ID=0116_2600034600-99000-201600010060692&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=36.155.23.198&SecurityKey=20260808060500&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=025b83c693dcd5f7684204e807f3f647&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9ee10cdab985a79506bcbc170ebbe128$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="江西卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/江西卫视.png" group-title="📡卫视",江西卫视
-http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路2』
+http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="1" tvg-name="吉林卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/吉林卫视.png" group-title="📡卫视",吉林卫视
 https://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/jilin/1000/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/内蒙古卫视.png" group-title="📡卫视",内蒙古卫视
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/辽宁卫视.png" group-title="📡卫视",辽宁卫视
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/2018/ocn/liaoningwshd/2000/01.m3u8?msisdn=004c3c64cdd8cda35e438c5a33092474&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260808060358&Channel_ID=0116_2600034600-99000-201600010053439&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=36.155.23.197&SecurityKey=20260808060358&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=ZQ-A1-9.8.0-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=ef7ebcbb79c2cb457ee235592f73d38a&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9c03ccb13834b814b4aa8e3580d250cf$雷蒙影视•IPV4『线路1』
-#EXTINF:-1 tvg-id="2" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/辽宁卫视.png" group-title="📡卫视",辽宁卫视
-https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4『线路2』
+https://hlsbkmgsplive.miguvideo.com/migu/kailu/lnwshd265/54/20200407/01.m3u8?&HlsSubType=&encrypt=$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="青海卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/青海卫视.png" group-title="📡卫视",青海卫视
 http://120.76.248.139/live/bfgd/4200000111.m3u8$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="山东卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/山东卫视.png" group-title="📡卫视",山东卫视
@@ -246,13 +200,13 @@ https://smt.858.qzz.io/Smart.php?id=ctient$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇹🇼台湾",中天新闻
 https://smt.858.qzz.io/Smart.php?id=ctinews$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇹🇼台湾",中天新闻
-http://jnzq.ohoyee.com:9080/live/fc.m3u8$雷蒙影视•IPV4『线路2』
+http://220.135.64.124:5050/li-4gtv-4gtv009/index.m3u8?proxy=true$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇹🇼台湾",中天新闻
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009$雷蒙影视•IPV4『线路3』
+http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇹🇼台湾",中天新闻
-http://220.135.64.124:5050/li-4gtv-4gtv009/index.m3u8?proxy=true$雷蒙影视•IPV4『线路4』
+http://jnzq.ohoyee.com:9080/live/fc.m3u8$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="中天新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天新闻.png" group-title="🇹🇼台湾",中天新闻
-http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv$雷蒙影视•IPV4『线路5』
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009$雷蒙影视•IPV4『线路5』
 #EXTINF:-1 tvg-id="1" tvg-name="中天综合" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天综合.png" group-title="🇹🇼台湾",中天综合
 https://smt.858.qzz.io/Smart.php?id=ctizhonghe$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="中天亚洲" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/中天亚洲.png" group-title="🇹🇼台湾",中天亚洲
@@ -262,11 +216,11 @@ http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv109$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇹🇼台湾",东森新闻
 https://smt.858.qzz.io/Smart.php?id=ettvnews$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇹🇼台湾",东森新闻
-http://stream-ali1.csslcloud.net/live/IfhEdN30gjBbSbfd2ySSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.flv$雷蒙影视•IPV4『线路2』
+http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv152$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇹🇼台湾",东森新闻
-http://xtvantsc.xyz/Smart.php?id=ettvnews$雷蒙影视•IPV4『线路3』
+http://stream-ali1.csslcloud.net/live/IfhEdN30gjBbSbfd2ySSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.flv$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇹🇼台湾",东森新闻
-http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv152$雷蒙影视•IPV4『线路4』
+http://xtvantsc.xyz/Smart.php?id=ettvnews$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇹🇼台湾",东森新闻
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152$雷蒙影视•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="东森新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/东森新闻.png" group-title="🇹🇼台湾",东森新闻
@@ -294,11 +248,11 @@ https://tv.iill.top/litv/4gtv-4gtv066$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="台视新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻台.png" group-title="🇹🇼台湾",台视新闻台
 https://smt.858.qzz.io/Smart.php?id=ttvnews_twn$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="台视新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻台.png" group-title="🇹🇼台湾",台视新闻台
-http://stream-ali1.csslcloud.net/live/ofFqVir8hEYxZDb6y677FJxn0xrbfd2yPfOT6XuHngNXajvBUY.flv$雷蒙影视•IPV4『线路2』
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="台视新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻台.png" group-title="🇹🇼台湾",台视新闻台
 http://220.135.64.124:5050/li-4gtv-4gtv051/index.m3u8?proxy=true$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="台视新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻台.png" group-title="🇹🇼台湾",台视新闻台
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051$雷蒙影视•IPV4『线路4』
+http://stream-ali1.csslcloud.net/live/ofFqVir8hEYxZDb6y677FJxn0xrbfd2yPfOT6XuHngNXajvBUY.flv$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="台视新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/台视新闻台.png" group-title="🇹🇼台湾",台视新闻台
 http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv051$雷蒙影视•IPV4『线路5』
 #EXTINF:-1 tvg-id="1" tvg-name="公视新闻网" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/公视新闻网.png" group-title="🇹🇼台湾",公视新闻网
@@ -306,15 +260,15 @@ https://tv.iill.top/litv/4gtv-4gtv051$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="公视台语台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/公视台语台.png" group-title="🇹🇼台湾",公视台语台
 https://smt.858.qzz.io/Smart.php?id=ctv2_twn$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇹🇼台湾",民视
-http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv155$雷蒙影视•IPV4『线路1』
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇹🇼台湾",民视
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155$雷蒙影视•IPV4『线路2』
+http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv002$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇹🇼台湾",民视
-http://stream-ali1.csslcloud.net/live/ERadomiHh4srbiVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv$雷蒙影视•IPV4『线路3』
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇹🇼台湾",民视
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002$雷蒙影视•IPV4『线路4』
+http://stream-ali1.csslcloud.net/live/ERadomiHh4srbiVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇹🇼台湾",民视
-http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv002$雷蒙影视•IPV4『线路5』
+http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv155$雷蒙影视•IPV4『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="民视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视.png" group-title="🇹🇼台湾",民视
 https://tv.iill.top/litv/4gtv-4gtv002$雷蒙影视•IPV4『线路6』
 #EXTINF:-1 tvg-id="1" tvg-name="民视第一台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视第一台.png" group-title="🇹🇼台湾",民视第一台
@@ -322,11 +276,11 @@ https://smt.858.qzz.io/Smart.php?id=lunghuajingdian_twn$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="民视新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻台.png" group-title="🇹🇼台湾",民视新闻台
 https://smt.858.qzz.io/Smart.php?id=ftvnew_taiwan$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="民视新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻台.png" group-title="🇹🇼台湾",民视新闻台
-http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13$雷蒙影视•IPV4『线路2』
+http://220.135.64.124:5050/li-litv-ftv13/index.m3u8?proxy=true$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="民视新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻台.png" group-title="🇹🇼台湾",民视新闻台
 http://stream-ali1.csslcloud.net/live/5CkUiYhpTaUWibfd2yVPulg2rBioJ6XgbbmxF2hWNQyygV2U12.flv$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="民视新闻台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视新闻台.png" group-title="🇹🇼台湾",民视新闻台
-http://220.135.64.124:5050/li-litv-ftv13/index.m3u8?proxy=true$雷蒙影视•IPV4『线路4』
+http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="民视台湾台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视台湾台.png" group-title="🇹🇼台湾",民视台湾台
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="民视台湾台" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/民视台湾台.png" group-title="🇹🇼台湾",民视台湾台
@@ -358,13 +312,13 @@ https://tv.iill.top/litv/4gtv-4gtv034$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇹🇼台湾",寰宇新闻
 https://smt.858.qzz.io/Smart.php?id=huanyuxinwen_twn$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇹🇼台湾",寰宇新闻
-http://222.128.55.152:9080/live/hy.m3u8$雷蒙影视•IPV4『线路2』
+http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn14$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇹🇼台湾",寰宇新闻
-http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn14$雷蒙影视•IPV4『线路3』
+http://220.135.64.124:5050/li-litv-longturn14/index.m3u8?proxy=true$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇹🇼台湾",寰宇新闻
-http://220.135.64.124:5050/li-litv-longturn14/index.m3u8?proxy=true$雷蒙影视•IPV4『线路4』
+http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="寰宇新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇新闻.png" group-title="🇹🇼台湾",寰宇新闻
-http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv$雷蒙影视•IPV4『线路5』
+http://222.128.55.152:9080/live/hy.m3u8$雷蒙影视•IPV4『线路5』
 #EXTINF:-1 tvg-id="1" tvg-name="寰宇财经" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/寰宇财经.png" group-title="🇹🇼台湾",寰宇财经
 https://smt.858.qzz.io/Smart.php?id=huanyutaiwan_twn$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="华视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视.png" group-title="🇹🇼台湾",华视
@@ -372,9 +326,9 @@ http://220.135.64.124:5050/li-4gtv-4gtv041/index.m3u8?proxy=true$雷蒙影视•
 #EXTINF:-1 tvg-id="2" tvg-name="华视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视.png" group-title="🇹🇼台湾",华视
 https://tv.iill.top/litv/4gtv-4gtv041$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="1" tvg-name="华视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视新闻.png" group-title="🇹🇼台湾",华视新闻
-http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true$雷蒙影视•IPV4『线路1』
+http://220.135.64.124:5050/li-4gtv-4gtv052/index.m3u8?proxy=true$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="华视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视新闻.png" group-title="🇹🇼台湾",华视新闻
-http://220.135.64.124:5050/li-4gtv-4gtv052/index.m3u8?proxy=true$雷蒙影视•IPV4『线路2』
+http://220.135.64.124:5050/4gtv-4gtv052/index.m3u8?proxy=true$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="华视新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/华视新闻.png" group-title="🇹🇼台湾",华视新闻
 http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="1" tvg-name="年代新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/年代新闻.png" group-title="🇹🇼台湾",年代新闻
@@ -382,11 +336,11 @@ https://smt.858.qzz.io/Smart.php?id=niandainews_twn$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇹🇼台湾",非凡新闻
 https://smt.858.qzz.io/Smart.php?id=feifannews_twn$雷蒙影视•IPV4『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇹🇼台湾",非凡新闻
-http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv010$雷蒙影视•IPV4『线路2』
+http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010$雷蒙影视•IPV4『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇹🇼台湾",非凡新闻
 http://stream-ali1.csslcloud.net/live/7J22AJV6h8f24jkmoa5ahSzuCYjE5fVpCYYMEt9bfd2yHn4XG7.flv$雷蒙影视•IPV4『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="非凡新闻" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/非凡新闻.png" group-title="🇹🇼台湾",非凡新闻
-http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010$雷蒙影视•IPV4『线路4』
+http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv010$雷蒙影视•IPV4『线路4』
 #EXTINF:-1 tvg-id="1" tvg-name="大爱电视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/大爱电视.png" group-title="🇹🇼台湾",大爱电视
 https://tv.iill.top/4gtv/209$雷蒙影视•IPV4
 #EXTINF:-1 tvg-id="1" tvg-name="人间卫视" tvg-logo="https://gitee.com/yuanzl77/TVBox-logo/raw/main/png/人间卫视.png" group-title="🇹🇼台湾",人间卫视
