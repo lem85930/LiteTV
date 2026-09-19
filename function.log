@@ -1,1175 +1,1175 @@
-2026-09-19 07:35:28,137 - INFO - 开始过滤源URL和匹配模板
-2026-09-19 07:35:28,137 - INFO - 开始过滤源URL
-2026-09-19 07:35:28,137 - INFO - 开始解析模板文件: litedemo.txt
-2026-09-19 07:35:28,137 - INFO - 模板文件解析完成: litedemo.txt
-2026-09-19 07:35:28,137 - INFO - 开始解析修正文件: correction.txt
-2026-09-19 07:35:28,138 - INFO - 修正文件解析完成: correction.txt
-2026-09-19 07:35:28,138 - INFO - 开始获取频道: https://iptv.catvod.com/tv.m3u
-2026-09-19 07:35:28,272 - ERROR - url: https://iptv.catvod.com/tv.m3u 爬取失败❌, Error: 403 Client Error: Forbidden for url: https://iptv.catvod.com/tv.m3u
-2026-09-19 07:35:28,273 - INFO - 开始获取频道: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
-2026-09-19 07:35:28,334 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt 获取成功，判断为txt格式
-2026-09-19 07:35:28,334 - INFO - 开始获取频道: https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt
-2026-09-19 07:35:28,609 - ERROR - url: https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt
-2026-09-19 07:35:28,609 - INFO - 开始获取频道: https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt
-2026-09-19 07:35:28,769 - INFO - url: https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt 获取成功，判断为txt格式
-2026-09-19 07:35:28,770 - INFO - url: https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt 爬取成功✅，包含频道分类: 🇨🇳央视频道🇨🇳, 🛰️卫视频道🛰️, 🇭🇰港澳台🇭🇰, 🏆咪咕体育🏆, 🥝精品频道🥝, 🤩3D频道🤩
-2026-09-19 07:35:28,771 - INFO - 开始获取频道: http://tv.850930.xyz/gather.m3u
-2026-09-19 07:35:30,094 - INFO - url: http://tv.850930.xyz/gather.m3u 获取成功，判断为m3u格式
-2026-09-19 07:35:30,097 - INFO - url: http://tv.850930.xyz/gather.m3u 爬取成功✅，包含频道分类: •温馨「提示」, •4K「IPV4」, •咪咕「TV」, •咪咕「足球」, •咪咕「NBA」, •咪咕「体育」, •港澳「限制」, •台湾「限制」, •广东「特产」, •特色「混搭」, •游戏「赛事」, •影视「轮播」, •广播「壹」, •广播「贰」, •韩国「KO」, •日本「JP」, --------------------------, •myTV「请到GitHub获取」, ---------------------------
-2026-09-19 07:35:30,097 - INFO - 开始获取频道: https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
-2026-09-19 07:35:30,307 - INFO - url: https://raw.githubusercontent.com/wwb521/live/main/tv.m3u 获取成功，判断为m3u格式
-2026-09-19 07:35:30,308 - INFO - url: https://raw.githubusercontent.com/wwb521/live/main/tv.m3u 爬取成功✅，包含频道分类: 央视频道, 卫视频道
-2026-09-19 07:35:30,308 - INFO - 开始匹配频道
-2026-09-19 07:35:30,321 - INFO - 频道匹配完成
-2026-09-19 07:35:30,321 - INFO - 源URL过滤完成
-2026-09-19 07:35:30,321 - INFO - 过滤源URL和匹配模板完成
-2026-09-19 07:35:30,321 - INFO - 开始更新M3U和TXT文件
-2026-09-19 07:35:30,321 - INFO - 开始更新频道URL到M3U文件
-2026-09-19 07:35:30,321 - INFO - 开始检查URL
-2026-09-19 07:35:30,489 - INFO - URL在黑名单中: CCTV1, https://migu.188766.xyz/?migutoken=50b17da85782ad968983c2746a3ecf59&id=CCTV1&type=yy
-2026-09-19 07:35:30,489 - INFO - URL在黑名单中: CCTV1, https://migu.188766.xyz/?migutoken=058116fbb26e8951fe2155c9a751d905&id=CCTV1&type=yy
-2026-09-19 07:35:30,489 - INFO - URL在黑名单中: CCTV1, http://tvbox6.icu/tv/migu.php?id=cctv1
-2026-09-19 07:35:30,489 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:30,531 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:30,611 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:30,639 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:30,711 - INFO - URL检查完成
-2026-09-19 07:35:30,721 - INFO - 开始检查URL
-2026-09-19 07:35:30,872 - INFO - URL在黑名单中: CCTV2, https://migu.188766.xyz/?migutoken=7841b8adc4bcfdcca35794067f014d25&id=CCTV2&type=yy
-2026-09-19 07:35:30,872 - INFO - URL在黑名单中: CCTV2, https://migu.188766.xyz/?migutoken=579981f6c852e250e5d5ff746e20c1da&id=CCTV2&type=yy
-2026-09-19 07:35:30,872 - INFO - URL在黑名单中: CCTV2, http://43.251.226.89:8080/play/2.m3u8
-2026-09-19 07:35:30,872 - INFO - URL在白名单中: CCTV2, http://112.27.235.94:8000/hls/2/index.m3u8
-2026-09-19 07:35:30,872 - INFO - URL在黑名单中: CCTV2, http://tvbox6.icu/tv/migu.php?id=cctv2
-2026-09-19 07:35:30,873 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:30,910 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:30,985 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:31,012 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:31,060 - INFO - URL检查完成
-2026-09-19 07:35:31,068 - INFO - 开始检查URL
-2026-09-19 07:35:31,217 - INFO - URL在黑名单中: CCTV3, https://migu.188766.xyz/?migutoken=c6891ddd9767e0c9f9b0f9a3aaf90c8b&id=CCTV3&type=yy
-2026-09-19 07:35:31,217 - INFO - URL在白名单中: CCTV3, http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:31,218 - INFO - URL在白名单中: CCTV3, http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
-2026-09-19 07:35:31,218 - INFO - URL在白名单中: CCTV3, http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:31,218 - INFO - URL在黑名单中: CCTV3, http://tvbox6.icu/tv/migu.php?id=cctv3
-2026-09-19 07:35:31,218 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:31,255 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:31,330 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:31,357 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:31,433 - INFO - URL检查完成
-2026-09-19 07:35:31,440 - INFO - 开始检查URL
-2026-09-19 07:35:31,591 - INFO - URL在黑名单中: CCTV4, https://migu.188766.xyz/?migutoken=e6a7be05ac76970c85926ce47a4d9c16&id=CCTV4&type=yy
-2026-09-19 07:35:31,591 - INFO - URL在黑名单中: CCTV4, https://migu.188766.xyz/?migutoken=c228696a8c2f743d3ef216f344a98977&id=CCTV4&type=yy
-2026-09-19 07:35:31,591 - INFO - URL在黑名单中: CCTV4, http://tvbox6.icu/tv/migu.php?id=cctv4
-2026-09-19 07:35:31,591 - INFO - URL在黑名单中: CCTV4, http://tvbox6.icu/tv/migu.php?id=cctv4o
-2026-09-19 07:35:31,591 - INFO - URL在黑名单中: CCTV4, http://tvbox6.icu/tv/migu.php?id=cctv4a
-2026-09-19 07:35:31,591 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:31,630 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:31,705 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:31,732 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:31,827 - INFO - URL检查完成
-2026-09-19 07:35:31,836 - INFO - 开始检查URL
-2026-09-19 07:35:31,987 - INFO - URL在黑名单中: CCTV5, https://migu.188766.xyz/?migutoken=8c596235c383b8d21a8db06fa3a6341f&id=CCTV5&type=yy
-2026-09-19 07:35:31,987 - INFO - URL在黑名单中: CCTV5, https://migu.188766.xyz/?migutoken=27cb71aa8c5613fa445122fc0f66fa66&id=CCTV5&type=yy
-2026-09-19 07:35:31,987 - INFO - URL在白名单中: CCTV5, http://43.251.226.89:8080/play/5.m3u8
-2026-09-19 07:35:31,987 - INFO - URL在黑名单中: CCTV5, http://tvbox6.icu/tv/migu.php?id=cctv5
-2026-09-19 07:35:31,987 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:32,025 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:32,101 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:32,128 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:32,203 - INFO - URL检查完成
-2026-09-19 07:35:32,212 - INFO - 开始检查URL
-2026-09-19 07:35:32,362 - INFO - URL在黑名单中: CCTV5+, https://migu.188766.xyz/?migutoken=c079a5251fc80c1d24fc1dcc7fd22857&id=CCTV5p&type=yy
-2026-09-19 07:35:32,362 - INFO - URL在黑名单中: CCTV5+, https://migu.188766.xyz/?migutoken=d2cd1916deb6f266df065efa10cb9dc4&id=CCTV5p&type=yy
-2026-09-19 07:35:32,362 - INFO - URL在白名单中: CCTV5+, http://112.27.235.94:8000/hls/6/index.m3u8
-2026-09-19 07:35:32,362 - INFO - URL在黑名单中: CCTV5+, http://43.251.226.89:8080/play/6.m3u8
-2026-09-19 07:35:32,362 - INFO - URL在白名单中: CCTV5+, http://120.76.248.139/live/bfgd/4200000246.m3u8
-2026-09-19 07:35:32,362 - INFO - URL在黑名单中: CCTV5+, http://tvbox6.icu/tv/migu.php?id=cctv5p
-2026-09-19 07:35:32,362 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:32,400 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:32,475 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:32,502 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:32,571 - INFO - URL检查完成
-2026-09-19 07:35:32,579 - INFO - 开始检查URL
-2026-09-19 07:35:32,731 - INFO - URL在黑名单中: CCTV6, https://migu.188766.xyz/?migutoken=095457749dc05a731a395617ab04949c&id=CCTV6&type=yy
-2026-09-19 07:35:32,731 - INFO - URL在黑名单中: CCTV6, http://43.251.226.89:8080/play/7.m3u8
-2026-09-19 07:35:32,731 - INFO - URL在黑名单中: CCTV6, http://tvbox6.icu/tv/migu.php?id=cctv6
-2026-09-19 07:35:32,731 - INFO - URL在白名单中: CCTV6, http://112.27.235.94:8000/hls/7/index.m3u8
-2026-09-19 07:35:32,731 - INFO - URL在黑名单中: CCTV6, http://xxwx.yoesun.com/xxw/1905电影网.php?id=cctv6
-2026-09-19 07:35:32,731 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:32,770 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:32,847 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:32,874 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:32,947 - INFO - URL检查完成
-2026-09-19 07:35:32,957 - INFO - 开始检查URL
-2026-09-19 07:35:33,108 - INFO - URL在黑名单中: CCTV7, https://migu.188766.xyz/?migutoken=5d5172943342247b1cb222a9ac5fc466&id=CCTV7&type=yy
-2026-09-19 07:35:33,109 - INFO - URL在白名单中: CCTV7, http://43.251.226.89:8080/play/8.m3u8
-2026-09-19 07:35:33,109 - INFO - URL在黑名单中: CCTV7, http://tvbox6.icu/tv/migu.php?id=cctv7
-2026-09-19 07:35:33,109 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:33,147 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:33,222 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:33,249 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:33,322 - INFO - URL检查完成
-2026-09-19 07:35:33,330 - INFO - 开始检查URL
-2026-09-19 07:35:33,481 - INFO - URL在黑名单中: CCTV8, https://migu.188766.xyz/?migutoken=bf7c0c509e507d01741102d404b99746&id=CCTV8&type=yy
-2026-09-19 07:35:33,481 - INFO - URL在黑名单中: CCTV8, https://migu.188766.xyz/?migutoken=8a0286a4ddfe3a0094414176b502c024&id=CCTV8&type=yy
-2026-09-19 07:35:33,481 - INFO - URL在白名单中: CCTV8, http://183.215.134.239:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:33,481 - INFO - URL在白名单中: CCTV8, http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:33,481 - INFO - URL在黑名单中: CCTV8, http://tvbox6.icu/tv/migu.php?id=cctv8
-2026-09-19 07:35:33,481 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:33,520 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:33,596 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:33,623 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:33,698 - INFO - URL检查完成
-2026-09-19 07:35:33,707 - INFO - 开始检查URL
-2026-09-19 07:35:33,861 - INFO - URL在黑名单中: CCTV9, https://migu.188766.xyz/?migutoken=e25de42a224e642a3594b1e93cf3ed1b&id=CCTV9&type=yy
-2026-09-19 07:35:33,861 - INFO - URL在黑名单中: CCTV9, https://migu.188766.xyz/?migutoken=9152adb8c108dfd57350f0155411384d&id=CCTV9&type=yy
-2026-09-19 07:35:33,861 - INFO - URL在黑名单中: CCTV9, http://tvbox6.icu/tv/migu.php?id=cctv9
-2026-09-19 07:35:33,861 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:33,906 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:33,987 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:34,076 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:34,309 - INFO - URL检查完成
-2026-09-19 07:35:34,319 - INFO - 开始检查URL
-2026-09-19 07:35:34,471 - INFO - URL在黑名单中: CCTV10, https://migu.188766.xyz/?migutoken=8b89795de1cc74318bf5c6293a4d6fa0&id=CCTV10&type=yy
-2026-09-19 07:35:34,471 - INFO - URL在黑名单中: CCTV10, https://migu.188766.xyz/?migutoken=a6ea9919efff70e8b58dbf6352764b65&id=CCTV10&type=yy
-2026-09-19 07:35:34,471 - INFO - URL在黑名单中: CCTV10, http://43.251.226.89:8080/play/11.m3u8
-2026-09-19 07:35:34,471 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:34,539 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:34,660 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:34,780 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:34,860 - INFO - URL检查完成
-2026-09-19 07:35:34,869 - INFO - 开始检查URL
-2026-09-19 07:35:35,023 - INFO - URL在黑名单中: CCTV11, https://migu.188766.xyz/?migutoken=928b715caf282de3d57af8064343951d&id=CCTV11&type=yy
-2026-09-19 07:35:35,023 - INFO - URL在黑名单中: CCTV11, http://tvbox6.icu/tv/migu.php?id=cctv11
-2026-09-19 07:35:35,023 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:35,121 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:35,241 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:35,351 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:35,399 - INFO - URL检查完成
-2026-09-19 07:35:35,408 - INFO - 开始检查URL
-2026-09-19 07:35:35,560 - INFO - URL在黑名单中: CCTV12, https://migu.188766.xyz/?migutoken=ed40b34faedf6d9fa8120a05c837f693&id=CCTV12&type=yy
-2026-09-19 07:35:35,560 - INFO - URL在白名单中: CCTV12, http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:35,560 - INFO - URL在黑名单中: CCTV12, http://tvbox6.icu/tv/migu.php?id=cctv12
-2026-09-19 07:35:35,560 - INFO - URL在白名单中: CCTV12, http://112.27.235.94:8000/hls/13/index.m3u8
-2026-09-19 07:35:35,560 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:35,599 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:35,675 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:35,701 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:35,780 - INFO - URL检查完成
-2026-09-19 07:35:35,789 - INFO - 开始检查URL
-2026-09-19 07:35:35,940 - INFO - URL在黑名单中: CCTV13, https://migu.188766.xyz/?migutoken=f2da258e6735fdb1f0c223b11149efa1&id=CCTV13&type=yy
-2026-09-19 07:35:35,940 - INFO - URL在黑名单中: CCTV13, https://migu.188766.xyz/?migutoken=18533d4d908fc58c106315210042a966&id=CCTV13&type=yy
-2026-09-19 07:35:35,940 - INFO - URL在白名单中: CCTV13, https://event.pull.hebtv.com/jishi/cp1.m3u8
-2026-09-19 07:35:35,940 - INFO - URL在白名单中: CCTV13, http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-2026-09-19 07:35:35,940 - INFO - URL在黑名单中: CCTV13, http://tvbox6.icu/tv/migu.php?id=cctv13
-2026-09-19 07:35:35,940 - INFO - URL在黑名单中: CCTV13, https://t.freetv.fun/live/cctv13-21.m3u8
-2026-09-19 07:35:35,940 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:35,979 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:36,054 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:36,115 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:36,162 - INFO - URL检查完成
-2026-09-19 07:35:36,171 - INFO - 开始检查URL
-2026-09-19 07:35:36,320 - INFO - URL在黑名单中: CCTV14, https://migu.188766.xyz/?migutoken=fad1feedb99d17fc8ec110df724186d3&id=CCTV14&type=yy
-2026-09-19 07:35:36,320 - INFO - URL在黑名单中: CCTV14, https://migu.188766.xyz/?migutoken=feb129122007256f7d5c543638f3c2bb&id=CCTV14&type=yy
-2026-09-19 07:35:36,320 - INFO - URL在白名单中: CCTV14, https://event.pull.hebtv.com/jishi/cp2.m3u8
-2026-09-19 07:35:36,320 - INFO - URL在黑名单中: CCTV14, http://tvbox6.icu/tv/migu.php?id=cctv14
-2026-09-19 07:35:36,320 - INFO - URL在黑名单中: CCTV14, http://43.251.226.89:8080/play/15.m3u8
-2026-09-19 07:35:36,320 - INFO - URL在白名单中: CCTV14, http://112.27.235.94:8000/hls/15/index.m3u8
-2026-09-19 07:35:36,320 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:36,358 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:36,432 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:36,530 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:36,578 - INFO - URL检查完成
-2026-09-19 07:35:36,587 - INFO - 开始检查URL
-2026-09-19 07:35:36,739 - INFO - URL在黑名单中: CCTV15, https://migu.188766.xyz/?migutoken=0d9a225defe44aff2149561898573a77&id=CCTV15&type=yy
-2026-09-19 07:35:36,739 - INFO - URL在黑名单中: CCTV15, http://43.251.226.89:8080/play/16.m3u8
-2026-09-19 07:35:36,739 - INFO - URL在黑名单中: CCTV15, http://tvbox6.icu/tv/migu.php?id=cctv15
-2026-09-19 07:35:36,739 - INFO - URL在白名单中: CCTV15, http://120.76.248.139/live/bfgd/4200000133.m3u8
-2026-09-19 07:35:36,739 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:36,778 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:36,853 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:36,881 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:36,997 - INFO - URL检查完成
-2026-09-19 07:35:37,006 - INFO - 开始检查URL
-2026-09-19 07:35:37,156 - INFO - URL在白名单中: CCTV16, http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
-2026-09-19 07:35:37,156 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:37,194 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:37,268 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:37,295 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:37,367 - INFO - URL检查完成
-2026-09-19 07:35:37,375 - INFO - 开始检查URL
-2026-09-19 07:35:37,525 - INFO - URL在黑名单中: CCTV17, https://migu.188766.xyz/?migutoken=2f35c22bcc0bf8ec4d5df35fda777766&id=CCTV17&type=yy
-2026-09-19 07:35:37,525 - INFO - URL在黑名单中: CCTV17, https://migu.188766.xyz/?migutoken=2d1bdb0dad80b47e7c90052c3df56b35&id=CCTV17&type=yy
-2026-09-19 07:35:37,525 - INFO - URL在黑名单中: CCTV17, http://tvbox6.icu/tv/migu.php?id=cctv17
-2026-09-19 07:35:37,525 - INFO - URL在白名单中: CCTV17, http://120.76.248.139/live/bfgd/4200000204.m3u8
-2026-09-19 07:35:37,525 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:37,564 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:37,639 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:37,666 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:37,740 - INFO - URL检查完成
-2026-09-19 07:35:37,750 - INFO - 开始检查URL
-2026-09-19 07:35:37,901 - INFO - URL在黑名单中: CCTV-1综合, https://tv.iill.top/migu/cctv1
-2026-09-19 07:35:37,901 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:37,939 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:38,014 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:38,041 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:38,091 - INFO - URL检查完成
-2026-09-19 07:35:38,100 - INFO - 开始检查URL
-2026-09-19 07:35:38,282 - INFO - URL在黑名单中: CCTV-2财经, https://tv.iill.top/migu/cctv2
-2026-09-19 07:35:38,282 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:38,320 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:38,395 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:38,422 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:38,497 - INFO - URL检查完成
-2026-09-19 07:35:38,505 - INFO - 开始检查URL
-2026-09-19 07:35:38,654 - INFO - URL在白名单中: CCTV-3综艺, https://tv.iill.top/migu/cctv3
-2026-09-19 07:35:38,654 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:38,692 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:38,765 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:38,792 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:38,867 - INFO - URL检查完成
-2026-09-19 07:35:38,875 - INFO - 开始检查URL
-2026-09-19 07:35:39,025 - INFO - URL在白名单中: CCTV-4中文国际, https://tv.iill.top/migu/cctv4
-2026-09-19 07:35:39,025 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:39,063 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:39,137 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:39,163 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:39,239 - INFO - URL检查完成
-2026-09-19 07:35:39,248 - INFO - 开始检查URL
-2026-09-19 07:35:39,397 - INFO - URL在黑名单中: CCTV-5体育, https://tv.iill.top/migu/cctv5
-2026-09-19 07:35:39,397 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:39,436 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:39,510 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:39,537 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:39,584 - INFO - URL检查完成
-2026-09-19 07:35:39,593 - INFO - 开始检查URL
-2026-09-19 07:35:39,746 - INFO - URL在黑名单中: CCTV-5+体育赛事, https://tv.iill.top/migu/cctv5p
-2026-09-19 07:35:39,746 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:39,784 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:39,858 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:39,885 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:39,960 - INFO - URL检查完成
-2026-09-19 07:35:39,969 - INFO - 开始检查URL
-2026-09-19 07:35:40,118 - INFO - URL在黑名单中: CCTV-6电影, https://tv.iill.top/migu/cctv6
-2026-09-19 07:35:40,118 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:40,156 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:40,230 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:40,256 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:40,339 - INFO - URL检查完成
-2026-09-19 07:35:40,347 - INFO - 开始检查URL
-2026-09-19 07:35:40,502 - INFO - URL在白名单中: CCTV-7国防军事, https://tv.iill.top/migu/cctv7
-2026-09-19 07:35:40,502 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:40,615 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:40,720 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:40,770 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:40,901 - INFO - URL检查完成
-2026-09-19 07:35:40,912 - INFO - 开始检查URL
-2026-09-19 07:35:41,068 - INFO - URL在白名单中: CCTV-8电视剧, https://tv.iill.top/migu/cctv8
-2026-09-19 07:35:41,068 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:41,220 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:41,341 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:41,461 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:41,593 - INFO - URL检查完成
-2026-09-19 07:35:41,604 - INFO - 开始检查URL
-2026-09-19 07:35:41,764 - INFO - URL在白名单中: CCTV-9纪录, https://tv.iill.top/migu/cctv9
-2026-09-19 07:35:41,764 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:41,880 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:41,972 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:42,072 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:42,182 - INFO - URL检查完成
-2026-09-19 07:35:42,192 - INFO - 开始检查URL
-2026-09-19 07:35:42,347 - INFO - URL在白名单中: CCTV-10科教, https://tv.iill.top/migu/cctv10
-2026-09-19 07:35:42,347 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:42,412 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:42,531 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:42,640 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:42,764 - INFO - URL检查完成
-2026-09-19 07:35:42,776 - INFO - 开始检查URL
-2026-09-19 07:35:42,932 - INFO - URL在黑名单中: CCTV-11戏曲, https://tv.iill.top/migu/cctv11
-2026-09-19 07:35:42,932 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:42,999 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:43,113 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:43,229 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:43,350 - INFO - URL检查完成
-2026-09-19 07:35:43,361 - INFO - 开始检查URL
-2026-09-19 07:35:43,512 - INFO - URL在白名单中: CCTV-12社会与法, https://tv.iill.top/migu/cctv12
-2026-09-19 07:35:43,512 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:43,572 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:43,693 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:43,810 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:43,931 - INFO - URL检查完成
-2026-09-19 07:35:43,941 - INFO - 开始检查URL
-2026-09-19 07:35:44,092 - INFO - URL在白名单中: CCTV-13新闻, https://tv.iill.top/migu/cctv13
-2026-09-19 07:35:44,092 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:44,161 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:44,284 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:44,400 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:44,521 - INFO - URL检查完成
-2026-09-19 07:35:44,531 - INFO - 开始检查URL
-2026-09-19 07:35:44,683 - INFO - URL在黑名单中: CCTV-14少儿, https://tv.iill.top/migu/cctv14
-2026-09-19 07:35:44,683 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:44,721 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:44,795 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:44,821 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:44,897 - INFO - URL检查完成
-2026-09-19 07:35:44,905 - INFO - 开始检查URL
-2026-09-19 07:35:45,055 - INFO - URL在黑名单中: CCTV-15音乐, https://tv.iill.top/migu/cctv15
-2026-09-19 07:35:45,055 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:45,093 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:45,167 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:45,194 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:45,268 - INFO - URL检查完成
-2026-09-19 07:35:45,277 - INFO - 开始检查URL
-2026-09-19 07:35:45,427 - INFO - URL在白名单中: CCTV-17农业农村, https://tv.iill.top/migu/cctv17
-2026-09-19 07:35:45,427 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:45,465 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:45,540 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:45,567 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:45,627 - INFO - URL检查完成
-2026-09-19 07:35:45,637 - INFO - 开始检查URL
-2026-09-19 07:35:45,789 - INFO - URL在黑名单中: 湖南卫视, https://migu.188766.xyz/?migutoken=ae73ef66bd109f114cf569d2220a3797&id=hnws&type=sz
-2026-09-19 07:35:45,789 - INFO - URL在黑名单中: 湖南卫视, https://migu.188766.xyz/?migutoken=3ea0edb779e16d47b7c19af71f68b8d6&id=hnws&type=sz
-2026-09-19 07:35:45,789 - INFO - URL在白名单中: 湖南卫视, http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:45,789 - INFO - URL在黑名单中: 湖南卫视, http://tvbox6.icu/tv/migu.php?id=hunws
-2026-09-19 07:35:45,789 - INFO - URL在白名单中: 湖南卫视, http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-2026-09-19 07:35:45,789 - INFO - URL在白名单中: 湖南卫视, http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-2026-09-19 07:35:45,789 - INFO - URL在白名单中: 湖南卫视, http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:45,789 - INFO - URL在黑名单中: 湖南卫视, https://t.freetv.fun/live/hu-nan-wei-shi-13.m3u8
-2026-09-19 07:35:45,789 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:45,831 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:45,907 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:45,934 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:46,009 - INFO - URL检查完成
-2026-09-19 07:35:46,019 - INFO - 开始检查URL
-2026-09-19 07:35:46,172 - INFO - URL在黑名单中: 浙江卫视, https://migu.188766.xyz/?migutoken=59e99918a255463297aa2b79d8c52ff6&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
-2026-09-19 07:35:46,172 - INFO - URL在白名单中: 浙江卫视, https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-2026-09-19 07:35:46,172 - INFO - URL在黑名单中: 浙江卫视, https://migu.188766.xyz/?migutoken=1e4b588eba92db60c24f8d458cf44f79&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
-2026-09-19 07:35:46,172 - INFO - URL在白名单中: 浙江卫视, http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-2026-09-19 07:35:46,172 - INFO - URL在白名单中: 浙江卫视, http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-2026-09-19 07:35:46,172 - INFO - URL在白名单中: 浙江卫视, https://play-qukan.cztv.com/live/1746687519046362.m3u8
-2026-09-19 07:35:46,172 - INFO - URL在白名单中: 浙江卫视, https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-2026-09-19 07:35:46,172 - INFO - URL在白名单中: 浙江卫视, https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
-2026-09-19 07:35:46,172 - INFO - URL在白名单中: 浙江卫视, http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:46,172 - INFO - URL在白名单中: 浙江卫视, http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
-2026-09-19 07:35:46,172 - INFO - URL在白名单中: 浙江卫视, http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:46,172 - INFO - URL在白名单中: 浙江卫视, http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-2026-09-19 07:35:46,172 - INFO - URL在白名单中: 浙江卫视, http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-2026-09-19 07:35:46,172 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:46,211 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:46,286 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:46,313 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:46,396 - INFO - URL检查完成
-2026-09-19 07:35:46,406 - INFO - 开始检查URL
-2026-09-19 07:35:46,558 - INFO - URL在黑名单中: 东方卫视, https://migu.188766.xyz/?migutoken=ee72e71131bb44ca0cb5afb0de13fed4&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:46,558 - INFO - URL在黑名单中: 东方卫视, https://migu.188766.xyz/?migutoken=b4f30afa875eb7c3050026c2f5668021&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:46,558 - INFO - URL在黑名单中: 东方卫视, https://tv.iill.top/migu/dfws
-2026-09-19 07:35:46,558 - INFO - URL在白名单中: 东方卫视, http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
-2026-09-19 07:35:46,558 - INFO - URL在黑名单中: 东方卫视, http://tvbox6.icu/tv/migu.php?id=dfws
-2026-09-19 07:35:46,558 - INFO - URL在白名单中: 东方卫视, http://183.215.134.239:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:46,558 - INFO - URL在白名单中: 东方卫视, http://112.27.235.94:8000/hls/28/index.m3u8
-2026-09-19 07:35:46,558 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:46,596 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:46,672 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:46,699 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:46,772 - INFO - URL检查完成
-2026-09-19 07:35:46,782 - INFO - 开始检查URL
-2026-09-19 07:35:46,933 - INFO - URL在白名单中: 北京卫视, http://112.27.235.94:8000/hls/27/index.m3u8
-2026-09-19 07:35:46,933 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:46,971 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:47,046 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:47,073 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:47,149 - INFO - URL检查完成
-2026-09-19 07:35:47,156 - INFO - 开始检查URL
-2026-09-19 07:35:47,305 - INFO - URL在黑名单中: 江苏卫视, https://migu.188766.xyz/?migutoken=32b6e40243e3018caba1eece9824470d&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:47,305 - INFO - URL在黑名单中: 江苏卫视, https://migu.188766.xyz/?migutoken=23acff0ff0ecaef3d340a1a4e7d9ef67&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:47,305 - INFO - URL在白名单中: 江苏卫视, https://tv.iill.top/migu/jsws
-2026-09-19 07:35:47,305 - INFO - URL在黑名单中: 江苏卫视, http://tvbox6.icu/tv/migu.php?id=jsws
-2026-09-19 07:35:47,306 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:47,344 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:47,419 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:47,446 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:47,521 - INFO - URL检查完成
-2026-09-19 07:35:47,530 - INFO - 开始检查URL
-2026-09-19 07:35:47,679 - INFO - URL在黑名单中: 重庆卫视, http://tvbox6.icu/tv/migu.php?id=cqws
-2026-09-19 07:35:47,680 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:47,718 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:47,793 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:47,820 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:47,867 - INFO - URL检查完成
-2026-09-19 07:35:47,875 - INFO - 开始检查URL
-2026-09-19 07:35:48,025 - INFO - URL在白名单中: 东南卫视, http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
-2026-09-19 07:35:48,025 - INFO - URL在白名单中: 东南卫视, http://120.76.248.139/live/bfgd/4200000483.m3u8
-2026-09-19 07:35:48,025 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:48,063 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:48,138 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:48,165 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:48,229 - INFO - URL检查完成
-2026-09-19 07:35:48,236 - INFO - 开始检查URL
-2026-09-19 07:35:48,384 - INFO - URL在白名单中: 深圳卫视, http://112.27.235.94:8000/hls/33/index.m3u8
-2026-09-19 07:35:48,385 - INFO - URL在白名单中: 深圳卫视, http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:48,385 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:48,423 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:48,497 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:48,524 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:48,600 - INFO - URL检查完成
-2026-09-19 07:35:48,608 - INFO - 开始检查URL
-2026-09-19 07:35:48,758 - INFO - URL在黑名单中: 广东卫视, https://migu.188766.xyz/?migutoken=57a4d59310e507a243a9e1faa1d7c83e&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:48,758 - INFO - URL在黑名单中: 广东卫视, https://migu.188766.xyz/?migutoken=6f089ea86b898d859145b20935c97f9a&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:48,758 - INFO - URL在黑名单中: 广东卫视, http://tvbox6.icu/tv/migu.php?id=gdws
-2026-09-19 07:35:48,758 - INFO - URL在白名单中: 广东卫视, http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:48,758 - INFO - URL在白名单中: 广东卫视, http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:48,758 - INFO - URL在白名单中: 广东卫视, http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:48,759 - INFO - URL在黑名单中: 广东卫视, http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20260209040208b7fdef1503cd41b3a15efc83c4616146&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260209040208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20260209040208&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a52d374097b5f15c689423533a043ba9
-2026-09-19 07:35:48,759 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:48,797 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:48,873 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:48,900 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:48,976 - INFO - URL检查完成
-2026-09-19 07:35:48,985 - INFO - 开始检查URL
-2026-09-19 07:35:49,136 - INFO - URL在黑名单中: 广西卫视, http://tvbox6.icu/tv/migu.php?id=gxws
-2026-09-19 07:35:49,136 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:49,175 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:49,250 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:49,277 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:49,324 - INFO - URL检查完成
-2026-09-19 07:35:49,333 - INFO - 开始检查URL
-2026-09-19 07:35:49,484 - INFO - URL在黑名单中: 甘肃卫视, http://tvbox6.icu/tv/migu.php?id=gsws
-2026-09-19 07:35:49,484 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:49,523 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:49,601 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:49,628 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:49,692 - INFO - URL检查完成
-2026-09-19 07:35:49,701 - INFO - 开始检查URL
-2026-09-19 07:35:49,852 - INFO - URL在黑名单中: 贵州卫视, http://tvbox6.icu/tv/migu.php?id=gzws
-2026-09-19 07:35:49,852 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:49,890 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:49,964 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:49,991 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:50,074 - INFO - URL检查完成
-2026-09-19 07:35:50,082 - INFO - 开始检查URL
-2026-09-19 07:35:50,232 - INFO - URL在白名单中: 河北卫视, http://120.76.248.139/live/bfgd/4200000108.m3u8
-2026-09-19 07:35:50,232 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:50,365 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:50,487 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:50,595 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:50,644 - INFO - URL检查完成
-2026-09-19 07:35:50,653 - INFO - 开始检查URL
-2026-09-19 07:35:50,804 - INFO - URL在黑名单中: 河南卫视, https://migu.188766.xyz/?migutoken=5c56f9fe9f7d7cefdf261569960c940b&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
-2026-09-19 07:35:50,804 - INFO - URL在黑名单中: 河南卫视, https://migu.188766.xyz/?migutoken=28652f0b3fb8db15e81f1b23084b9edf&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:50,804 - INFO - URL在黑名单中: 河南卫视, http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
-2026-09-19 07:35:50,804 - INFO - URL在黑名单中: 河南卫视, http://tvbox6.icu/tv/migu.php?id=hnws
-2026-09-19 07:35:50,804 - INFO - URL在白名单中: 河南卫视, http://1.94.31.214/php/hntv.php?id=hnws
-2026-09-19 07:35:50,804 - INFO - URL在黑名单中: 河南卫视, https://t.freetv.fun/live/he-nan-wei-shi-13.php
-2026-09-19 07:35:50,804 - INFO - URL在黑名单中: 河南卫视, http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=88295ad4c23801b4db8f2e9c29bc4789&wsTime=1770595078
-2026-09-19 07:35:50,804 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:50,842 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:50,917 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:50,944 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:51,048 - INFO - URL检查完成
-2026-09-19 07:35:51,056 - INFO - 开始检查URL
-2026-09-19 07:35:51,206 - INFO - URL在白名单中: 黑龙江卫视, http://120.76.248.139/live/bfgd/4200000095.m3u8
-2026-09-19 07:35:51,206 - INFO - URL在白名单中: 黑龙江卫视, http://112.27.235.94:8000/hls/48/index.m3u8
-2026-09-19 07:35:51,206 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:51,245 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:51,320 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:51,347 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:51,421 - INFO - URL检查完成
-2026-09-19 07:35:51,431 - INFO - 开始检查URL
-2026-09-19 07:35:51,583 - INFO - URL在黑名单中: 湖北卫视, https://migu.188766.xyz/?migutoken=288b192300b89db840e4c9928a5de8b4&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:51,583 - INFO - URL在黑名单中: 湖北卫视, https://migu.188766.xyz/?migutoken=8406a166fcb56b8ddf84e2efc0a5db82&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:51,583 - INFO - URL在黑名单中: 湖北卫视, http://tvbox6.icu/tv/migu.php?id=hubws
-2026-09-19 07:35:51,583 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:51,622 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:51,697 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:51,724 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:51,791 - INFO - URL检查完成
-2026-09-19 07:35:51,800 - INFO - 开始检查URL
-2026-09-19 07:35:51,952 - INFO - URL在黑名单中: 江西卫视, https://migu.188766.xyz/?migutoken=8e7e43f88dc06a1f0d9667b237b7c60e&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:51,952 - INFO - URL在黑名单中: 江西卫视, https://migu.188766.xyz/?migutoken=8e783e5cf54c7552bb4c7aecbeae7d40&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:51,952 - INFO - URL在黑名单中: 江西卫视, http://tvbox6.icu/tv/migu.php?id=jxws
-2026-09-19 07:35:51,952 - INFO - URL在白名单中: 江西卫视, http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:51,952 - INFO - URL在白名单中: 江西卫视, http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:51,952 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:51,991 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:52,066 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:52,093 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:52,177 - INFO - URL检查完成
-2026-09-19 07:35:52,187 - INFO - 开始检查URL
-2026-09-19 07:35:52,338 - INFO - URL在黑名单中: 吉林卫视, https://migu.188766.xyz/?migutoken=51534e92696fee1c1f11a88f42af3e2d&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:52,338 - INFO - URL在黑名单中: 吉林卫视, http://tvbox6.icu/tv/migu.php?id=jlws
-2026-09-19 07:35:52,338 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:52,376 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:52,451 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:52,478 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:52,553 - INFO - URL检查完成
-2026-09-19 07:35:52,561 - INFO - 开始检查URL
-2026-09-19 07:35:52,711 - INFO - URL在黑名单中: 内蒙古卫视, https://migu.188766.xyz/?migutoken=df2081409752001dae3bff9d4c3ecd73&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
-2026-09-19 07:35:52,711 - INFO - URL在黑名单中: 内蒙古卫视, https://migu.188766.xyz/?migutoken=b5858e0646147a6473f2d100c4c3eb88&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
-2026-09-19 07:35:52,711 - INFO - URL在黑名单中: 内蒙古卫视, http://tvbox6.icu/tv/migu.php?id=nmws
-2026-09-19 07:35:52,711 - INFO - URL在白名单中: 内蒙古卫视, https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-2026-09-19 07:35:52,712 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:52,750 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:52,825 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:52,852 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:52,927 - INFO - URL检查完成
-2026-09-19 07:35:52,935 - INFO - 开始检查URL
-2026-09-19 07:35:53,085 - INFO - URL在黑名单中: 辽宁卫视, https://migu.188766.xyz/?migutoken=ab330788c285a4cf92446a7e0a05fcc2&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:53,085 - INFO - URL在黑名单中: 辽宁卫视, http://43.251.226.89:8080/play/41.m3u8
-2026-09-19 07:35:53,085 - INFO - URL在黑名单中: 辽宁卫视, http://tvbox6.icu/tv/migu.php?id=lnws
-2026-09-19 07:35:53,085 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:53,123 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:53,197 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:53,224 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:53,298 - INFO - URL检查完成
-2026-09-19 07:35:53,306 - INFO - 开始检查URL
-2026-09-19 07:35:53,457 - INFO - URL在黑名单中: 宁夏卫视, http://43.251.226.89:8080/play/54.m3u8
-2026-09-19 07:35:53,457 - INFO - URL在黑名单中: 宁夏卫视, http://tvbox6.icu/tv/migu.php?id=nxws
-2026-09-19 07:35:53,457 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:53,495 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:53,570 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:53,596 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:53,672 - INFO - URL检查完成
-2026-09-19 07:35:53,681 - INFO - 开始检查URL
-2026-09-19 07:35:53,836 - INFO - URL在黑名单中: 青海卫视, https://migu.188766.xyz/?migutoken=055934c46e0598815d09fce07b763bd0&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:53,836 - INFO - URL在黑名单中: 青海卫视, http://43.251.226.89:8080/play/48.m3u8
-2026-09-19 07:35:53,836 - INFO - URL在白名单中: 青海卫视, http://120.76.248.139/live/bfgd/4200000111.m3u8
-2026-09-19 07:35:53,836 - INFO - URL在黑名单中: 青海卫视, http://tvbox6.icu/tv/migu.php?id=qhws
-2026-09-19 07:35:53,836 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:53,876 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:53,953 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:53,980 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:54,056 - INFO - URL检查完成
-2026-09-19 07:35:54,067 - INFO - 开始检查URL
-2026-09-19 07:35:54,221 - INFO - URL在白名单中: 山东卫视, http://120.76.248.139/live/bfgd/4200000099.m3u8
-2026-09-19 07:35:54,221 - INFO - URL在黑名单中: 山东卫视, http://tvbox6.icu/tv/migu.php?id=sdws
-2026-09-19 07:35:54,221 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:54,260 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:54,337 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:54,365 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:54,440 - INFO - URL检查完成
-2026-09-19 07:35:54,451 - INFO - 开始检查URL
-2026-09-19 07:35:54,605 - INFO - URL在白名单中: 天津卫视, http://112.27.235.94:8000/hls/42/index.m3u8
-2026-09-19 07:35:54,606 - INFO - URL在白名单中: 天津卫视, http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-2026-09-19 07:35:54,606 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:54,644 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:54,721 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:54,748 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:54,822 - INFO - URL检查完成
-2026-09-19 07:35:54,832 - INFO - 开始检查URL
-2026-09-19 07:35:54,985 - INFO - URL在黑名单中: 海南卫视, https://migu.188766.xyz/?migutoken=14faabef39292696f0a771e42955d81a&id=hn_hnws&type=sz
-2026-09-19 07:35:54,985 - INFO - URL在黑名单中: 海南卫视, https://migu.188766.xyz/?migutoken=9e2e9770c38fd57761d105d3603a9ed1&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:54,985 - INFO - URL在黑名单中: 海南卫视, http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-2026-09-19 07:35:54,985 - INFO - URL在白名单中: 海南卫视, http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
-2026-09-19 07:35:54,985 - INFO - URL在白名单中: 海南卫视, http://120.76.248.139/live/bfgd/4200000473.m3u8
-2026-09-19 07:35:54,985 - INFO - URL在白名单中: 海南卫视, http://111.221.137.234:44330/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
-2026-09-19 07:35:54,985 - INFO - URL在黑名单中: 海南卫视, http://tvbox6.icu/tv/migu.php?id=hinws
-2026-09-19 07:35:54,985 - INFO - URL在白名单中: 海南卫视, http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
-2026-09-19 07:35:54,985 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:55,024 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:55,100 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:55,127 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:55,203 - INFO - URL检查完成
-2026-09-19 07:35:55,212 - INFO - 开始检查URL
-2026-09-19 07:35:55,363 - INFO - URL在黑名单中: 新疆卫视, http://tvbox6.icu/tv/migu.php?id=xjws
-2026-09-19 07:35:55,363 - INFO - URL在白名单中: 新疆卫视, http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
-2026-09-19 07:35:55,363 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:55,402 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:55,478 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:55,505 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:55,600 - INFO - URL检查完成
-2026-09-19 07:35:55,610 - INFO - 开始检查URL
-2026-09-19 07:35:55,762 - INFO - URL在黑名单中: 云南卫视, http://tvbox6.icu/tv/migu.php?id=ynws
-2026-09-19 07:35:55,762 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:55,870 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:55,992 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:56,100 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:56,221 - INFO - URL检查完成
-2026-09-19 07:35:56,232 - INFO - 开始检查URL
-2026-09-19 07:35:56,384 - INFO - URL在黑名单中: 西藏卫视, http://tvbox6.icu/tv/migu.php?id=xzws
-2026-09-19 07:35:56,384 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:56,423 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:56,500 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:56,527 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:56,602 - INFO - URL检查完成
-2026-09-19 07:35:56,611 - INFO - 开始检查URL
-2026-09-19 07:35:56,764 - INFO - URL在黑名单中: 海峡卫视, http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
-2026-09-19 07:35:56,764 - INFO - URL在白名单中: 海峡卫视, http://8.138.7.223/tv/hxws.m3u8
-2026-09-19 07:35:56,764 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:56,803 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:56,879 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:56,906 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:56,968 - INFO - URL检查完成
-2026-09-19 07:35:56,977 - INFO - 开始检查URL
-2026-09-19 07:35:57,128 - INFO - URL在黑名单中: 兵团卫视, https://migu.188766.xyz/?migutoken=a30c3a7d0e33e403ebf88caf1f7be5e9&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:57,128 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:57,167 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:57,242 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:57,268 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:57,352 - INFO - URL检查完成
-2026-09-19 07:35:57,361 - INFO - 开始检查URL
-2026-09-19 07:35:57,511 - INFO - URL在白名单中: 安多卫视, https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
-2026-09-19 07:35:57,511 - INFO - URL在白名单中: 安多卫视, https://liveout.xntv.tv/a65jur/96iln2.m3u8
-2026-09-19 07:35:57,511 - INFO - URL在白名单中: 安多卫视, https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
-2026-09-19 07:35:57,511 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:57,549 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:57,625 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:57,652 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:57,727 - INFO - URL检查完成
-2026-09-19 07:35:57,735 - INFO - 开始检查URL
-2026-09-19 07:35:57,886 - INFO - URL在黑名单中: 农林卫视, https://migu.188766.xyz/?migutoken=b30d111cb1949ba27d8adc029e22b764&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
-2026-09-19 07:35:57,887 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:57,925 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:58,004 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:58,032 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:58,106 - INFO - URL检查完成
-2026-09-19 07:35:58,115 - INFO - 开始检查URL
-2026-09-19 07:35:58,273 - INFO - URL在黑名单中: 三沙卫视, https://migu.188766.xyz/?migutoken=94d4cba38ba093b91ba52809e0b8eb46&id=hn_ssws&type=sz
-2026-09-19 07:35:58,273 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:58,311 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:58,388 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:58,415 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:58,491 - INFO - URL检查完成
-2026-09-19 07:35:58,501 - INFO - 开始检查URL
-2026-09-19 07:35:58,654 - INFO - URL在白名单中: 延边卫视, http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
-2026-09-19 07:35:58,654 - INFO - URL在白名单中: 延边卫视, http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
-2026-09-19 07:35:58,654 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:58,692 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:58,768 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:58,795 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:58,859 - INFO - URL检查完成
-2026-09-19 07:35:58,869 - INFO - 开始检查URL
-2026-09-19 07:35:59,019 - INFO - URL在白名单中: TVBS新闻, https://smt.858.qzz.io/Smart.php?id=tvbs_n
-2026-09-19 07:35:59,019 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:59,057 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:59,132 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:59,159 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:59,223 - INFO - URL检查完成
-2026-09-19 07:35:59,232 - INFO - 开始检查URL
-2026-09-19 07:35:59,383 - INFO - URL在黑名单中: TVBSHD, https://tv.iill.top/litv/4gtv-4gtv073
-2026-09-19 07:35:59,383 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:59,421 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:59,498 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:59,524 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:59,601 - INFO - URL检查完成
-2026-09-19 07:35:59,610 - INFO - 开始检查URL
-2026-09-19 07:35:59,761 - INFO - URL在白名单中: 中天娱乐, https://smt.858.qzz.io/Smart.php?id=ctient
-2026-09-19 07:35:59,761 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:35:59,799 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:35:59,874 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:35:59,901 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:35:59,949 - INFO - URL检查完成
-2026-09-19 07:35:59,957 - INFO - 开始检查URL
-2026-09-19 07:36:00,108 - INFO - URL在白名单中: 中天新闻, https://smt.858.qzz.io/Smart.php?id=ctinews
-2026-09-19 07:36:00,108 - INFO - URL在白名单中: 中天新闻, http://jnzq.ohoyee.com:9080/live/fc.m3u8
-2026-09-19 07:36:00,109 - INFO - URL在白名单中: 中天新闻, http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
-2026-09-19 07:36:00,109 - INFO - URL在白名单中: 中天新闻, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
-2026-09-19 07:36:00,109 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:00,147 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:00,223 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:00,250 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:00,315 - INFO - URL检查完成
-2026-09-19 07:36:00,324 - INFO - 开始检查URL
-2026-09-19 07:36:00,475 - INFO - URL在白名单中: 中天综合, https://smt.858.qzz.io/Smart.php?id=ctizhonghe
-2026-09-19 07:36:00,475 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:00,514 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:00,590 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:00,617 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:00,701 - INFO - URL检查完成
-2026-09-19 07:36:00,709 - INFO - 开始检查URL
-2026-09-19 07:36:00,860 - INFO - URL在白名单中: 中天亚洲, https://smt.858.qzz.io/Smart.php?id=ctiasia_twn
-2026-09-19 07:36:00,860 - INFO - URL在白名单中: 中天亚洲, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv109
-2026-09-19 07:36:00,860 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:00,898 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:00,974 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:01,001 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:01,076 - INFO - URL检查完成
-2026-09-19 07:36:01,084 - INFO - 开始检查URL
-2026-09-19 07:36:01,234 - INFO - URL在白名单中: 东森新闻, https://smt.858.qzz.io/Smart.php?id=ettvnews
-2026-09-19 07:36:01,234 - INFO - URL在白名单中: 东森新闻, http://xtvantsc.xyz/Smart.php?id=ettvnews
-2026-09-19 07:36:01,234 - INFO - URL在白名单中: 东森新闻, http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv152
-2026-09-19 07:36:01,234 - INFO - URL在白名单中: 东森新闻, http://stream-ali1.csslcloud.net/live/IfhEdN30gjBbSbfd2ySSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.flv
-2026-09-19 07:36:01,234 - INFO - URL在白名单中: 东森新闻, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
-2026-09-19 07:36:01,234 - INFO - URL在白名单中: 东森新闻, https://tv.iill.top/litv/4gtv-4gtv152
-2026-09-19 07:36:01,234 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:01,273 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:01,346 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:01,373 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:01,421 - INFO - URL检查完成
-2026-09-19 07:36:01,429 - INFO - 开始检查URL
-2026-09-19 07:36:01,580 - INFO - URL在白名单中: 东森戏剧, https://smt.858.qzz.io/Smart.php?id=ettvdrama
-2026-09-19 07:36:01,580 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:01,618 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:01,693 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:01,720 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:01,784 - INFO - URL检查完成
-2026-09-19 07:36:01,793 - INFO - 开始检查URL
-2026-09-19 07:36:01,942 - INFO - URL在白名单中: 东森洋片, https://smt.858.qzz.io/Smart.php?id=ettvwestern
-2026-09-19 07:36:01,943 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:01,981 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:02,057 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:02,083 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:02,159 - INFO - URL检查完成
-2026-09-19 07:36:02,168 - INFO - 开始检查URL
-2026-09-19 07:36:02,318 - INFO - URL在白名单中: 东森综合, https://smt.858.qzz.io/Smart.php?id=ettvzhonghe
-2026-09-19 07:36:02,319 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:02,357 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:02,431 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:02,458 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:02,534 - INFO - URL检查完成
-2026-09-19 07:36:02,542 - INFO - 开始检查URL
-2026-09-19 07:36:02,693 - INFO - URL在白名单中: 东森电影, https://smt.858.qzz.io/Smart.php?id=ettvmovie
-2026-09-19 07:36:02,693 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:02,731 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:02,805 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:02,832 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:02,879 - INFO - URL检查完成
-2026-09-19 07:36:02,888 - INFO - 开始检查URL
-2026-09-19 07:36:03,038 - INFO - URL在白名单中: 东森财经新闻, https://tv.iill.top/litv/4gtv-4gtv153
-2026-09-19 07:36:03,038 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:03,076 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:03,150 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:03,177 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:03,240 - INFO - URL检查完成
-2026-09-19 07:36:03,248 - INFO - 开始检查URL
-2026-09-19 07:36:03,397 - INFO - URL在白名单中: 三立戏剧台, https://smt.858.qzz.io/Smart.php?id=sanlixiju_twn
-2026-09-19 07:36:03,397 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:03,435 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:03,511 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:03,538 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:03,615 - INFO - URL检查完成
-2026-09-19 07:36:03,624 - INFO - 开始检查URL
-2026-09-19 07:36:03,782 - INFO - URL在白名单中: 三立新闻台, https://tv.iill.top/4gtv/229
-2026-09-19 07:36:03,782 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:03,821 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:03,896 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:03,923 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:04,000 - INFO - URL检查完成
-2026-09-19 07:36:04,010 - INFO - 开始检查URL
-2026-09-19 07:36:04,161 - INFO - URL在白名单中: 三立综合台, https://smt.858.qzz.io/Smart.php?id=sanlizhonghe
-2026-09-19 07:36:04,162 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:04,200 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:04,275 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:04,302 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:04,350 - INFO - URL检查完成
-2026-09-19 07:36:04,359 - INFO - 开始检查URL
-2026-09-19 07:36:04,509 - INFO - URL在白名单中: 台视, https://tv.iill.top/litv/4gtv-4gtv066
-2026-09-19 07:36:04,509 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:04,548 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:04,623 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:04,650 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:04,715 - INFO - URL检查完成
-2026-09-19 07:36:04,724 - INFO - 开始检查URL
-2026-09-19 07:36:04,877 - INFO - URL在白名单中: 台视新闻台, https://smt.858.qzz.io/Smart.php?id=ttvnews_twn
-2026-09-19 07:36:04,877 - INFO - URL在白名单中: 台视新闻台, http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv051
-2026-09-19 07:36:04,877 - INFO - URL在白名单中: 台视新闻台, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
-2026-09-19 07:36:04,877 - INFO - URL在白名单中: 台视新闻台, http://stream-ali1.csslcloud.net/live/ofFqVir8hEYxZDb6y677FJxn0xrbfd2yPfOT6XuHngNXajvBUY.flv
-2026-09-19 07:36:04,877 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:04,915 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:04,991 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:05,018 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:05,102 - INFO - URL检查完成
-2026-09-19 07:36:05,111 - INFO - 开始检查URL
-2026-09-19 07:36:05,261 - INFO - URL在白名单中: 公视新闻网, https://tv.iill.top/litv/4gtv-4gtv051
-2026-09-19 07:36:05,261 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:05,299 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:05,375 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:05,402 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:05,479 - INFO - URL检查完成
-2026-09-19 07:36:05,487 - INFO - 开始检查URL
-2026-09-19 07:36:05,636 - INFO - URL在白名单中: 公视台语台, https://smt.858.qzz.io/Smart.php?id=ctv2_twn
-2026-09-19 07:36:05,636 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:05,675 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:05,752 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:05,780 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:05,828 - INFO - URL检查完成
-2026-09-19 07:36:05,838 - INFO - 开始检查URL
-2026-09-19 07:36:05,989 - INFO - URL在白名单中: 民视, http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv002
-2026-09-19 07:36:05,989 - INFO - URL在白名单中: 民视, http://stream-ali1.csslcloud.net/live/ERadomiHh4srbiVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
-2026-09-19 07:36:05,989 - INFO - URL在白名单中: 民视, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
-2026-09-19 07:36:05,989 - INFO - URL在白名单中: 民视, http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv155
-2026-09-19 07:36:05,989 - INFO - URL在白名单中: 民视, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155
-2026-09-19 07:36:05,989 - INFO - URL在白名单中: 民视, https://tv.iill.top/litv/4gtv-4gtv002
-2026-09-19 07:36:05,989 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:06,028 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:06,102 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:06,129 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:06,194 - INFO - URL检查完成
-2026-09-19 07:36:06,202 - INFO - 开始检查URL
-2026-09-19 07:36:06,352 - INFO - URL在白名单中: 民视第一台, https://smt.858.qzz.io/Smart.php?id=lunghuajingdian_twn
-2026-09-19 07:36:06,352 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:06,390 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:06,465 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:06,491 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:06,575 - INFO - URL检查完成
-2026-09-19 07:36:06,584 - INFO - 开始检查URL
-2026-09-19 07:36:06,735 - INFO - URL在白名单中: 民视新闻台, https://smt.858.qzz.io/Smart.php?id=ftvnew_taiwan
-2026-09-19 07:36:06,735 - INFO - URL在白名单中: 民视新闻台, http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
-2026-09-19 07:36:06,735 - INFO - URL在白名单中: 民视新闻台, http://stream-ali1.csslcloud.net/live/5CkUiYhpTaUWibfd2yVPulg2rBioJ6XgbbmxF2hWNQyygV2U12.flv
-2026-09-19 07:36:06,735 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:06,774 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:06,849 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:06,876 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:06,951 - INFO - URL检查完成
-2026-09-19 07:36:06,960 - INFO - 开始检查URL
-2026-09-19 07:36:07,112 - INFO - URL在白名单中: 民视台湾台, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
-2026-09-19 07:36:07,112 - INFO - URL在白名单中: 民视台湾台, http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv001
-2026-09-19 07:36:07,112 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:07,150 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:07,225 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:07,252 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:07,299 - INFO - URL检查完成
-2026-09-19 07:36:07,308 - INFO - 开始检查URL
-2026-09-19 07:36:07,459 - INFO - URL在白名单中: 中视, https://tv.iill.top/litv/4gtv-4gtv040
-2026-09-19 07:36:07,459 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:07,498 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:07,573 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:07,600 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:07,664 - INFO - URL检查完成
-2026-09-19 07:36:07,672 - INFO - 开始检查URL
-2026-09-19 07:36:07,823 - INFO - URL在白名单中: 中视新闻台, https://smt.858.qzz.io/Smart.php?id=zhongshinews_twn
-2026-09-19 07:36:07,823 - INFO - URL在白名单中: 中视新闻台, http://stream-ali1.csslcloud.net/live/hNsy4N2Ykbfd2ywCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
-2026-09-19 07:36:07,823 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:07,861 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:07,936 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:07,963 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:08,042 - INFO - URL检查完成
-2026-09-19 07:36:08,051 - INFO - 开始检查URL
-2026-09-19 07:36:08,204 - INFO - URL在白名单中: 中视经典台, https://smt.858.qzz.io/Smart.php?id=zhongshi_twn
-2026-09-19 07:36:08,204 - INFO - URL在白名单中: 中视经典台, https://tv.iill.top/litv/4gtv-4gtv080
-2026-09-19 07:36:08,204 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:08,243 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:08,318 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:08,345 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:08,420 - INFO - URL检查完成
-2026-09-19 07:36:08,429 - INFO - 开始检查URL
-2026-09-19 07:36:08,579 - INFO - URL在白名单中: 八大戏剧, https://smt.858.qzz.io/Smart.php?id=badadrama
-2026-09-19 07:36:08,579 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:08,617 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:08,692 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:08,718 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:08,792 - INFO - URL检查完成
-2026-09-19 07:36:08,799 - INFO - 开始检查URL
-2026-09-19 07:36:08,956 - INFO - URL在白名单中: 八大第一, https://smt.858.qzz.io/Smart.php?id=badafirst
-2026-09-19 07:36:08,956 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:08,995 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:09,071 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:09,098 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:09,154 - INFO - URL检查完成
-2026-09-19 07:36:09,164 - INFO - 开始检查URL
-2026-09-19 07:36:09,314 - INFO - URL在白名单中: 八大综合, https://smt.858.qzz.io/Smart.php?id=badazhonghe
-2026-09-19 07:36:09,314 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:09,353 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:09,427 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:09,454 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:09,531 - INFO - URL检查完成
-2026-09-19 07:36:09,539 - INFO - 开始检查URL
-2026-09-19 07:36:09,689 - INFO - URL在白名单中: 八大精彩, https://tv.iill.top/litv/4gtv-4gtv034
-2026-09-19 07:36:09,689 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:09,727 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:09,802 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:09,829 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:09,913 - INFO - URL检查完成
-2026-09-19 07:36:09,921 - INFO - 开始检查URL
-2026-09-19 07:36:10,072 - INFO - URL在白名单中: 寰宇新闻, https://smt.858.qzz.io/Smart.php?id=huanyuxinwen_twn
-2026-09-19 07:36:10,072 - INFO - URL在白名单中: 寰宇新闻, http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn14
-2026-09-19 07:36:10,072 - INFO - URL在白名单中: 寰宇新闻, http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
-2026-09-19 07:36:10,072 - INFO - URL在白名单中: 寰宇新闻, http://222.128.55.152:9080/live/hy.m3u8
-2026-09-19 07:36:10,072 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:10,110 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:10,185 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:10,211 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:10,259 - INFO - URL检查完成
-2026-09-19 07:36:10,268 - INFO - 开始检查URL
-2026-09-19 07:36:10,417 - INFO - URL在白名单中: 寰宇财经, https://smt.858.qzz.io/Smart.php?id=huanyutaiwan_twn
-2026-09-19 07:36:10,418 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:10,456 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:10,531 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:10,557 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:10,622 - INFO - URL检查完成
-2026-09-19 07:36:10,630 - INFO - 开始检查URL
-2026-09-19 07:36:10,780 - INFO - URL在白名单中: 华视, https://tv.iill.top/litv/4gtv-4gtv041
-2026-09-19 07:36:10,780 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:10,819 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:10,894 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:10,921 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:11,004 - INFO - URL检查完成
-2026-09-19 07:36:11,012 - INFO - 开始检查URL
-2026-09-19 07:36:11,162 - INFO - URL在白名单中: 华视新闻, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
-2026-09-19 07:36:11,162 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:11,200 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:11,274 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:11,301 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:11,377 - INFO - URL检查完成
-2026-09-19 07:36:11,385 - INFO - 开始检查URL
-2026-09-19 07:36:11,534 - INFO - URL在白名单中: 年代新闻, https://smt.858.qzz.io/Smart.php?id=niandainews_twn
-2026-09-19 07:36:11,535 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:11,573 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:11,648 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:11,674 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:11,722 - INFO - URL检查完成
-2026-09-19 07:36:11,731 - INFO - 开始检查URL
-2026-09-19 07:36:11,881 - INFO - URL在白名单中: 非凡新闻, https://smt.858.qzz.io/Smart.php?id=feifannews_twn
-2026-09-19 07:36:11,881 - INFO - URL在白名单中: 非凡新闻, http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv010
-2026-09-19 07:36:11,881 - INFO - URL在白名单中: 非凡新闻, http://stream-ali1.csslcloud.net/live/7J22AJV6h8f24jkmoa5ahSzuCYjE5fVpCYYMEt9bfd2yHn4XG7.flv
-2026-09-19 07:36:11,881 - INFO - URL在白名单中: 非凡新闻, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
-2026-09-19 07:36:11,881 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:11,920 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:11,994 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:12,021 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:12,085 - INFO - URL检查完成
-2026-09-19 07:36:12,092 - INFO - 开始检查URL
-2026-09-19 07:36:12,242 - INFO - URL在白名单中: 大爱电视, https://tv.iill.top/4gtv/209
-2026-09-19 07:36:12,243 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:12,281 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:12,356 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:12,383 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:12,466 - INFO - URL检查完成
-2026-09-19 07:36:12,475 - INFO - 开始检查URL
-2026-09-19 07:36:12,624 - INFO - URL在白名单中: 人间卫视, https://tv.iill.top/4gtv/210
-2026-09-19 07:36:12,625 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:12,663 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:12,737 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:12,763 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:12,840 - INFO - URL检查完成
-2026-09-19 07:36:12,848 - INFO - 开始检查URL
-2026-09-19 07:36:12,997 - INFO - URL在白名单中: 纬来综合, https://smt.858.qzz.io/Smart.php?id=videolandzonghe
-2026-09-19 07:36:12,997 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:13,035 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:13,109 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:13,136 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:13,189 - INFO - URL检查完成
-2026-09-19 07:36:13,196 - INFO - 开始检查URL
-2026-09-19 07:36:13,346 - INFO - URL在白名单中: 纬来电影, https://smt.858.qzz.io/Smart.php?id=videolandmovie
-2026-09-19 07:36:13,346 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:13,385 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:13,462 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:13,489 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:13,554 - INFO - URL检查完成
-2026-09-19 07:36:13,563 - INFO - 开始检查URL
-2026-09-19 07:36:13,713 - INFO - URL在白名单中: 纬来日本, https://smt.858.qzz.io/Smart.php?id=videolandjapan
-2026-09-19 07:36:13,713 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:13,752 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:13,827 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:13,854 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:13,929 - INFO - URL检查完成
-2026-09-19 07:36:13,938 - INFO - 开始检查URL
-2026-09-19 07:36:14,088 - INFO - URL在白名单中: 纬来体育, https://smt.858.qzz.io/Smart.php?id=videolandsport
-2026-09-19 07:36:14,088 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:14,127 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:14,202 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:14,229 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:14,312 - INFO - URL检查完成
-2026-09-19 07:36:14,321 - INFO - 开始检查URL
-2026-09-19 07:36:14,470 - INFO - URL在白名单中: 靖天日本台, https://tv.iill.top/litv/4gtv-4gtv047
-2026-09-19 07:36:14,470 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:14,509 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:14,583 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:14,610 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:14,658 - INFO - URL检查完成
-2026-09-19 07:36:14,665 - INFO - 开始检查URL
-2026-09-19 07:36:14,814 - INFO - URL在白名单中: 靖天卡通台, https://tv.iill.top/litv/4gtv-4gtv044
-2026-09-19 07:36:14,814 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:14,853 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:14,926 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:14,953 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:15,010 - INFO - URL检查完成
-2026-09-19 07:36:15,017 - INFO - 开始检查URL
-2026-09-19 07:36:15,165 - INFO - URL在白名单中: 靖洋卡通 Nice Bingo, https://tv.iill.top/litv/4gtv-4gtv057
-2026-09-19 07:36:15,165 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:15,204 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:15,278 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:15,305 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:15,380 - INFO - URL检查完成
-2026-09-19 07:36:15,388 - INFO - 开始检查URL
-2026-09-19 07:36:15,537 - INFO - URL在白名单中: 龙华偶像, https://tv.iill.top/litv/litv-longturn12
-2026-09-19 07:36:15,537 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:15,576 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:15,651 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:15,678 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:15,754 - INFO - URL检查完成
-2026-09-19 07:36:15,762 - INFO - 开始检查URL
-2026-09-19 07:36:15,913 - INFO - URL在白名单中: 龙华戏剧, https://tv.iill.top/litv/litv-longturn18
-2026-09-19 07:36:15,913 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:15,951 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:16,026 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:16,053 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:16,101 - INFO - URL检查完成
-2026-09-19 07:36:16,109 - INFO - 开始检查URL
-2026-09-19 07:36:16,259 - INFO - URL在白名单中: 龙华经典, https://tv.iill.top/litv/litv-longturn21
-2026-09-19 07:36:16,259 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:16,299 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:16,373 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:16,400 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:16,464 - INFO - URL检查完成
-2026-09-19 07:36:16,473 - INFO - 开始检查URL
-2026-09-19 07:36:16,625 - INFO - URL在白名单中: 龙华电影, https://tv.iill.top/litv/litv-longturn03
-2026-09-19 07:36:16,625 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:16,663 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:16,738 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:16,857 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:16,905 - INFO - URL检查完成
-2026-09-19 07:36:16,913 - INFO - 开始检查URL
-2026-09-19 07:36:17,064 - INFO - URL在白名单中: 龙华日韩, https://tv.iill.top/litv/litv-longturn11
-2026-09-19 07:36:17,064 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:17,103 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:17,178 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:17,204 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:17,281 - INFO - URL检查完成
-2026-09-19 07:36:17,289 - INFO - 开始检查URL
-2026-09-19 07:36:17,439 - INFO - URL在白名单中: 龙华卡通, https://tv.iill.top/litv/litv-longturn01
-2026-09-19 07:36:17,439 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:17,478 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:17,552 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:17,579 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:17,683 - INFO - URL检查完成
-2026-09-19 07:36:17,692 - INFO - 开始检查URL
-2026-09-19 07:36:17,842 - INFO - URL在白名单中: 探索亚洲, https://smt.858.qzz.io/Smart.php?id=discoverytwn_twn
-2026-09-19 07:36:17,842 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:17,880 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:17,955 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:17,982 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:18,056 - INFO - URL检查完成
-2026-09-19 07:36:18,064 - INFO - 开始检查URL
-2026-09-19 07:36:18,213 - INFO - URL在白名单中: 博斯网球, https://tv.iill.top/litv/litv-longturn09
-2026-09-19 07:36:18,213 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:18,252 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:18,326 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:18,353 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:18,419 - INFO - URL检查完成
-2026-09-19 07:36:18,426 - INFO - 开始检查URL
-2026-09-19 07:36:18,576 - INFO - URL在黑名单中: 博斯高球一, https://tv.iill.top/litv/litv-longturn05
-2026-09-19 07:36:18,576 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:18,614 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:18,688 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:18,714 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:18,790 - INFO - URL检查完成
-2026-09-19 07:36:18,798 - INFO - 开始检查URL
-2026-09-19 07:36:18,947 - INFO - URL在白名单中: 美亚电影, https://smt.858.qzz.io/Smart.php?id=meiyamovie_twn
-2026-09-19 07:36:18,947 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:18,985 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:19,059 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:19,086 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:19,182 - INFO - URL检查完成
-2026-09-19 07:36:19,189 - INFO - 开始检查URL
-2026-09-19 07:36:19,337 - INFO - URL在黑名单中: MTV Live, https://tv.iill.top/4gtv/213
-2026-09-19 07:36:19,337 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:19,376 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:19,450 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:19,477 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:19,552 - INFO - URL检查完成
-2026-09-19 07:36:19,560 - INFO - 开始检查URL
-2026-09-19 07:36:19,709 - INFO - URL在白名单中: GINX Esports TV, https://tv.iill.top/litv/4gtv-4gtv053
-2026-09-19 07:36:19,709 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:19,747 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:19,821 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:19,848 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:19,914 - INFO - URL检查完成
-2026-09-19 07:36:19,922 - INFO - 开始检查URL
-2026-09-19 07:36:20,072 - INFO - URL在白名单中: 时尚运动X, https://tv.iill.top/4gtv/277
-2026-09-19 07:36:20,072 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:20,110 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:20,185 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:20,212 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:20,296 - INFO - URL检查完成
-2026-09-19 07:36:20,304 - INFO - 开始检查URL
-2026-09-19 07:36:20,453 - INFO - URL在黑名单中: AMC最爱电影, https://tv.iill.top/litv/4gtv-4gtv017
-2026-09-19 07:36:20,453 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:20,491 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:20,566 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:20,592 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:20,669 - INFO - URL检查完成
-2026-09-19 07:36:20,677 - INFO - 开始检查URL
-2026-09-19 07:36:20,827 - INFO - URL在白名单中: 凤凰卫视中文台, http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
-2026-09-19 07:36:20,827 - INFO - URL在黑名单中: 凤凰卫视中文台, https://migu.188766.xyz/?migutoken=dafea9a89f8759bcd04edfafc63b435d&id=fhzw&pp=1
-2026-09-19 07:36:20,827 - INFO - URL在黑名单中: 凤凰卫视中文台, https://migu.188766.xyz/?migutoken=bf161ac290d85d4778ebc36e83daeb42&id=phoenixtv_hd&type=dy
-2026-09-19 07:36:20,827 - INFO - URL在黑名单中: 凤凰卫视中文台, https://mgev.188766.xyz/?migutoken=3267cd6151f58a4919b93c0e63f69337&id=fhzw&pp=1
-2026-09-19 07:36:20,827 - INFO - URL在黑名单中: 凤凰卫视中文台, https://migu.188766.xyz/?migutoken=866341f35ab82e48dea654d12b6e5881&id=hk_fhzw&type=dy
-2026-09-19 07:36:20,827 - INFO - URL在白名单中: 凤凰卫视中文台, http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
-2026-09-19 07:36:20,827 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:20,866 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:20,940 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:20,967 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:21,042 - INFO - URL检查完成
-2026-09-19 07:36:21,050 - INFO - 开始检查URL
-2026-09-19 07:36:21,199 - INFO - URL在白名单中: 凤凰卫视资讯台, http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
-2026-09-19 07:36:21,199 - INFO - URL在黑名单中: 凤凰卫视资讯台, https://migu.188766.xyz/?migutoken=9b308c31f6f659e7ee7bc6bb4b3cfff9&id=fhzx&pp=1
-2026-09-19 07:36:21,199 - INFO - URL在黑名单中: 凤凰卫视资讯台, https://migu.188766.xyz/?migutoken=5a850debc67f6090a63d625e8a4b9764&id=phoenixinfo_hd&type=dy
-2026-09-19 07:36:21,199 - INFO - URL在黑名单中: 凤凰卫视资讯台, https://mgev.188766.xyz/?migutoken=85fccb710060e734ed36c45940532bff&id=fhzx&pp=1
-2026-09-19 07:36:21,199 - INFO - URL在黑名单中: 凤凰卫视资讯台, https://migu.188766.xyz/?migutoken=902dd46104f7da4e91108d392b281213&id=hk_fhzx&type=dy
-2026-09-19 07:36:21,199 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:21,237 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:21,311 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:21,338 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:21,403 - INFO - URL检查完成
-2026-09-19 07:36:21,410 - INFO - 开始检查URL
-2026-09-19 07:36:21,558 - INFO - URL在白名单中: 凤凰卫视香港台, http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
-2026-09-19 07:36:21,558 - INFO - URL在黑名单中: 凤凰卫视香港台, https://migu.188766.xyz/?migutoken=407dc0f7365332e4297cc4be4e80ab8b&id=fhhk&pp=1
-2026-09-19 07:36:21,558 - INFO - URL在黑名单中: 凤凰卫视香港台, https://migu.188766.xyz/?migutoken=8ea86101844c05d6675be46a790325aa&id=hkphoenix_twn&type=dy
-2026-09-19 07:36:21,558 - INFO - URL在黑名单中: 凤凰卫视香港台, https://mgev.188766.xyz/?migutoken=0c151f885334200f0142117a9e167f8c&id=fhhk&pp=1
-2026-09-19 07:36:21,558 - INFO - URL在黑名单中: 凤凰卫视香港台, https://migu.188766.xyz/?migutoken=d88da94088e229852fad7e3b27e37c04&id=hk_fhhk&type=dy
-2026-09-19 07:36:21,558 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:21,596 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:21,671 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:21,698 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:21,774 - INFO - URL检查完成
-2026-09-19 07:36:21,782 - INFO - 开始检查URL
-2026-09-19 07:36:21,932 - INFO - URL在黑名单中: 翡翠台, https://migu.188766.xyz/?migutoken=6ff40ca6e9a458a448fdb09a33919405&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
-2026-09-19 07:36:21,932 - INFO - URL在黑名单中: 翡翠台, https://migu.188766.xyz/?migutoken=af18bef2634b43fa854485eefdd5a91d&id=jade_twn&type=dy
-2026-09-19 07:36:21,932 - INFO - URL在黑名单中: 翡翠台, https://migu.188766.xyz/?migutoken=04145df78ef83eef5b830ef166351e04&id=hk_fct&type=dy
-2026-09-19 07:36:21,932 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:21,971 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:22,045 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:22,072 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:22,147 - INFO - URL检查完成
-2026-09-19 07:36:22,155 - INFO - 开始检查URL
-2026-09-19 07:36:22,305 - INFO - URL在黑名单中: TVB明珠台, https://migu.188766.xyz/?migutoken=2cd4c549faf4bb0b9d50f4547a25aa13&id=pearl_twn&type=dy
-2026-09-19 07:36:22,306 - INFO - URL在黑名单中: TVB明珠台, https://migu.188766.xyz/?migutoken=bc0f802ab684ad9377fe77a79c51de79&id=hk_mzt&type=dy
-2026-09-19 07:36:22,306 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:22,344 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:22,419 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:22,446 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:22,530 - INFO - URL检查完成
-2026-09-19 07:36:22,539 - INFO - 开始检查URL
-2026-09-19 07:36:22,689 - INFO - URL在黑名单中: TVB星河, https://migu.188766.xyz/?migutoken=fa5509d3453723e42e49f4187e199f7c&id=hk_tvbxh&type=dy
-2026-09-19 07:36:22,689 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:22,727 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:22,803 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:22,830 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:22,894 - INFO - URL检查完成
-2026-09-19 07:36:22,903 - INFO - 开始检查URL
-2026-09-19 07:36:23,053 - INFO - URL在白名单中: TVB功夫台, https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
-2026-09-19 07:36:23,053 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:23,092 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:23,166 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:23,193 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:23,269 - INFO - URL检查完成
-2026-09-19 07:36:23,277 - INFO - 开始检查URL
-2026-09-19 07:36:23,427 - INFO - URL在白名单中: RTHK33, https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-2026-09-19 07:36:23,427 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:23,465 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:23,539 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:23,566 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:23,650 - INFO - URL检查完成
-2026-09-19 07:36:23,658 - INFO - 开始检查URL
-2026-09-19 07:36:23,806 - INFO - URL在白名单中: RTHK34, https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
-2026-09-19 07:36:23,807 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:23,845 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:23,919 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:23,945 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:24,021 - INFO - URL检查完成
-2026-09-19 07:36:24,029 - INFO - 开始检查URL
-2026-09-19 07:36:24,177 - INFO - URL在白名单中: RTHK35, https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-2026-09-19 07:36:24,177 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:24,215 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:24,290 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:24,316 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:24,373 - INFO - URL检查完成
-2026-09-19 07:36:24,381 - INFO - 开始检查URL
-2026-09-19 07:36:24,531 - INFO - URL在黑名单中: HOY77, https://migu.188766.xyz/?migutoken=9cd32ab08eaf1f9ab6155d8342a6c0b3&id=hk_hoy&type=dy
-2026-09-19 07:36:24,531 - INFO - 去重文件: blacklist.txt
-2026-09-19 07:36:24,569 - INFO - 去重文件: whitelist.txt
-2026-09-19 07:36:24,644 - INFO - 删除空行: blacklist.txt
-2026-09-19 07:36:24,671 - INFO - 删除空行: whitelist.txt
-2026-09-19 07:36:24,755 - INFO - URL检查完成
-2026-09-19 07:36:24,763 - INFO - 频道URL更新完成
-2026-09-19 07:36:24,763 - INFO - 更新M3U和TXT文件完成
+2026-09-20 07:33:04,297 - INFO - 开始过滤源URL和匹配模板
+2026-09-20 07:33:04,297 - INFO - 开始过滤源URL
+2026-09-20 07:33:04,297 - INFO - 开始解析模板文件: litedemo.txt
+2026-09-20 07:33:04,297 - INFO - 模板文件解析完成: litedemo.txt
+2026-09-20 07:33:04,298 - INFO - 开始解析修正文件: correction.txt
+2026-09-20 07:33:04,298 - INFO - 修正文件解析完成: correction.txt
+2026-09-20 07:33:04,298 - INFO - 开始获取频道: https://iptv.catvod.com/tv.m3u
+2026-09-20 07:33:04,358 - ERROR - url: https://iptv.catvod.com/tv.m3u 爬取失败❌, Error: 403 Client Error: Forbidden for url: https://iptv.catvod.com/tv.m3u
+2026-09-20 07:33:04,359 - INFO - 开始获取频道: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+2026-09-20 07:33:04,428 - INFO - url: https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt 获取成功，判断为txt格式
+2026-09-20 07:33:04,429 - INFO - 开始获取频道: https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt
+2026-09-20 07:33:04,519 - ERROR - url: https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt 爬取失败❌, Error: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/redrainl/iptv/main/speedtest/zubo_fofa.txt
+2026-09-20 07:33:04,520 - INFO - 开始获取频道: https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt
+2026-09-20 07:33:04,623 - INFO - url: https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt 获取成功，判断为txt格式
+2026-09-20 07:33:04,625 - INFO - url: https://raw.githubusercontent.com/pxiptv/live/main/iptv.txt 爬取成功✅，包含频道分类: 🇨🇳央视频道🇨🇳, 🛰️卫视频道🛰️, 🇭🇰港澳台🇭🇰, 🏆咪咕体育🏆, 🥝精品频道🥝, 🤩3D频道🤩
+2026-09-20 07:33:04,626 - INFO - 开始获取频道: http://tv.850930.xyz/gather.m3u
+2026-09-20 07:33:05,436 - INFO - url: http://tv.850930.xyz/gather.m3u 获取成功，判断为m3u格式
+2026-09-20 07:33:05,440 - INFO - url: http://tv.850930.xyz/gather.m3u 爬取成功✅，包含频道分类: •温馨「提示」, •4K「IPV4」, •咪咕「TV」, •咪咕「足球」, •咪咕「NBA」, •咪咕「体育」, •港澳「限制」, •台湾「限制」, •广东「特产」, •特色「混搭」, •游戏「赛事」, •影视「轮播」, •广播「壹」, •广播「贰」, •韩国「KO」, •日本「JP」, --------------------------, •myTV「请到GitHub获取」, ---------------------------
+2026-09-20 07:33:05,441 - INFO - 开始获取频道: https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
+2026-09-20 07:33:05,471 - INFO - url: https://raw.githubusercontent.com/wwb521/live/main/tv.m3u 获取成功，判断为m3u格式
+2026-09-20 07:33:05,472 - INFO - url: https://raw.githubusercontent.com/wwb521/live/main/tv.m3u 爬取成功✅，包含频道分类: 央视频道, 卫视频道
+2026-09-20 07:33:05,472 - INFO - 开始匹配频道
+2026-09-20 07:33:05,489 - INFO - 频道匹配完成
+2026-09-20 07:33:05,489 - INFO - 源URL过滤完成
+2026-09-20 07:33:05,489 - INFO - 过滤源URL和匹配模板完成
+2026-09-20 07:33:05,489 - INFO - 开始更新M3U和TXT文件
+2026-09-20 07:33:05,489 - INFO - 开始更新频道URL到M3U文件
+2026-09-20 07:33:05,489 - INFO - 开始检查URL
+2026-09-20 07:33:05,700 - INFO - URL在黑名单中: CCTV1, https://migu.188766.xyz/?migutoken=50b17da85782ad968983c2746a3ecf59&id=CCTV1&type=yy
+2026-09-20 07:33:05,700 - INFO - URL在黑名单中: CCTV1, https://migu.188766.xyz/?migutoken=058116fbb26e8951fe2155c9a751d905&id=CCTV1&type=yy
+2026-09-20 07:33:05,700 - INFO - URL在黑名单中: CCTV1, http://tvbox6.icu/tv/migu.php?id=cctv1
+2026-09-20 07:33:05,700 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:05,754 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:05,859 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:05,898 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:05,973 - INFO - URL检查完成
+2026-09-20 07:33:05,986 - INFO - 开始检查URL
+2026-09-20 07:33:06,188 - INFO - URL在黑名单中: CCTV2, https://migu.188766.xyz/?migutoken=7841b8adc4bcfdcca35794067f014d25&id=CCTV2&type=yy
+2026-09-20 07:33:06,188 - INFO - URL在黑名单中: CCTV2, https://migu.188766.xyz/?migutoken=579981f6c852e250e5d5ff746e20c1da&id=CCTV2&type=yy
+2026-09-20 07:33:06,188 - INFO - URL在黑名单中: CCTV2, http://43.251.226.89:8080/play/2.m3u8
+2026-09-20 07:33:06,189 - INFO - URL在白名单中: CCTV2, http://112.27.235.94:8000/hls/2/index.m3u8
+2026-09-20 07:33:06,189 - INFO - URL在黑名单中: CCTV2, http://tvbox6.icu/tv/migu.php?id=cctv2
+2026-09-20 07:33:06,189 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:06,239 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:06,341 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:06,380 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:06,452 - INFO - URL检查完成
+2026-09-20 07:33:06,466 - INFO - 开始检查URL
+2026-09-20 07:33:06,670 - INFO - URL在黑名单中: CCTV3, https://migu.188766.xyz/?migutoken=c6891ddd9767e0c9f9b0f9a3aaf90c8b&id=CCTV3&type=yy
+2026-09-20 07:33:06,670 - INFO - URL在白名单中: CCTV3, http://183.215.134.239:19901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:06,670 - INFO - URL在白名单中: CCTV3, http://39.152.103.17:8089/tsfile/live/1002_1.m3u8
+2026-09-20 07:33:06,670 - INFO - URL在白名单中: CCTV3, http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:06,670 - INFO - URL在黑名单中: CCTV3, http://tvbox6.icu/tv/migu.php?id=cctv3
+2026-09-20 07:33:06,670 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:06,721 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:06,822 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:06,861 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:06,932 - INFO - URL检查完成
+2026-09-20 07:33:06,946 - INFO - 开始检查URL
+2026-09-20 07:33:07,150 - INFO - URL在黑名单中: CCTV4, https://migu.188766.xyz/?migutoken=e6a7be05ac76970c85926ce47a4d9c16&id=CCTV4&type=yy
+2026-09-20 07:33:07,151 - INFO - URL在黑名单中: CCTV4, https://migu.188766.xyz/?migutoken=c228696a8c2f743d3ef216f344a98977&id=CCTV4&type=yy
+2026-09-20 07:33:07,151 - INFO - URL在黑名单中: CCTV4, http://tvbox6.icu/tv/migu.php?id=cctv4
+2026-09-20 07:33:07,151 - INFO - URL在黑名单中: CCTV4, http://tvbox6.icu/tv/migu.php?id=cctv4o
+2026-09-20 07:33:07,151 - INFO - URL在黑名单中: CCTV4, http://tvbox6.icu/tv/migu.php?id=cctv4a
+2026-09-20 07:33:07,151 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:07,203 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:07,309 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:07,349 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:07,424 - INFO - URL检查完成
+2026-09-20 07:33:07,438 - INFO - 开始检查URL
+2026-09-20 07:33:07,639 - INFO - URL在黑名单中: CCTV5, https://migu.188766.xyz/?migutoken=8c596235c383b8d21a8db06fa3a6341f&id=CCTV5&type=yy
+2026-09-20 07:33:07,639 - INFO - URL在黑名单中: CCTV5, https://migu.188766.xyz/?migutoken=27cb71aa8c5613fa445122fc0f66fa66&id=CCTV5&type=yy
+2026-09-20 07:33:07,639 - INFO - URL在白名单中: CCTV5, http://43.251.226.89:8080/play/5.m3u8
+2026-09-20 07:33:07,639 - INFO - URL在黑名单中: CCTV5, http://tvbox6.icu/tv/migu.php?id=cctv5
+2026-09-20 07:33:07,639 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:07,691 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:07,793 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:07,832 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:07,904 - INFO - URL检查完成
+2026-09-20 07:33:07,918 - INFO - 开始检查URL
+2026-09-20 07:33:08,120 - INFO - URL在黑名单中: CCTV5+, https://migu.188766.xyz/?migutoken=c079a5251fc80c1d24fc1dcc7fd22857&id=CCTV5p&type=yy
+2026-09-20 07:33:08,120 - INFO - URL在黑名单中: CCTV5+, https://migu.188766.xyz/?migutoken=d2cd1916deb6f266df065efa10cb9dc4&id=CCTV5p&type=yy
+2026-09-20 07:33:08,120 - INFO - URL在白名单中: CCTV5+, http://112.27.235.94:8000/hls/6/index.m3u8
+2026-09-20 07:33:08,120 - INFO - URL在黑名单中: CCTV5+, http://43.251.226.89:8080/play/6.m3u8
+2026-09-20 07:33:08,120 - INFO - URL在白名单中: CCTV5+, http://120.76.248.139/live/bfgd/4200000246.m3u8
+2026-09-20 07:33:08,120 - INFO - URL在黑名单中: CCTV5+, http://tvbox6.icu/tv/migu.php?id=cctv5p
+2026-09-20 07:33:08,121 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:08,172 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:08,273 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:08,313 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:08,385 - INFO - URL检查完成
+2026-09-20 07:33:08,399 - INFO - 开始检查URL
+2026-09-20 07:33:08,602 - INFO - URL在黑名单中: CCTV6, https://migu.188766.xyz/?migutoken=095457749dc05a731a395617ab04949c&id=CCTV6&type=yy
+2026-09-20 07:33:08,602 - INFO - URL在黑名单中: CCTV6, http://43.251.226.89:8080/play/7.m3u8
+2026-09-20 07:33:08,602 - INFO - URL在黑名单中: CCTV6, http://tvbox6.icu/tv/migu.php?id=cctv6
+2026-09-20 07:33:08,602 - INFO - URL在白名单中: CCTV6, http://112.27.235.94:8000/hls/7/index.m3u8
+2026-09-20 07:33:08,602 - INFO - URL在黑名单中: CCTV6, http://xxwx.yoesun.com/xxw/1905电影网.php?id=cctv6
+2026-09-20 07:33:08,602 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:08,654 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:08,755 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:08,794 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:08,866 - INFO - URL检查完成
+2026-09-20 07:33:08,880 - INFO - 开始检查URL
+2026-09-20 07:33:09,083 - INFO - URL在黑名单中: CCTV7, https://migu.188766.xyz/?migutoken=5d5172943342247b1cb222a9ac5fc466&id=CCTV7&type=yy
+2026-09-20 07:33:09,083 - INFO - URL在白名单中: CCTV7, http://43.251.226.89:8080/play/8.m3u8
+2026-09-20 07:33:09,083 - INFO - URL在黑名单中: CCTV7, http://tvbox6.icu/tv/migu.php?id=cctv7
+2026-09-20 07:33:09,083 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:09,135 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:09,236 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:09,275 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:09,347 - INFO - URL检查完成
+2026-09-20 07:33:09,362 - INFO - 开始检查URL
+2026-09-20 07:33:09,565 - INFO - URL在黑名单中: CCTV8, https://migu.188766.xyz/?migutoken=bf7c0c509e507d01741102d404b99746&id=CCTV8&type=yy
+2026-09-20 07:33:09,566 - INFO - URL在黑名单中: CCTV8, https://migu.188766.xyz/?migutoken=8a0286a4ddfe3a0094414176b502c024&id=CCTV8&type=yy
+2026-09-20 07:33:09,566 - INFO - URL在白名单中: CCTV8, http://183.215.134.239:19901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:09,566 - INFO - URL在白名单中: CCTV8, http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:09,566 - INFO - URL在黑名单中: CCTV8, http://tvbox6.icu/tv/migu.php?id=cctv8
+2026-09-20 07:33:09,566 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:09,617 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:09,717 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:09,758 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:09,830 - INFO - URL检查完成
+2026-09-20 07:33:09,844 - INFO - 开始检查URL
+2026-09-20 07:33:10,044 - INFO - URL在黑名单中: CCTV9, https://migu.188766.xyz/?migutoken=e25de42a224e642a3594b1e93cf3ed1b&id=CCTV9&type=yy
+2026-09-20 07:33:10,044 - INFO - URL在黑名单中: CCTV9, https://migu.188766.xyz/?migutoken=9152adb8c108dfd57350f0155411384d&id=CCTV9&type=yy
+2026-09-20 07:33:10,045 - INFO - URL在黑名单中: CCTV9, http://tvbox6.icu/tv/migu.php?id=cctv9
+2026-09-20 07:33:10,045 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:10,096 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:10,198 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:10,237 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:10,309 - INFO - URL检查完成
+2026-09-20 07:33:10,323 - INFO - 开始检查URL
+2026-09-20 07:33:10,525 - INFO - URL在黑名单中: CCTV10, https://migu.188766.xyz/?migutoken=8b89795de1cc74318bf5c6293a4d6fa0&id=CCTV10&type=yy
+2026-09-20 07:33:10,525 - INFO - URL在黑名单中: CCTV10, https://migu.188766.xyz/?migutoken=a6ea9919efff70e8b58dbf6352764b65&id=CCTV10&type=yy
+2026-09-20 07:33:10,525 - INFO - URL在黑名单中: CCTV10, http://43.251.226.89:8080/play/11.m3u8
+2026-09-20 07:33:10,525 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:10,576 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:10,677 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:10,716 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:10,788 - INFO - URL检查完成
+2026-09-20 07:33:10,802 - INFO - 开始检查URL
+2026-09-20 07:33:11,004 - INFO - URL在黑名单中: CCTV11, https://migu.188766.xyz/?migutoken=928b715caf282de3d57af8064343951d&id=CCTV11&type=yy
+2026-09-20 07:33:11,004 - INFO - URL在黑名单中: CCTV11, http://tvbox6.icu/tv/migu.php?id=cctv11
+2026-09-20 07:33:11,004 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:11,058 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:11,160 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:11,199 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:11,271 - INFO - URL检查完成
+2026-09-20 07:33:11,285 - INFO - 开始检查URL
+2026-09-20 07:33:11,487 - INFO - URL在黑名单中: CCTV12, https://migu.188766.xyz/?migutoken=ed40b34faedf6d9fa8120a05c837f693&id=CCTV12&type=yy
+2026-09-20 07:33:11,488 - INFO - URL在白名单中: CCTV12, http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:11,488 - INFO - URL在黑名单中: CCTV12, http://tvbox6.icu/tv/migu.php?id=cctv12
+2026-09-20 07:33:11,488 - INFO - URL在白名单中: CCTV12, http://112.27.235.94:8000/hls/13/index.m3u8
+2026-09-20 07:33:11,488 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:11,540 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:11,640 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:11,679 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:11,750 - INFO - URL检查完成
+2026-09-20 07:33:11,764 - INFO - 开始检查URL
+2026-09-20 07:33:11,965 - INFO - URL在黑名单中: CCTV13, https://migu.188766.xyz/?migutoken=f2da258e6735fdb1f0c223b11149efa1&id=CCTV13&type=yy
+2026-09-20 07:33:11,965 - INFO - URL在黑名单中: CCTV13, https://migu.188766.xyz/?migutoken=18533d4d908fc58c106315210042a966&id=CCTV13&type=yy
+2026-09-20 07:33:11,965 - INFO - URL在白名单中: CCTV13, https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-09-20 07:33:11,965 - INFO - URL在白名单中: CCTV13, http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+2026-09-20 07:33:11,965 - INFO - URL在黑名单中: CCTV13, http://tvbox6.icu/tv/migu.php?id=cctv13
+2026-09-20 07:33:11,965 - INFO - URL在黑名单中: CCTV13, https://t.freetv.fun/live/cctv13-21.m3u8
+2026-09-20 07:33:11,965 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:12,017 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:12,117 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:12,158 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:12,228 - INFO - URL检查完成
+2026-09-20 07:33:12,243 - INFO - 开始检查URL
+2026-09-20 07:33:12,444 - INFO - URL在黑名单中: CCTV14, https://migu.188766.xyz/?migutoken=fad1feedb99d17fc8ec110df724186d3&id=CCTV14&type=yy
+2026-09-20 07:33:12,444 - INFO - URL在黑名单中: CCTV14, https://migu.188766.xyz/?migutoken=feb129122007256f7d5c543638f3c2bb&id=CCTV14&type=yy
+2026-09-20 07:33:12,444 - INFO - URL在白名单中: CCTV14, https://event.pull.hebtv.com/jishi/cp2.m3u8
+2026-09-20 07:33:12,444 - INFO - URL在黑名单中: CCTV14, http://tvbox6.icu/tv/migu.php?id=cctv14
+2026-09-20 07:33:12,444 - INFO - URL在黑名单中: CCTV14, http://43.251.226.89:8080/play/15.m3u8
+2026-09-20 07:33:12,444 - INFO - URL在白名单中: CCTV14, http://112.27.235.94:8000/hls/15/index.m3u8
+2026-09-20 07:33:12,444 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:12,495 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:12,596 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:12,636 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:12,707 - INFO - URL检查完成
+2026-09-20 07:33:12,721 - INFO - 开始检查URL
+2026-09-20 07:33:12,930 - INFO - URL在黑名单中: CCTV15, https://migu.188766.xyz/?migutoken=0d9a225defe44aff2149561898573a77&id=CCTV15&type=yy
+2026-09-20 07:33:12,930 - INFO - URL在黑名单中: CCTV15, http://43.251.226.89:8080/play/16.m3u8
+2026-09-20 07:33:12,930 - INFO - URL在黑名单中: CCTV15, http://tvbox6.icu/tv/migu.php?id=cctv15
+2026-09-20 07:33:12,930 - INFO - URL在白名单中: CCTV15, http://120.76.248.139/live/bfgd/4200000133.m3u8
+2026-09-20 07:33:12,930 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:12,981 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:13,081 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:13,120 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:13,191 - INFO - URL检查完成
+2026-09-20 07:33:13,205 - INFO - 开始检查URL
+2026-09-20 07:33:13,407 - INFO - URL在白名单中: CCTV16, http://39.152.103.17:8089/tsfile/live/1015_1.m3u8
+2026-09-20 07:33:13,407 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:13,458 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:13,558 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:13,598 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:13,669 - INFO - URL检查完成
+2026-09-20 07:33:13,683 - INFO - 开始检查URL
+2026-09-20 07:33:13,885 - INFO - URL在黑名单中: CCTV17, https://migu.188766.xyz/?migutoken=2f35c22bcc0bf8ec4d5df35fda777766&id=CCTV17&type=yy
+2026-09-20 07:33:13,885 - INFO - URL在黑名单中: CCTV17, https://migu.188766.xyz/?migutoken=2d1bdb0dad80b47e7c90052c3df56b35&id=CCTV17&type=yy
+2026-09-20 07:33:13,885 - INFO - URL在黑名单中: CCTV17, http://tvbox6.icu/tv/migu.php?id=cctv17
+2026-09-20 07:33:13,885 - INFO - URL在白名单中: CCTV17, http://120.76.248.139/live/bfgd/4200000204.m3u8
+2026-09-20 07:33:13,885 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:13,936 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:14,037 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:14,076 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:14,147 - INFO - URL检查完成
+2026-09-20 07:33:14,161 - INFO - 开始检查URL
+2026-09-20 07:33:14,363 - INFO - URL在黑名单中: CCTV-1综合, https://tv.iill.top/migu/cctv1
+2026-09-20 07:33:14,363 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:14,413 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:14,513 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:14,552 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:14,623 - INFO - URL检查完成
+2026-09-20 07:33:14,637 - INFO - 开始检查URL
+2026-09-20 07:33:14,839 - INFO - URL在黑名单中: CCTV-2财经, https://tv.iill.top/migu/cctv2
+2026-09-20 07:33:14,839 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:14,890 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:14,990 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:15,030 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:15,101 - INFO - URL检查完成
+2026-09-20 07:33:15,116 - INFO - 开始检查URL
+2026-09-20 07:33:15,316 - INFO - URL在白名单中: CCTV-3综艺, https://tv.iill.top/migu/cctv3
+2026-09-20 07:33:15,317 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:15,367 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:15,468 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:15,507 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:15,578 - INFO - URL检查完成
+2026-09-20 07:33:15,592 - INFO - 开始检查URL
+2026-09-20 07:33:15,794 - INFO - URL在白名单中: CCTV-4中文国际, https://tv.iill.top/migu/cctv4
+2026-09-20 07:33:15,794 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:15,845 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:15,948 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:15,987 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:16,059 - INFO - URL检查完成
+2026-09-20 07:33:16,074 - INFO - 开始检查URL
+2026-09-20 07:33:16,277 - INFO - URL在黑名单中: CCTV-5体育, https://tv.iill.top/migu/cctv5
+2026-09-20 07:33:16,278 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:16,329 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:16,430 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:16,469 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:16,541 - INFO - URL检查完成
+2026-09-20 07:33:16,555 - INFO - 开始检查URL
+2026-09-20 07:33:16,758 - INFO - URL在黑名单中: CCTV-5+体育赛事, https://tv.iill.top/migu/cctv5p
+2026-09-20 07:33:16,758 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:16,811 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:16,911 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:16,950 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:17,022 - INFO - URL检查完成
+2026-09-20 07:33:17,037 - INFO - 开始检查URL
+2026-09-20 07:33:17,239 - INFO - URL在黑名单中: CCTV-6电影, https://tv.iill.top/migu/cctv6
+2026-09-20 07:33:17,239 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:17,291 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:17,393 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:17,432 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:17,503 - INFO - URL检查完成
+2026-09-20 07:33:17,518 - INFO - 开始检查URL
+2026-09-20 07:33:17,721 - INFO - URL在白名单中: CCTV-7国防军事, https://tv.iill.top/migu/cctv7
+2026-09-20 07:33:17,721 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:17,772 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:17,872 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:17,911 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:17,983 - INFO - URL检查完成
+2026-09-20 07:33:17,998 - INFO - 开始检查URL
+2026-09-20 07:33:18,198 - INFO - URL在白名单中: CCTV-8电视剧, https://tv.iill.top/migu/cctv8
+2026-09-20 07:33:18,198 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:18,248 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:18,349 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:18,387 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:18,459 - INFO - URL检查完成
+2026-09-20 07:33:18,473 - INFO - 开始检查URL
+2026-09-20 07:33:18,675 - INFO - URL在白名单中: CCTV-9纪录, https://tv.iill.top/migu/cctv9
+2026-09-20 07:33:18,675 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:18,725 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:18,825 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:18,864 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:18,934 - INFO - URL检查完成
+2026-09-20 07:33:18,949 - INFO - 开始检查URL
+2026-09-20 07:33:19,152 - INFO - URL在白名单中: CCTV-10科教, https://tv.iill.top/migu/cctv10
+2026-09-20 07:33:19,152 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:19,204 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:19,303 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:19,342 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:19,413 - INFO - URL检查完成
+2026-09-20 07:33:19,427 - INFO - 开始检查URL
+2026-09-20 07:33:19,629 - INFO - URL在黑名单中: CCTV-11戏曲, https://tv.iill.top/migu/cctv11
+2026-09-20 07:33:19,630 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:19,681 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:19,781 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:19,820 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:19,891 - INFO - URL检查完成
+2026-09-20 07:33:19,905 - INFO - 开始检查URL
+2026-09-20 07:33:20,108 - INFO - URL在白名单中: CCTV-12社会与法, https://tv.iill.top/migu/cctv12
+2026-09-20 07:33:20,108 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:20,160 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:20,260 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:20,299 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:20,370 - INFO - URL检查完成
+2026-09-20 07:33:20,385 - INFO - 开始检查URL
+2026-09-20 07:33:20,587 - INFO - URL在白名单中: CCTV-13新闻, https://tv.iill.top/migu/cctv13
+2026-09-20 07:33:20,587 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:20,639 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:20,740 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:20,779 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:20,851 - INFO - URL检查完成
+2026-09-20 07:33:20,865 - INFO - 开始检查URL
+2026-09-20 07:33:21,067 - INFO - URL在黑名单中: CCTV-14少儿, https://tv.iill.top/migu/cctv14
+2026-09-20 07:33:21,068 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:21,119 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:21,221 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:21,261 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:21,333 - INFO - URL检查完成
+2026-09-20 07:33:21,348 - INFO - 开始检查URL
+2026-09-20 07:33:21,551 - INFO - URL在黑名单中: CCTV-15音乐, https://tv.iill.top/migu/cctv15
+2026-09-20 07:33:21,551 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:21,602 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:21,703 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:21,742 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:21,813 - INFO - URL检查完成
+2026-09-20 07:33:21,827 - INFO - 开始检查URL
+2026-09-20 07:33:22,029 - INFO - URL在白名单中: CCTV-17农业农村, https://tv.iill.top/migu/cctv17
+2026-09-20 07:33:22,029 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:22,082 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:22,183 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:22,221 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:22,293 - INFO - URL检查完成
+2026-09-20 07:33:22,308 - INFO - 开始检查URL
+2026-09-20 07:33:22,511 - INFO - URL在黑名单中: 湖南卫视, https://migu.188766.xyz/?migutoken=ae73ef66bd109f114cf569d2220a3797&id=hnws&type=sz
+2026-09-20 07:33:22,511 - INFO - URL在黑名单中: 湖南卫视, https://migu.188766.xyz/?migutoken=3ea0edb779e16d47b7c19af71f68b8d6&id=hnws&type=sz
+2026-09-20 07:33:22,511 - INFO - URL在白名单中: 湖南卫视, http://61.163.181.78:85/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:22,511 - INFO - URL在黑名单中: 湖南卫视, http://tvbox6.icu/tv/migu.php?id=hunws
+2026-09-20 07:33:22,511 - INFO - URL在白名单中: 湖南卫视, http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+2026-09-20 07:33:22,511 - INFO - URL在白名单中: 湖南卫视, http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+2026-09-20 07:33:22,511 - INFO - URL在白名单中: 湖南卫视, http://183.215.134.239:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:22,511 - INFO - URL在黑名单中: 湖南卫视, https://t.freetv.fun/live/hu-nan-wei-shi-13.m3u8
+2026-09-20 07:33:22,511 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:22,564 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:22,665 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:22,704 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:22,776 - INFO - URL检查完成
+2026-09-20 07:33:22,790 - INFO - 开始检查URL
+2026-09-20 07:33:22,993 - INFO - URL在黑名单中: 浙江卫视, https://migu.188766.xyz/?migutoken=59e99918a255463297aa2b79d8c52ff6&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+2026-09-20 07:33:22,993 - INFO - URL在白名单中: 浙江卫视, https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+2026-09-20 07:33:22,993 - INFO - URL在黑名单中: 浙江卫视, https://migu.188766.xyz/?migutoken=1e4b588eba92db60c24f8d458cf44f79&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86&pp=1
+2026-09-20 07:33:22,993 - INFO - URL在白名单中: 浙江卫视, http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+2026-09-20 07:33:22,994 - INFO - URL在白名单中: 浙江卫视, http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
+2026-09-20 07:33:22,994 - INFO - URL在白名单中: 浙江卫视, https://play-qukan.cztv.com/live/1746687519046362.m3u8
+2026-09-20 07:33:22,994 - INFO - URL在白名单中: 浙江卫视, https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+2026-09-20 07:33:22,994 - INFO - URL在白名单中: 浙江卫视, https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
+2026-09-20 07:33:22,994 - INFO - URL在白名单中: 浙江卫视, http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:22,994 - INFO - URL在白名单中: 浙江卫视, http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
+2026-09-20 07:33:22,994 - INFO - URL在白名单中: 浙江卫视, http://183.215.134.239:19901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:22,994 - INFO - URL在白名单中: 浙江卫视, http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+2026-09-20 07:33:22,994 - INFO - URL在白名单中: 浙江卫视, http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+2026-09-20 07:33:22,994 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:23,048 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:23,152 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:23,191 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:23,262 - INFO - URL检查完成
+2026-09-20 07:33:23,277 - INFO - 开始检查URL
+2026-09-20 07:33:23,482 - INFO - URL在黑名单中: 东方卫视, https://migu.188766.xyz/?migutoken=ee72e71131bb44ca0cb5afb0de13fed4&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:23,482 - INFO - URL在黑名单中: 东方卫视, https://migu.188766.xyz/?migutoken=b4f30afa875eb7c3050026c2f5668021&id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:23,482 - INFO - URL在黑名单中: 东方卫视, https://tv.iill.top/migu/dfws
+2026-09-20 07:33:23,482 - INFO - URL在白名单中: 东方卫视, http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
+2026-09-20 07:33:23,482 - INFO - URL在黑名单中: 东方卫视, http://tvbox6.icu/tv/migu.php?id=dfws
+2026-09-20 07:33:23,482 - INFO - URL在白名单中: 东方卫视, http://183.215.134.239:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:23,482 - INFO - URL在白名单中: 东方卫视, http://112.27.235.94:8000/hls/28/index.m3u8
+2026-09-20 07:33:23,482 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:23,533 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:23,635 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:23,674 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:23,745 - INFO - URL检查完成
+2026-09-20 07:33:23,760 - INFO - 开始检查URL
+2026-09-20 07:33:23,963 - INFO - URL在白名单中: 北京卫视, http://112.27.235.94:8000/hls/27/index.m3u8
+2026-09-20 07:33:23,964 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:24,014 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:24,117 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:24,158 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:24,228 - INFO - URL检查完成
+2026-09-20 07:33:24,243 - INFO - 开始检查URL
+2026-09-20 07:33:24,445 - INFO - URL在黑名单中: 江苏卫视, https://migu.188766.xyz/?migutoken=32b6e40243e3018caba1eece9824470d&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:24,445 - INFO - URL在黑名单中: 江苏卫视, https://migu.188766.xyz/?migutoken=23acff0ff0ecaef3d340a1a4e7d9ef67&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:24,445 - INFO - URL在白名单中: 江苏卫视, https://tv.iill.top/migu/jsws
+2026-09-20 07:33:24,445 - INFO - URL在黑名单中: 江苏卫视, http://tvbox6.icu/tv/migu.php?id=jsws
+2026-09-20 07:33:24,446 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:24,496 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:24,597 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:24,637 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:24,708 - INFO - URL检查完成
+2026-09-20 07:33:24,722 - INFO - 开始检查URL
+2026-09-20 07:33:24,925 - INFO - URL在黑名单中: 重庆卫视, http://tvbox6.icu/tv/migu.php?id=cqws
+2026-09-20 07:33:24,925 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:24,977 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:25,078 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:25,117 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:25,188 - INFO - URL检查完成
+2026-09-20 07:33:25,202 - INFO - 开始检查URL
+2026-09-20 07:33:25,405 - INFO - URL在白名单中: 东南卫视, http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
+2026-09-20 07:33:25,405 - INFO - URL在白名单中: 东南卫视, http://120.76.248.139/live/bfgd/4200000483.m3u8
+2026-09-20 07:33:25,406 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:25,457 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:25,559 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:25,599 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:25,669 - INFO - URL检查完成
+2026-09-20 07:33:25,684 - INFO - 开始检查URL
+2026-09-20 07:33:25,887 - INFO - URL在白名单中: 深圳卫视, http://112.27.235.94:8000/hls/33/index.m3u8
+2026-09-20 07:33:25,887 - INFO - URL在白名单中: 深圳卫视, http://183.215.134.239:19901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:25,887 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:25,939 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:26,039 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:26,079 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:26,150 - INFO - URL检查完成
+2026-09-20 07:33:26,165 - INFO - 开始检查URL
+2026-09-20 07:33:26,367 - INFO - URL在黑名单中: 广东卫视, https://migu.188766.xyz/?migutoken=57a4d59310e507a243a9e1faa1d7c83e&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:26,367 - INFO - URL在黑名单中: 广东卫视, https://migu.188766.xyz/?migutoken=6f089ea86b898d859145b20935c97f9a&id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:26,368 - INFO - URL在黑名单中: 广东卫视, http://tvbox6.icu/tv/migu.php?id=gdws
+2026-09-20 07:33:26,368 - INFO - URL在白名单中: 广东卫视, http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:26,368 - INFO - URL在白名单中: 广东卫视, http://183.215.134.239:19901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:26,368 - INFO - URL在白名单中: 广东卫视, http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:26,368 - INFO - URL在黑名单中: 广东卫视, http://hlsztemgsplive.miguvideo.com:8080/ws_w/2018/gdws/gdws711/1000/index.m3u8?msisdn=20260209040208b7fdef1503cd41b3a15efc83c4616146&mdspid=&spid=699054&netType=0&sid=2202428795&pid=2028597139&timestamp=20260209040208&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608831231&ParentNodeID=-99&assertID=2202428795&client_ip=218.28.233.106&SecurityKey=20260209040208&promotionId=&mvid=2202428795&mcid=500020&playurlVersion=WX-A1-9.1.1.3-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=a52d374097b5f15c689423533a043ba9
+2026-09-20 07:33:26,368 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:26,420 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:26,520 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:26,560 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:26,631 - INFO - URL检查完成
+2026-09-20 07:33:26,646 - INFO - 开始检查URL
+2026-09-20 07:33:26,848 - INFO - URL在黑名单中: 广西卫视, http://tvbox6.icu/tv/migu.php?id=gxws
+2026-09-20 07:33:26,848 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:26,900 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:27,000 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:27,039 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:27,110 - INFO - URL检查完成
+2026-09-20 07:33:27,124 - INFO - 开始检查URL
+2026-09-20 07:33:27,332 - INFO - URL在黑名单中: 甘肃卫视, http://tvbox6.icu/tv/migu.php?id=gsws
+2026-09-20 07:33:27,332 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:27,383 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:27,485 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:27,525 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:27,595 - INFO - URL检查完成
+2026-09-20 07:33:27,610 - INFO - 开始检查URL
+2026-09-20 07:33:27,814 - INFO - URL在黑名单中: 贵州卫视, http://tvbox6.icu/tv/migu.php?id=gzws
+2026-09-20 07:33:27,814 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:27,865 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:27,964 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:28,005 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:28,090 - INFO - URL检查完成
+2026-09-20 07:33:28,105 - INFO - 开始检查URL
+2026-09-20 07:33:28,307 - INFO - URL在白名单中: 河北卫视, http://120.76.248.139/live/bfgd/4200000108.m3u8
+2026-09-20 07:33:28,307 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:28,358 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:28,458 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:28,498 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:28,569 - INFO - URL检查完成
+2026-09-20 07:33:28,584 - INFO - 开始检查URL
+2026-09-20 07:33:28,789 - INFO - URL在黑名单中: 河南卫视, https://migu.188766.xyz/?migutoken=5c56f9fe9f7d7cefdf261569960c940b&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85&type=yy
+2026-09-20 07:33:28,789 - INFO - URL在黑名单中: 河南卫视, https://migu.188766.xyz/?migutoken=28652f0b3fb8db15e81f1b23084b9edf&id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:28,789 - INFO - URL在黑名单中: 河南卫视, http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
+2026-09-20 07:33:28,789 - INFO - URL在黑名单中: 河南卫视, http://tvbox6.icu/tv/migu.php?id=hnws
+2026-09-20 07:33:28,789 - INFO - URL在白名单中: 河南卫视, http://1.94.31.214/php/hntv.php?id=hnws
+2026-09-20 07:33:28,789 - INFO - URL在黑名单中: 河南卫视, https://t.freetv.fun/live/he-nan-wei-shi-13.php
+2026-09-20 07:33:28,789 - INFO - URL在黑名单中: 河南卫视, http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=88295ad4c23801b4db8f2e9c29bc4789&wsTime=1770595078
+2026-09-20 07:33:28,789 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:28,841 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:28,941 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:28,980 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:29,052 - INFO - URL检查完成
+2026-09-20 07:33:29,067 - INFO - 开始检查URL
+2026-09-20 07:33:29,269 - INFO - URL在白名单中: 黑龙江卫视, http://120.76.248.139/live/bfgd/4200000095.m3u8
+2026-09-20 07:33:29,269 - INFO - URL在白名单中: 黑龙江卫视, http://112.27.235.94:8000/hls/48/index.m3u8
+2026-09-20 07:33:29,269 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:29,321 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:29,420 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:29,460 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:29,531 - INFO - URL检查完成
+2026-09-20 07:33:29,546 - INFO - 开始检查URL
+2026-09-20 07:33:29,751 - INFO - URL在黑名单中: 湖北卫视, https://migu.188766.xyz/?migutoken=288b192300b89db840e4c9928a5de8b4&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:29,751 - INFO - URL在黑名单中: 湖北卫视, https://migu.188766.xyz/?migutoken=8406a166fcb56b8ddf84e2efc0a5db82&id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:29,751 - INFO - URL在黑名单中: 湖北卫视, http://tvbox6.icu/tv/migu.php?id=hubws
+2026-09-20 07:33:29,751 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:29,803 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:29,904 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:29,944 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:30,015 - INFO - URL检查完成
+2026-09-20 07:33:30,030 - INFO - 开始检查URL
+2026-09-20 07:33:30,235 - INFO - URL在黑名单中: 江西卫视, https://migu.188766.xyz/?migutoken=8e7e43f88dc06a1f0d9667b237b7c60e&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:30,235 - INFO - URL在黑名单中: 江西卫视, https://migu.188766.xyz/?migutoken=8e783e5cf54c7552bb4c7aecbeae7d40&id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:30,235 - INFO - URL在黑名单中: 江西卫视, http://tvbox6.icu/tv/migu.php?id=jxws
+2026-09-20 07:33:30,235 - INFO - URL在白名单中: 江西卫视, http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:30,235 - INFO - URL在白名单中: 江西卫视, http://183.215.134.239:19901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:30,235 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:30,288 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:30,391 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:30,430 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:30,500 - INFO - URL检查完成
+2026-09-20 07:33:30,515 - INFO - 开始检查URL
+2026-09-20 07:33:30,718 - INFO - URL在黑名单中: 吉林卫视, https://migu.188766.xyz/?migutoken=51534e92696fee1c1f11a88f42af3e2d&id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:30,718 - INFO - URL在黑名单中: 吉林卫视, http://tvbox6.icu/tv/migu.php?id=jlws
+2026-09-20 07:33:30,718 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:30,770 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:30,870 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:30,909 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:30,980 - INFO - URL检查完成
+2026-09-20 07:33:30,994 - INFO - 开始检查URL
+2026-09-20 07:33:31,227 - INFO - URL在黑名单中: 内蒙古卫视, https://migu.188766.xyz/?migutoken=df2081409752001dae3bff9d4c3ecd73&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
+2026-09-20 07:33:31,227 - INFO - URL在黑名单中: 内蒙古卫视, https://migu.188766.xyz/?migutoken=b5858e0646147a6473f2d100c4c3eb88&id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86&pp=1
+2026-09-20 07:33:31,227 - INFO - URL在黑名单中: 内蒙古卫视, http://tvbox6.icu/tv/migu.php?id=nmws
+2026-09-20 07:33:31,227 - INFO - URL在白名单中: 内蒙古卫视, https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+2026-09-20 07:33:31,227 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:31,279 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:31,380 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:31,421 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:31,491 - INFO - URL检查完成
+2026-09-20 07:33:31,505 - INFO - 开始检查URL
+2026-09-20 07:33:31,709 - INFO - URL在黑名单中: 辽宁卫视, https://migu.188766.xyz/?migutoken=ab330788c285a4cf92446a7e0a05fcc2&id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:31,709 - INFO - URL在黑名单中: 辽宁卫视, http://43.251.226.89:8080/play/41.m3u8
+2026-09-20 07:33:31,709 - INFO - URL在黑名单中: 辽宁卫视, http://tvbox6.icu/tv/migu.php?id=lnws
+2026-09-20 07:33:31,709 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:31,760 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:31,861 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:31,900 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:31,971 - INFO - URL检查完成
+2026-09-20 07:33:31,985 - INFO - 开始检查URL
+2026-09-20 07:33:32,190 - INFO - URL在黑名单中: 宁夏卫视, http://43.251.226.89:8080/play/54.m3u8
+2026-09-20 07:33:32,190 - INFO - URL在黑名单中: 宁夏卫视, http://tvbox6.icu/tv/migu.php?id=nxws
+2026-09-20 07:33:32,190 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:32,242 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:32,345 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:32,384 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:32,456 - INFO - URL检查完成
+2026-09-20 07:33:32,470 - INFO - 开始检查URL
+2026-09-20 07:33:32,671 - INFO - URL在黑名单中: 青海卫视, https://migu.188766.xyz/?migutoken=055934c46e0598815d09fce07b763bd0&id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:32,671 - INFO - URL在黑名单中: 青海卫视, http://43.251.226.89:8080/play/48.m3u8
+2026-09-20 07:33:32,671 - INFO - URL在白名单中: 青海卫视, http://120.76.248.139/live/bfgd/4200000111.m3u8
+2026-09-20 07:33:32,671 - INFO - URL在黑名单中: 青海卫视, http://tvbox6.icu/tv/migu.php?id=qhws
+2026-09-20 07:33:32,671 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:32,722 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:32,823 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:32,863 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:32,935 - INFO - URL检查完成
+2026-09-20 07:33:32,949 - INFO - 开始检查URL
+2026-09-20 07:33:33,150 - INFO - URL在白名单中: 山东卫视, http://120.76.248.139/live/bfgd/4200000099.m3u8
+2026-09-20 07:33:33,150 - INFO - URL在黑名单中: 山东卫视, http://tvbox6.icu/tv/migu.php?id=sdws
+2026-09-20 07:33:33,150 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:33,201 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:33,302 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:33,341 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:33,411 - INFO - URL检查完成
+2026-09-20 07:33:33,426 - INFO - 开始检查URL
+2026-09-20 07:33:33,630 - INFO - URL在白名单中: 天津卫视, http://112.27.235.94:8000/hls/42/index.m3u8
+2026-09-20 07:33:33,630 - INFO - URL在白名单中: 天津卫视, http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-09-20 07:33:33,630 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:33,681 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:33,782 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:33,822 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:33,912 - INFO - URL检查完成
+2026-09-20 07:33:33,928 - INFO - 开始检查URL
+2026-09-20 07:33:34,131 - INFO - URL在黑名单中: 海南卫视, https://migu.188766.xyz/?migutoken=14faabef39292696f0a771e42955d81a&id=hn_hnws&type=sz
+2026-09-20 07:33:34,131 - INFO - URL在黑名单中: 海南卫视, https://migu.188766.xyz/?migutoken=9e2e9770c38fd57761d105d3603a9ed1&id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:34,131 - INFO - URL在黑名单中: 海南卫视, http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+2026-09-20 07:33:34,131 - INFO - URL在白名单中: 海南卫视, http://nn.7x9d.cn/地方台8563/海南.php?id=hnws&?key=txiptv
+2026-09-20 07:33:34,131 - INFO - URL在白名单中: 海南卫视, http://120.76.248.139/live/bfgd/4200000473.m3u8
+2026-09-20 07:33:34,131 - INFO - URL在白名单中: 海南卫视, http://111.221.137.234:44330/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+2026-09-20 07:33:34,131 - INFO - URL在黑名单中: 海南卫视, http://tvbox6.icu/tv/migu.php?id=hinws
+2026-09-20 07:33:34,132 - INFO - URL在白名单中: 海南卫视, http://39.152.103.17:8089/tsfile/live/1046_1.m3u8
+2026-09-20 07:33:34,132 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:34,183 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:34,285 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:34,325 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:34,398 - INFO - URL检查完成
+2026-09-20 07:33:34,412 - INFO - 开始检查URL
+2026-09-20 07:33:34,616 - INFO - URL在黑名单中: 新疆卫视, http://tvbox6.icu/tv/migu.php?id=xjws
+2026-09-20 07:33:34,616 - INFO - URL在白名单中: 新疆卫视, http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd
+2026-09-20 07:33:34,616 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:34,667 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:34,769 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:34,808 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:34,880 - INFO - URL检查完成
+2026-09-20 07:33:34,895 - INFO - 开始检查URL
+2026-09-20 07:33:35,099 - INFO - URL在黑名单中: 云南卫视, http://tvbox6.icu/tv/migu.php?id=ynws
+2026-09-20 07:33:35,099 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:35,151 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:35,254 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:35,293 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:35,367 - INFO - URL检查完成
+2026-09-20 07:33:35,382 - INFO - 开始检查URL
+2026-09-20 07:33:35,588 - INFO - URL在黑名单中: 西藏卫视, http://tvbox6.icu/tv/migu.php?id=xzws
+2026-09-20 07:33:35,588 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:35,639 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:35,739 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:35,779 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:35,850 - INFO - URL检查完成
+2026-09-20 07:33:35,864 - INFO - 开始检查URL
+2026-09-20 07:33:36,070 - INFO - URL在黑名单中: 海峡卫视, http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
+2026-09-20 07:33:36,070 - INFO - URL在白名单中: 海峡卫视, http://8.138.7.223/tv/hxws.m3u8
+2026-09-20 07:33:36,070 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:36,121 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:36,222 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:36,262 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:36,333 - INFO - URL检查完成
+2026-09-20 07:33:36,348 - INFO - 开始检查URL
+2026-09-20 07:33:36,552 - INFO - URL在黑名单中: 兵团卫视, https://migu.188766.xyz/?migutoken=a30c3a7d0e33e403ebf88caf1f7be5e9&id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:36,552 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:36,603 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:36,702 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:36,742 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:36,812 - INFO - URL检查完成
+2026-09-20 07:33:36,828 - INFO - 开始检查URL
+2026-09-20 07:33:37,032 - INFO - URL在白名单中: 安多卫视, https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
+2026-09-20 07:33:37,032 - INFO - URL在白名单中: 安多卫视, https://liveout.xntv.tv/a65jur/96iln2.m3u8
+2026-09-20 07:33:37,032 - INFO - URL在白名单中: 安多卫视, https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
+2026-09-20 07:33:37,032 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:37,084 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:37,184 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:37,224 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:37,295 - INFO - URL检查完成
+2026-09-20 07:33:37,310 - INFO - 开始检查URL
+2026-09-20 07:33:37,515 - INFO - URL在黑名单中: 农林卫视, https://migu.188766.xyz/?migutoken=b30d111cb1949ba27d8adc029e22b764&id=%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86&type=yy
+2026-09-20 07:33:37,515 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:37,567 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:37,671 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:37,712 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:37,783 - INFO - URL检查完成
+2026-09-20 07:33:37,798 - INFO - 开始检查URL
+2026-09-20 07:33:38,004 - INFO - URL在黑名单中: 三沙卫视, https://migu.188766.xyz/?migutoken=94d4cba38ba093b91ba52809e0b8eb46&id=hn_ssws&type=sz
+2026-09-20 07:33:38,004 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:38,055 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:38,159 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:38,199 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:38,270 - INFO - URL检查完成
+2026-09-20 07:33:38,285 - INFO - 开始检查URL
+2026-09-20 07:33:38,494 - INFO - URL在白名单中: 延边卫视, http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
+2026-09-20 07:33:38,494 - INFO - URL在白名单中: 延边卫视, http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+2026-09-20 07:33:38,494 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:38,545 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:38,647 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:38,686 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:38,757 - INFO - URL检查完成
+2026-09-20 07:33:38,772 - INFO - 开始检查URL
+2026-09-20 07:33:38,977 - INFO - URL在白名单中: TVBS新闻, https://smt.858.qzz.io/Smart.php?id=tvbs_n
+2026-09-20 07:33:38,978 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:39,028 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:39,129 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:39,169 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:39,240 - INFO - URL检查完成
+2026-09-20 07:33:39,255 - INFO - 开始检查URL
+2026-09-20 07:33:39,458 - INFO - URL在黑名单中: TVBSHD, https://tv.iill.top/litv/4gtv-4gtv073
+2026-09-20 07:33:39,459 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:39,510 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:39,613 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:39,652 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:39,723 - INFO - URL检查完成
+2026-09-20 07:33:39,738 - INFO - 开始检查URL
+2026-09-20 07:33:39,942 - INFO - URL在白名单中: 中天娱乐, https://smt.858.qzz.io/Smart.php?id=ctient
+2026-09-20 07:33:39,942 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:39,993 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:40,093 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:40,133 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:40,204 - INFO - URL检查完成
+2026-09-20 07:33:40,219 - INFO - 开始检查URL
+2026-09-20 07:33:40,422 - INFO - URL在白名单中: 中天新闻, https://smt.858.qzz.io/Smart.php?id=ctinews
+2026-09-20 07:33:40,422 - INFO - URL在白名单中: 中天新闻, http://stream-ali1.csslcloud.net/live/ogVoQHdbfd2ydsH4o82zYFquhPEy4XWeWisjW2fHs4Oew26P63.flv
+2026-09-20 07:33:40,422 - INFO - URL在白名单中: 中天新闻, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv009
+2026-09-20 07:33:40,422 - INFO - URL在白名单中: 中天新闻, http://jnzq.ohoyee.com:9080/live/fc.m3u8
+2026-09-20 07:33:40,422 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:40,473 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:40,578 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:40,617 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:40,689 - INFO - URL检查完成
+2026-09-20 07:33:40,704 - INFO - 开始检查URL
+2026-09-20 07:33:40,908 - INFO - URL在白名单中: 中天综合, https://smt.858.qzz.io/Smart.php?id=ctizhonghe
+2026-09-20 07:33:40,908 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:40,959 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:41,061 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:41,100 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:41,171 - INFO - URL检查完成
+2026-09-20 07:33:41,186 - INFO - 开始检查URL
+2026-09-20 07:33:41,388 - INFO - URL在白名单中: 中天亚洲, https://smt.858.qzz.io/Smart.php?id=ctiasia_twn
+2026-09-20 07:33:41,388 - INFO - URL在白名单中: 中天亚洲, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv109
+2026-09-20 07:33:41,388 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:41,440 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:41,541 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:41,581 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:41,652 - INFO - URL检查完成
+2026-09-20 07:33:41,667 - INFO - 开始检查URL
+2026-09-20 07:33:41,872 - INFO - URL在白名单中: 东森新闻, https://smt.858.qzz.io/Smart.php?id=ettvnews
+2026-09-20 07:33:41,872 - INFO - URL在白名单中: 东森新闻, http://stream-ali1.csslcloud.net/live/IfhEdN30gjBbSbfd2ySSKGFHHl6JFBwhgtYpQxoGIKytCfl1hl.flv
+2026-09-20 07:33:41,872 - INFO - URL在白名单中: 东森新闻, http://xtvantsc.xyz/Smart.php?id=ettvnews
+2026-09-20 07:33:41,872 - INFO - URL在白名单中: 东森新闻, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv152
+2026-09-20 07:33:41,872 - INFO - URL在白名单中: 东森新闻, http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv152
+2026-09-20 07:33:41,872 - INFO - URL在白名单中: 东森新闻, https://tv.iill.top/litv/4gtv-4gtv152
+2026-09-20 07:33:41,872 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:41,923 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:42,027 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:42,066 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:42,138 - INFO - URL检查完成
+2026-09-20 07:33:42,152 - INFO - 开始检查URL
+2026-09-20 07:33:42,357 - INFO - URL在白名单中: 东森戏剧, https://smt.858.qzz.io/Smart.php?id=ettvdrama
+2026-09-20 07:33:42,357 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:42,408 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:42,511 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:42,553 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:42,625 - INFO - URL检查完成
+2026-09-20 07:33:42,642 - INFO - 开始检查URL
+2026-09-20 07:33:42,849 - INFO - URL在白名单中: 东森洋片, https://smt.858.qzz.io/Smart.php?id=ettvwestern
+2026-09-20 07:33:42,849 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:42,900 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:43,003 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:43,045 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:43,116 - INFO - URL检查完成
+2026-09-20 07:33:43,132 - INFO - 开始检查URL
+2026-09-20 07:33:43,337 - INFO - URL在白名单中: 东森综合, https://smt.858.qzz.io/Smart.php?id=ettvzhonghe
+2026-09-20 07:33:43,337 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:43,388 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:43,490 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:43,531 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:43,603 - INFO - URL检查完成
+2026-09-20 07:33:43,617 - INFO - 开始检查URL
+2026-09-20 07:33:43,823 - INFO - URL在白名单中: 东森电影, https://smt.858.qzz.io/Smart.php?id=ettvmovie
+2026-09-20 07:33:43,823 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:43,876 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:43,977 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:44,016 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:44,090 - INFO - URL检查完成
+2026-09-20 07:33:44,104 - INFO - 开始检查URL
+2026-09-20 07:33:44,312 - INFO - URL在白名单中: 东森财经新闻, https://tv.iill.top/litv/4gtv-4gtv153
+2026-09-20 07:33:44,312 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:44,364 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:44,464 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:44,503 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:44,574 - INFO - URL检查完成
+2026-09-20 07:33:44,589 - INFO - 开始检查URL
+2026-09-20 07:33:44,791 - INFO - URL在白名单中: 三立戏剧台, https://smt.858.qzz.io/Smart.php?id=sanlixiju_twn
+2026-09-20 07:33:44,791 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:44,842 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:44,942 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:44,982 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:45,053 - INFO - URL检查完成
+2026-09-20 07:33:45,067 - INFO - 开始检查URL
+2026-09-20 07:33:45,270 - INFO - URL在白名单中: 三立新闻台, https://tv.iill.top/4gtv/229
+2026-09-20 07:33:45,270 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:45,322 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:45,422 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:45,463 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:45,533 - INFO - URL检查完成
+2026-09-20 07:33:45,548 - INFO - 开始检查URL
+2026-09-20 07:33:45,750 - INFO - URL在白名单中: 三立综合台, https://smt.858.qzz.io/Smart.php?id=sanlizhonghe
+2026-09-20 07:33:45,751 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:45,802 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:45,903 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:45,943 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:46,014 - INFO - URL检查完成
+2026-09-20 07:33:46,028 - INFO - 开始检查URL
+2026-09-20 07:33:46,231 - INFO - URL在白名单中: 台视, https://tv.iill.top/litv/4gtv-4gtv066
+2026-09-20 07:33:46,231 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:46,283 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:46,383 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:46,423 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:46,495 - INFO - URL检查完成
+2026-09-20 07:33:46,509 - INFO - 开始检查URL
+2026-09-20 07:33:46,711 - INFO - URL在白名单中: 台视新闻台, https://smt.858.qzz.io/Smart.php?id=ttvnews_twn
+2026-09-20 07:33:46,711 - INFO - URL在白名单中: 台视新闻台, http://stream-ali1.csslcloud.net/live/ofFqVir8hEYxZDb6y677FJxn0xrbfd2yPfOT6XuHngNXajvBUY.flv
+2026-09-20 07:33:46,712 - INFO - URL在白名单中: 台视新闻台, http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv051
+2026-09-20 07:33:46,712 - INFO - URL在白名单中: 台视新闻台, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv051
+2026-09-20 07:33:46,712 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:46,763 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:46,865 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:46,905 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:46,976 - INFO - URL检查完成
+2026-09-20 07:33:46,990 - INFO - 开始检查URL
+2026-09-20 07:33:47,193 - INFO - URL在白名单中: 公视新闻网, https://tv.iill.top/litv/4gtv-4gtv051
+2026-09-20 07:33:47,193 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:47,245 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:47,346 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:47,385 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:47,457 - INFO - URL检查完成
+2026-09-20 07:33:47,471 - INFO - 开始检查URL
+2026-09-20 07:33:47,674 - INFO - URL在白名单中: 公视台语台, https://smt.858.qzz.io/Smart.php?id=ctv2_twn
+2026-09-20 07:33:47,674 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:47,726 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:47,829 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:47,869 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:47,940 - INFO - URL检查完成
+2026-09-20 07:33:47,954 - INFO - 开始检查URL
+2026-09-20 07:33:48,156 - INFO - URL在白名单中: 民视, http://stream-ali1.csslcloud.net/live/ERadomiHh4srbiVLuQH0M1KoLqTYrGUZBRAAxPowEwb8JN2Yf0.flv
+2026-09-20 07:33:48,156 - INFO - URL在白名单中: 民视, http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv155
+2026-09-20 07:33:48,156 - INFO - URL在白名单中: 民视, http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv002
+2026-09-20 07:33:48,156 - INFO - URL在白名单中: 民视, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv002
+2026-09-20 07:33:48,156 - INFO - URL在白名单中: 民视, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv155
+2026-09-20 07:33:48,156 - INFO - URL在白名单中: 民视, https://tv.iill.top/litv/4gtv-4gtv002
+2026-09-20 07:33:48,156 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:48,207 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:48,309 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:48,350 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:48,421 - INFO - URL检查完成
+2026-09-20 07:33:48,436 - INFO - 开始检查URL
+2026-09-20 07:33:48,638 - INFO - URL在白名单中: 民视第一台, https://smt.858.qzz.io/Smart.php?id=lunghuajingdian_twn
+2026-09-20 07:33:48,638 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:48,689 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:48,791 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:48,831 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:48,902 - INFO - URL检查完成
+2026-09-20 07:33:48,916 - INFO - 开始检查URL
+2026-09-20 07:33:49,118 - INFO - URL在白名单中: 民视新闻台, https://smt.858.qzz.io/Smart.php?id=ftvnew_taiwan
+2026-09-20 07:33:49,118 - INFO - URL在白名单中: 民视新闻台, http://xtvantsc.xyz/litv_ts.php?id=litv-ftv13
+2026-09-20 07:33:49,119 - INFO - URL在白名单中: 民视新闻台, http://stream-ali1.csslcloud.net/live/5CkUiYhpTaUWibfd2yVPulg2rBioJ6XgbbmxF2hWNQyygV2U12.flv
+2026-09-20 07:33:49,119 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:49,171 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:49,272 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:49,312 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:49,383 - INFO - URL检查完成
+2026-09-20 07:33:49,398 - INFO - 开始检查URL
+2026-09-20 07:33:49,600 - INFO - URL在白名单中: 民视台湾台, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv001
+2026-09-20 07:33:49,600 - INFO - URL在白名单中: 民视台湾台, http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv001
+2026-09-20 07:33:49,601 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:49,653 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:49,754 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:49,793 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:49,865 - INFO - URL检查完成
+2026-09-20 07:33:49,879 - INFO - 开始检查URL
+2026-09-20 07:33:50,082 - INFO - URL在白名单中: 中视, https://tv.iill.top/litv/4gtv-4gtv040
+2026-09-20 07:33:50,082 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:50,134 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:50,235 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:50,274 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:50,346 - INFO - URL检查完成
+2026-09-20 07:33:50,361 - INFO - 开始检查URL
+2026-09-20 07:33:50,563 - INFO - URL在白名单中: 中视新闻台, https://smt.858.qzz.io/Smart.php?id=zhongshinews_twn
+2026-09-20 07:33:50,564 - INFO - URL在白名单中: 中视新闻台, http://stream-ali1.csslcloud.net/live/hNsy4N2Ykbfd2ywCSlOqFQ1aSenAhZLYUenP1IoaAltR3IXYOp.flv
+2026-09-20 07:33:50,564 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:50,615 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:50,719 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:50,759 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:50,831 - INFO - URL检查完成
+2026-09-20 07:33:50,845 - INFO - 开始检查URL
+2026-09-20 07:33:51,047 - INFO - URL在白名单中: 中视经典台, https://smt.858.qzz.io/Smart.php?id=zhongshi_twn
+2026-09-20 07:33:51,047 - INFO - URL在白名单中: 中视经典台, https://tv.iill.top/litv/4gtv-4gtv080
+2026-09-20 07:33:51,047 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:51,099 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:51,202 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:51,241 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:51,312 - INFO - URL检查完成
+2026-09-20 07:33:51,326 - INFO - 开始检查URL
+2026-09-20 07:33:51,529 - INFO - URL在白名单中: 八大戏剧, https://smt.858.qzz.io/Smart.php?id=badadrama
+2026-09-20 07:33:51,529 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:51,580 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:51,681 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:51,720 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:51,791 - INFO - URL检查完成
+2026-09-20 07:33:51,806 - INFO - 开始检查URL
+2026-09-20 07:33:52,008 - INFO - URL在白名单中: 八大第一, https://smt.858.qzz.io/Smart.php?id=badafirst
+2026-09-20 07:33:52,008 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:52,060 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:52,160 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:52,199 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:52,270 - INFO - URL检查完成
+2026-09-20 07:33:52,284 - INFO - 开始检查URL
+2026-09-20 07:33:52,486 - INFO - URL在白名单中: 八大综合, https://smt.858.qzz.io/Smart.php?id=badazhonghe
+2026-09-20 07:33:52,486 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:52,537 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:52,638 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:52,677 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:52,749 - INFO - URL检查完成
+2026-09-20 07:33:52,763 - INFO - 开始检查URL
+2026-09-20 07:33:52,966 - INFO - URL在白名单中: 八大精彩, https://tv.iill.top/litv/4gtv-4gtv034
+2026-09-20 07:33:52,966 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:53,017 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:53,118 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:53,158 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:53,230 - INFO - URL检查完成
+2026-09-20 07:33:53,244 - INFO - 开始检查URL
+2026-09-20 07:33:53,445 - INFO - URL在白名单中: 寰宇新闻, https://smt.858.qzz.io/Smart.php?id=huanyuxinwen_twn
+2026-09-20 07:33:53,445 - INFO - URL在白名单中: 寰宇新闻, http://stream-ali1.csslcloud.net/live/3cDvCNnbfd2yBiEhqihpaWdiHXNv7HnTEMRGcac8hxFeC1F9j6.flv
+2026-09-20 07:33:53,445 - INFO - URL在白名单中: 寰宇新闻, http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn14
+2026-09-20 07:33:53,445 - INFO - URL在白名单中: 寰宇新闻, http://222.128.55.152:9080/live/hy.m3u8
+2026-09-20 07:33:53,446 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:53,497 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:53,598 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:53,637 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:53,708 - INFO - URL检查完成
+2026-09-20 07:33:53,723 - INFO - 开始检查URL
+2026-09-20 07:33:53,925 - INFO - URL在白名单中: 寰宇财经, https://smt.858.qzz.io/Smart.php?id=huanyutaiwan_twn
+2026-09-20 07:33:53,926 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:53,977 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:54,077 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:54,118 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:54,192 - INFO - URL检查完成
+2026-09-20 07:33:54,206 - INFO - 开始检查URL
+2026-09-20 07:33:54,409 - INFO - URL在白名单中: 华视, https://tv.iill.top/litv/4gtv-4gtv041
+2026-09-20 07:33:54,409 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:54,460 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:54,561 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:54,601 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:54,672 - INFO - URL检查完成
+2026-09-20 07:33:54,687 - INFO - 开始检查URL
+2026-09-20 07:33:54,890 - INFO - URL在白名单中: 华视新闻, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv052
+2026-09-20 07:33:54,890 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:54,941 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:55,041 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:55,081 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:55,152 - INFO - URL检查完成
+2026-09-20 07:33:55,167 - INFO - 开始检查URL
+2026-09-20 07:33:55,368 - INFO - URL在白名单中: 年代新闻, https://smt.858.qzz.io/Smart.php?id=niandainews_twn
+2026-09-20 07:33:55,368 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:55,419 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:55,521 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:55,560 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:55,632 - INFO - URL检查完成
+2026-09-20 07:33:55,646 - INFO - 开始检查URL
+2026-09-20 07:33:55,850 - INFO - URL在白名单中: 非凡新闻, https://smt.858.qzz.io/Smart.php?id=feifannews_twn
+2026-09-20 07:33:55,851 - INFO - URL在白名单中: 非凡新闻, http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv010
+2026-09-20 07:33:55,851 - INFO - URL在白名单中: 非凡新闻, http://stream-ali1.csslcloud.net/live/7J22AJV6h8f24jkmoa5ahSzuCYjE5fVpCYYMEt9bfd2yHn4XG7.flv
+2026-09-20 07:33:55,851 - INFO - URL在白名单中: 非凡新闻, http://xtvantsc.xyz/litv_ts.php?id=4gtv-4gtv010
+2026-09-20 07:33:55,851 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:55,902 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:56,003 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:56,042 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:56,114 - INFO - URL检查完成
+2026-09-20 07:33:56,129 - INFO - 开始检查URL
+2026-09-20 07:33:56,333 - INFO - URL在白名单中: 大爱电视, https://tv.iill.top/4gtv/209
+2026-09-20 07:33:56,333 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:56,384 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:56,485 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:56,524 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:56,595 - INFO - URL检查完成
+2026-09-20 07:33:56,610 - INFO - 开始检查URL
+2026-09-20 07:33:56,812 - INFO - URL在白名单中: 人间卫视, https://tv.iill.top/4gtv/210
+2026-09-20 07:33:56,812 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:56,864 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:56,965 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:57,005 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:57,077 - INFO - URL检查完成
+2026-09-20 07:33:57,092 - INFO - 开始检查URL
+2026-09-20 07:33:57,293 - INFO - URL在白名单中: 纬来综合, https://smt.858.qzz.io/Smart.php?id=videolandzonghe
+2026-09-20 07:33:57,294 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:57,346 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:57,447 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:57,487 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:57,559 - INFO - URL检查完成
+2026-09-20 07:33:57,573 - INFO - 开始检查URL
+2026-09-20 07:33:57,774 - INFO - URL在白名单中: 纬来电影, https://smt.858.qzz.io/Smart.php?id=videolandmovie
+2026-09-20 07:33:57,774 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:57,826 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:57,929 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:57,969 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:58,040 - INFO - URL检查完成
+2026-09-20 07:33:58,055 - INFO - 开始检查URL
+2026-09-20 07:33:58,256 - INFO - URL在白名单中: 纬来日本, https://smt.858.qzz.io/Smart.php?id=videolandjapan
+2026-09-20 07:33:58,257 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:58,309 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:58,411 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:58,450 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:58,524 - INFO - URL检查完成
+2026-09-20 07:33:58,538 - INFO - 开始检查URL
+2026-09-20 07:33:58,741 - INFO - URL在白名单中: 纬来体育, https://smt.858.qzz.io/Smart.php?id=videolandsport
+2026-09-20 07:33:58,741 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:58,793 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:58,892 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:58,933 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:59,005 - INFO - URL检查完成
+2026-09-20 07:33:59,019 - INFO - 开始检查URL
+2026-09-20 07:33:59,221 - INFO - URL在白名单中: 靖天日本台, https://tv.iill.top/litv/4gtv-4gtv047
+2026-09-20 07:33:59,222 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:59,273 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:59,373 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:59,412 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:59,484 - INFO - URL检查完成
+2026-09-20 07:33:59,498 - INFO - 开始检查URL
+2026-09-20 07:33:59,702 - INFO - URL在白名单中: 靖天卡通台, https://tv.iill.top/litv/4gtv-4gtv044
+2026-09-20 07:33:59,702 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:33:59,754 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:33:59,853 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:33:59,893 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:33:59,965 - INFO - URL检查完成
+2026-09-20 07:33:59,980 - INFO - 开始检查URL
+2026-09-20 07:34:00,185 - INFO - URL在白名单中: 靖洋卡通 Nice Bingo, https://tv.iill.top/litv/4gtv-4gtv057
+2026-09-20 07:34:00,186 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:00,237 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:00,338 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:00,378 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:00,450 - INFO - URL检查完成
+2026-09-20 07:34:00,465 - INFO - 开始检查URL
+2026-09-20 07:34:00,669 - INFO - URL在白名单中: 龙华偶像, https://tv.iill.top/litv/litv-longturn12
+2026-09-20 07:34:00,669 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:00,721 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:00,822 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:00,862 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:00,933 - INFO - URL检查完成
+2026-09-20 07:34:00,948 - INFO - 开始检查URL
+2026-09-20 07:34:01,155 - INFO - URL在白名单中: 龙华戏剧, https://tv.iill.top/litv/litv-longturn18
+2026-09-20 07:34:01,155 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:01,206 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:01,308 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:01,348 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:01,419 - INFO - URL检查完成
+2026-09-20 07:34:01,434 - INFO - 开始检查URL
+2026-09-20 07:34:01,638 - INFO - URL在白名单中: 龙华经典, https://tv.iill.top/litv/litv-longturn21
+2026-09-20 07:34:01,638 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:01,690 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:01,791 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:01,830 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:01,901 - INFO - URL检查完成
+2026-09-20 07:34:01,916 - INFO - 开始检查URL
+2026-09-20 07:34:02,122 - INFO - URL在白名单中: 龙华电影, https://tv.iill.top/litv/litv-longturn03
+2026-09-20 07:34:02,122 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:02,174 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:02,276 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:02,316 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:02,387 - INFO - URL检查完成
+2026-09-20 07:34:02,402 - INFO - 开始检查URL
+2026-09-20 07:34:02,604 - INFO - URL在白名单中: 龙华日韩, https://tv.iill.top/litv/litv-longturn11
+2026-09-20 07:34:02,604 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:02,657 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:02,757 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:02,798 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:02,869 - INFO - URL检查完成
+2026-09-20 07:34:02,883 - INFO - 开始检查URL
+2026-09-20 07:34:03,088 - INFO - URL在白名单中: 龙华卡通, https://tv.iill.top/litv/litv-longturn01
+2026-09-20 07:34:03,089 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:03,140 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:03,240 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:03,280 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:03,352 - INFO - URL检查完成
+2026-09-20 07:34:03,366 - INFO - 开始检查URL
+2026-09-20 07:34:03,570 - INFO - URL在白名单中: 探索亚洲, https://smt.858.qzz.io/Smart.php?id=discoverytwn_twn
+2026-09-20 07:34:03,571 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:03,623 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:03,723 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:03,763 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:03,834 - INFO - URL检查完成
+2026-09-20 07:34:03,848 - INFO - 开始检查URL
+2026-09-20 07:34:04,052 - INFO - URL在白名单中: 博斯网球, https://tv.iill.top/litv/litv-longturn09
+2026-09-20 07:34:04,052 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:04,104 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:04,204 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:04,244 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:04,315 - INFO - URL检查完成
+2026-09-20 07:34:04,330 - INFO - 开始检查URL
+2026-09-20 07:34:04,532 - INFO - URL在黑名单中: 博斯高球一, https://tv.iill.top/litv/litv-longturn05
+2026-09-20 07:34:04,532 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:04,583 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:04,685 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:04,725 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:04,797 - INFO - URL检查完成
+2026-09-20 07:34:04,812 - INFO - 开始检查URL
+2026-09-20 07:34:05,013 - INFO - URL在白名单中: 美亚电影, https://smt.858.qzz.io/Smart.php?id=meiyamovie_twn
+2026-09-20 07:34:05,013 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:05,064 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:05,168 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:05,207 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:05,279 - INFO - URL检查完成
+2026-09-20 07:34:05,294 - INFO - 开始检查URL
+2026-09-20 07:34:05,498 - INFO - URL在黑名单中: MTV Live, https://tv.iill.top/4gtv/213
+2026-09-20 07:34:05,498 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:05,549 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:05,651 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:05,691 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:05,763 - INFO - URL检查完成
+2026-09-20 07:34:05,778 - INFO - 开始检查URL
+2026-09-20 07:34:05,983 - INFO - URL在白名单中: GINX Esports TV, https://tv.iill.top/litv/4gtv-4gtv053
+2026-09-20 07:34:05,984 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:06,035 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:06,137 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:06,177 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:06,249 - INFO - URL检查完成
+2026-09-20 07:34:06,263 - INFO - 开始检查URL
+2026-09-20 07:34:06,470 - INFO - URL在白名单中: 时尚运动X, https://tv.iill.top/4gtv/277
+2026-09-20 07:34:06,470 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:06,522 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:06,624 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:06,664 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:06,736 - INFO - URL检查完成
+2026-09-20 07:34:06,751 - INFO - 开始检查URL
+2026-09-20 07:34:06,954 - INFO - URL在黑名单中: AMC最爱电影, https://tv.iill.top/litv/4gtv-4gtv017
+2026-09-20 07:34:06,954 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:07,006 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:07,111 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:07,151 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:07,223 - INFO - URL检查完成
+2026-09-20 07:34:07,238 - INFO - 开始检查URL
+2026-09-20 07:34:07,441 - INFO - URL在白名单中: 凤凰卫视中文台, http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
+2026-09-20 07:34:07,441 - INFO - URL在黑名单中: 凤凰卫视中文台, https://migu.188766.xyz/?migutoken=dafea9a89f8759bcd04edfafc63b435d&id=fhzw&pp=1
+2026-09-20 07:34:07,441 - INFO - URL在黑名单中: 凤凰卫视中文台, https://migu.188766.xyz/?migutoken=bf161ac290d85d4778ebc36e83daeb42&id=phoenixtv_hd&type=dy
+2026-09-20 07:34:07,441 - INFO - URL在黑名单中: 凤凰卫视中文台, https://mgev.188766.xyz/?migutoken=3267cd6151f58a4919b93c0e63f69337&id=fhzw&pp=1
+2026-09-20 07:34:07,441 - INFO - URL在黑名单中: 凤凰卫视中文台, https://migu.188766.xyz/?migutoken=866341f35ab82e48dea654d12b6e5881&id=hk_fhzw&type=dy
+2026-09-20 07:34:07,441 - INFO - URL在白名单中: 凤凰卫视中文台, http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
+2026-09-20 07:34:07,441 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:07,492 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:07,595 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:07,636 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:07,708 - INFO - URL检查完成
+2026-09-20 07:34:07,723 - INFO - 开始检查URL
+2026-09-20 07:34:07,930 - INFO - URL在白名单中: 凤凰卫视资讯台, http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
+2026-09-20 07:34:07,931 - INFO - URL在黑名单中: 凤凰卫视资讯台, https://migu.188766.xyz/?migutoken=9b308c31f6f659e7ee7bc6bb4b3cfff9&id=fhzx&pp=1
+2026-09-20 07:34:07,931 - INFO - URL在黑名单中: 凤凰卫视资讯台, https://migu.188766.xyz/?migutoken=5a850debc67f6090a63d625e8a4b9764&id=phoenixinfo_hd&type=dy
+2026-09-20 07:34:07,931 - INFO - URL在黑名单中: 凤凰卫视资讯台, https://mgev.188766.xyz/?migutoken=85fccb710060e734ed36c45940532bff&id=fhzx&pp=1
+2026-09-20 07:34:07,931 - INFO - URL在黑名单中: 凤凰卫视资讯台, https://migu.188766.xyz/?migutoken=902dd46104f7da4e91108d392b281213&id=hk_fhzx&type=dy
+2026-09-20 07:34:07,931 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:07,985 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:08,089 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:08,130 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:08,204 - INFO - URL检查完成
+2026-09-20 07:34:08,219 - INFO - 开始检查URL
+2026-09-20 07:34:08,429 - INFO - URL在白名单中: 凤凰卫视香港台, http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
+2026-09-20 07:34:08,429 - INFO - URL在黑名单中: 凤凰卫视香港台, https://migu.188766.xyz/?migutoken=407dc0f7365332e4297cc4be4e80ab8b&id=fhhk&pp=1
+2026-09-20 07:34:08,429 - INFO - URL在黑名单中: 凤凰卫视香港台, https://migu.188766.xyz/?migutoken=8ea86101844c05d6675be46a790325aa&id=hkphoenix_twn&type=dy
+2026-09-20 07:34:08,429 - INFO - URL在黑名单中: 凤凰卫视香港台, https://mgev.188766.xyz/?migutoken=0c151f885334200f0142117a9e167f8c&id=fhhk&pp=1
+2026-09-20 07:34:08,430 - INFO - URL在黑名单中: 凤凰卫视香港台, https://migu.188766.xyz/?migutoken=d88da94088e229852fad7e3b27e37c04&id=hk_fhhk&type=dy
+2026-09-20 07:34:08,430 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:08,482 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:08,585 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:08,625 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:08,698 - INFO - URL检查完成
+2026-09-20 07:34:08,713 - INFO - 开始检查URL
+2026-09-20 07:34:08,919 - INFO - URL在黑名单中: 翡翠台, https://migu.188766.xyz/?migutoken=6ff40ca6e9a458a448fdb09a33919405&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
+2026-09-20 07:34:08,920 - INFO - URL在黑名单中: 翡翠台, https://migu.188766.xyz/?migutoken=af18bef2634b43fa854485eefdd5a91d&id=jade_twn&type=dy
+2026-09-20 07:34:08,920 - INFO - URL在黑名单中: 翡翠台, https://migu.188766.xyz/?migutoken=04145df78ef83eef5b830ef166351e04&id=hk_fct&type=dy
+2026-09-20 07:34:08,920 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:08,972 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:09,074 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:09,114 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:09,186 - INFO - URL检查完成
+2026-09-20 07:34:09,200 - INFO - 开始检查URL
+2026-09-20 07:34:09,405 - INFO - URL在黑名单中: TVB明珠台, https://migu.188766.xyz/?migutoken=2cd4c549faf4bb0b9d50f4547a25aa13&id=pearl_twn&type=dy
+2026-09-20 07:34:09,405 - INFO - URL在黑名单中: TVB明珠台, https://migu.188766.xyz/?migutoken=bc0f802ab684ad9377fe77a79c51de79&id=hk_mzt&type=dy
+2026-09-20 07:34:09,405 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:09,458 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:09,561 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:09,602 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:09,674 - INFO - URL检查完成
+2026-09-20 07:34:09,689 - INFO - 开始检查URL
+2026-09-20 07:34:09,891 - INFO - URL在黑名单中: TVB星河, https://migu.188766.xyz/?migutoken=fa5509d3453723e42e49f4187e199f7c&id=hk_tvbxh&type=dy
+2026-09-20 07:34:09,891 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:09,942 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:10,044 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:10,085 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:10,157 - INFO - URL检查完成
+2026-09-20 07:34:10,172 - INFO - 开始检查URL
+2026-09-20 07:34:10,379 - INFO - URL在白名单中: TVB功夫台, https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
+2026-09-20 07:34:10,379 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:10,431 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:10,539 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:10,580 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:10,651 - INFO - URL检查完成
+2026-09-20 07:34:10,666 - INFO - 开始检查URL
+2026-09-20 07:34:10,871 - INFO - URL在白名单中: RTHK33, https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+2026-09-20 07:34:10,871 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:10,923 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:11,028 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:11,069 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:11,142 - INFO - URL检查完成
+2026-09-20 07:34:11,157 - INFO - 开始检查URL
+2026-09-20 07:34:11,360 - INFO - URL在白名单中: RTHK34, https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+2026-09-20 07:34:11,361 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:11,412 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:11,516 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:11,556 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:11,628 - INFO - URL检查完成
+2026-09-20 07:34:11,643 - INFO - 开始检查URL
+2026-09-20 07:34:11,850 - INFO - URL在白名单中: RTHK35, https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+2026-09-20 07:34:11,850 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:11,901 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:12,004 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:12,045 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:12,119 - INFO - URL检查完成
+2026-09-20 07:34:12,134 - INFO - 开始检查URL
+2026-09-20 07:34:12,341 - INFO - URL在黑名单中: HOY77, https://migu.188766.xyz/?migutoken=9cd32ab08eaf1f9ab6155d8342a6c0b3&id=hk_hoy&type=dy
+2026-09-20 07:34:12,341 - INFO - 去重文件: blacklist.txt
+2026-09-20 07:34:12,395 - INFO - 去重文件: whitelist.txt
+2026-09-20 07:34:12,504 - INFO - 删除空行: blacklist.txt
+2026-09-20 07:34:12,545 - INFO - 删除空行: whitelist.txt
+2026-09-20 07:34:12,620 - INFO - URL检查完成
+2026-09-20 07:34:12,636 - INFO - 频道URL更新完成
+2026-09-20 07:34:12,636 - INFO - 更新M3U和TXT文件完成
